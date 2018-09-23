@@ -4,21 +4,21 @@
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 % as needed, comment the following lines by prefixing the percent sign (%) at the start of the line
 
-\Drafttrue % comment to disable putting some guides in the draft form of the document
+%\Drafttrue % comment to disable putting some guides in the draft form of the document
 
 % \PutLineNumberstrue % comment to disable line numbers and certain  preparation guides 
 
 \Figurestrue % comment to disable the rendering figures
 
-\GroupIDtrue % comment to disable group ID
+%\GroupIDtrue % comment to disable group ID
 
-\ResultDiscusstrue % comment to disable results and discussions
+%\ResultDiscusstrue % comment to disable results and discussions
 
-\Conctrue % comment to disable conclusions
+%\Conctrue % comment to disable conclusions
 
-\Finishedtrue % comment to disable manuscript for final defense or binding/submission
+%\Finishedtrue % comment to disable manuscript for final defense or binding/submission
 
-\ApprovalSheetSignedtrue % comment to disable inclusion of the signed approval sheet
+%\ApprovalSheetSignedtrue % comment to disable inclusion of the signed approval sheet
 
 % \Gradtrue % comment to disable graduate school format
 
@@ -26,9 +26,9 @@
 
 % \PubListtrue % comment to disable publication list
 
-\Vitatrue % comment to disable author(s) vita
+%\Vitatrue % comment to disable author(s) vita
 
-\Indextrue % comment to disable index 
+%\Indextrue % comment to disable index 
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 % document IDs
@@ -52,8 +52,8 @@
 %\newcommand{\degreeAbbrv}{MS-ECE}
 %\newcommand{\degreeAbbrv}{PhD-ECE}
 
-\newcommand{\documentAdviserTitle}{Dr.} 
-\newcommand{\documentAdviser}{Francisco D. Baltasar}
+\newcommand{\documentAdviserTitle}{Engr.} 
+\newcommand{\documentAdviser}{Maria Antonette C. Roque}
 
 \newcommand{\examinerChairTitle}{Dr.} 
 \newcommand{\examinerChair}{Amado Z. Hernandez}
@@ -81,24 +81,25 @@
 
 \newcommand{\groupID}{ESG-04} % group ID is for undergraduates as of this formatting
 
-\newcommand{\numberOfAuthors}{5} % adapt the number of names below accordingly and sort the sunames in alphabetically ascending manner, like in the following example
+\newcommand{\numberOfAuthors}{4} % adapt the number of names below accordingly and sort the sunames in alphabetically ascending manner, like in the following example
 
-\defineAuthor{surname1}{dela Cruz}
-\defineAuthor{firstname1}{Juan Z.}
+\defineAuthor{surname1}{Guevarra}
+\defineAuthor{firstname1}{Alnair M.}
 
-\defineAuthor{surname2}{Franco}
-\defineAuthor{firstname2}{Nat Y.}
+\defineAuthor{surname2}{Hernandez}
+\defineAuthor{firstname2}{Roy Stephen A.}
 
-\defineAuthor{surname3}{Garcia}
-\defineAuthor{firstname3}{Sebastian X.}
+\defineAuthor{surname3}{Lagman}
+\defineAuthor{firstname3}{Maria Josefa M.}
 
-\defineAuthor{surname4}{Martinez}
-\defineAuthor{firstname4}{Isabella W.}
+\defineAuthor{surname4}{Villanueva}
+\defineAuthor{firstname4}{Andre [insert MI]}
 
 \defineAuthor{surname5}{Rianzares}
 \defineAuthor{firstname5}{Max V.}
 
-\newcommand{\documentTitle}{Electrical, Electromagnetic, and Optical Characterization of the InP/InGaAs~Alloy~System} % put tilde (~) between words to indicate non-breaking adjacent words
+\newcommand{\documentTitle}{INSERT TITLE HERE
+} % put tilde (~) between words to indicate non-breaking adjacent words
 
 \newcommand{\keywords}{alloy system, characterization, InP, InGaAs}
 
@@ -132,17 +133,17 @@
 \includeonly{% just comment those portions that you do not want to be included in the parsing
 introduction,
 literature_review,
-theoretical_considerations,
-design_considerations,
-methodology,
-results_and_discussions,
-conclusions,
-answers_to_questions,
-revisions_to_the_proposal,
-revisions_to_the_final,
-usage_examples,
-publication,
-vita,
+%theoretical_considerations,
+%design_considerations,
+%methodology,
+%results_and_discussions,
+%conclusions,
+%answers_to_questions,
+%revisions_to_the_proposal,
+%revisions_to_the_final,
+%usage_examples,
+%publication,
+%vita,
 }
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
@@ -167,6 +168,7 @@ vita,
 \cleardoublepage
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\begin{comment}
 \phantomsection
 \addcontentsline{toc}{chapter}{Abbreviations}
 {
@@ -174,8 +176,9 @@ vita,
 	\thispagestyle{plain}
 }	
 \cleardoublepage
-
+\end{comment}
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\begin{comment}
 \phantomsection
 \addcontentsline{toc}{chapter}{Notation}
 {
@@ -187,8 +190,9 @@ vita,
 	\thispagestyle{plain}
 }
 \cleardoublepage
-
+\end{comment}
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\begin{comment}
 \phantomsection
 \addcontentsline{toc}{chapter}{Glossary}
 {
@@ -196,7 +200,7 @@ vita,
 	\thispagestyle{plain}
 }
 \cleardoublepage
-
+\end{comment}
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 \lstlistoflistings
 \cleardoublepage
@@ -226,6 +230,7 @@ vita,
 \cleardoublepage
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\begin{comment}
 \chapter{Theoretical Considerations}
 %\chaptermark{Theoretical Considerations} % uncomment this and put a shorter version of the chapter title for the TOC and chapter markings (i.e., header or footer)
 \label{ch:theorycon}
@@ -236,8 +241,9 @@ vita,
 \include{theoretical_considerations}
 \stopcontents[chapters]
 \cleardoublepage
-
+\end{comment}
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\begin{comment}
 \chapter{Design Considerations} 
 \label{ch:designcon} 
 \startcontents[chapters]
@@ -247,8 +253,9 @@ vita,
 \include{design_considerations}
 \stopcontents[chapters]
 \cleardoublepage
-
+\end{comment}
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\begin{comment}
 \chapter{Methodology} 
 \label{ch:method} 
 \startcontents[chapters]
@@ -258,7 +265,7 @@ vita,
 \include{methodology}
 \stopcontents[chapters]
 \cleardoublepage
-
+\end{comment}
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 \ifResultDiscuss 
 	\chapter{Results and Discussions} 
@@ -288,21 +295,39 @@ vita,
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 \renewcommand{\UrlFont}{\normalfont}
 %\bibliographystyle{IEEEtr} % for IEEE referencing format
-\bibliographystyle{apalike} % for APA referencing format
+\bibliographystyle{apacite} % for APA referencing format
 \begin{SingleSpace}
-  {\small \bibliography{references}}
-	\vfill
-	\LaTeX-comment this and the following texts after you have implemented them. See the following references for helpful guides for the bibliography and script editing in general.  Note that the links might be unavailable, but the names can be searched in the Web.
-		
-	\begin{enumerate}
-		\item IEEE Citation Reference: \url{www.ieee.org/documents/ieeecitationref.pdf}
-		
-		\item IEEE Editorial Style manual: \url{www.ieee.org/documents/style_manual.pdf} 
-		
-		\item IEEE Abbreviations for Transactions, Journals, Letters, and Magazines: \url{www.ieee.org/documents/trans_journal_names.pdf}
-	\end{enumerate}
+ {\small \bibliography{references}}
+ \begin{comment}
+\cite{barsukov2013battery}
+\cite{bouzid2017boosted}
+\cite{corves2016new}
+\cite{jashnani2013sizing}
+\cite{kalyani2018energy}
+\cite{li2014circuits}
+\cite{marques2017advanced}
+\cite{mostafa2017wireless}
+\cite{muharam2017design}
+\cite{rajendran2018development}
+\cite{shaheed2015flying}
+\cite{shiau2009design}
+\cite{shiau2009design}
+\cite{sydorenko2012flying}
+\cite{wei2017system}
+\cite{zhang2018experimental}
+\end{comment}
+	%\vfill
+	%\LaTeX-comment this and the following texts after you have implemented them. See the following references for helpful guides for the bibliography and script editing in general.  Note that the links might be unavailable, but the names can be searched in the Web. 	
 	
-\noindent Also in your BibTeX file, enclose letters or words that should all be in uppercase in curly brackets. Example: {IBM}, {P}hilippines, e{X}tensible {M}arkup {L}anguage.
+	%\begin{enumerate}
+	%	\item IEEE Citation Reference: \url{www.ieee.org/documents/ieeecitationref.pdf}
+		
+	%	\item IEEE Editorial Style manual: \url{www.ieee.org/documents/style_manual.pdf} 
+		
+	%	\item IEEE Abbreviations for Transactions, Journals, Letters, and Magazines: \url{www.ieee.org/documents/trans_journal_names.pdf}
+	%\end{enumerate}
+	
+%\noindent Also in your BibTeX file, enclose letters or words that should all be in uppercase in curly brackets. Example: {IBM}, {P}hilippines, e{X}tensible {M}arkup {L}anguage.
 
 \end{SingleSpace}
 \vfill
@@ -319,48 +344,48 @@ Produced: \usdate\today, \currenttime \\
 \appto\appendix{\renewcommand\thechapter{\AlphAlph{\value{chapter}}}} % for increasing appendix chapters beyond Z, i.e. AA, AB, etc.
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-\chapter{Student Research Ethics Clearance}
-\includepdf[pages={1},%
-offset=3.5mm -10mm,%
-scale=0.75,%
-pagecommand={},]
-{./figure/STUDENT_RESEARCH_ETHICS_CLEARANCE.pdf}
-\cleardoublepage
+%\chapter{Student Research Ethics Clearance}
+%\includepdf[pages={1},%
+%offset=3.5mm -10mm,%
+%scale=0.75,%
+%pagecommand={},]
+%{./figure/STUDENT_RESEARCH_ETHICS_CLEARANCE.pdf}
+%\cleardoublepage
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-\chapter{Answers to Questions to this \documentType}
+%\chapter{Answers to Questions to this \documentType}
 %\startcontents[chapters]
 %\Mprintcontents 
-\include{answers_to_questions}
+%\include{answers_to_questions}
 %\stopcontents[chapters]
-\cleardoublepage
+%\cleardoublepage
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-\chapter{Revisions to the Proposal} 
-\label{ch:revisions_to_the_proposal}
+%\chapter{Revisions to the Proposal} 
+%\label{ch:revisions_to_the_proposal}
 %\startcontents[chapters]
 %\Mprintcontents  
-\include{revisions_to_the_proposal}
+%\include{revisions_to_the_proposal}
 %\stopcontents[chapters]
-\cleardoublepage
+%\cleardoublepage
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-\chapter{Revisions to the Final} 
-\label{ch:revisions_to_the_final}
+%\chapter{Revisions to the Final} 
+%\label{ch:revisions_to_the_final}
 %\startcontents[chapters]
 %\Mprintcontents  
-\include{revisions_to_the_final}
+%\include{revisions_to_the_final}
 %\stopcontents[chapters]
-\cleardoublepage
+%\cleardoublepage
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-\chapter{Usage Examples} 
-\label{ch:usage_examples}
+%\chapter{Usage Examples} 
+%\label{ch:usage_examples}
 %\startcontents[chapters]
 %\Mprintcontents  
-\include{usage_examples}
+%\include{usage_examples}
 %\stopcontents[chapters]
-\cleardoublepage
+%\cleardoublepage
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 \ifPubList

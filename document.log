@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (MiKTeX 2.9.6350 64-bit) (preloaded format=pdflatex 2017.8.3)  23 SEP 2018 15:32
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (MiKTeX 2.9.6350 64-bit) (preloaded format=pdflatex 2017.8.3)  23 SEP 2018 16:23
 entering extended mode
 **./document.tex
 (document.tex
@@ -1001,6 +1001,15 @@ Package: algorithmic 2009/08/24 v0.1 Document Style `algorithmic'
 \ALC@tlm=\skip270
 \algorithmicindent=\skip271
 )
+("C:\Program Files\MiKTeX 2.9\tex\latex\apacite\apacite.sty"
+Package: apacite 2013/07/21 v6.03 APA citation
+\c@BibCnt=\count312
+\bibleftmargin=\skip272
+\bibindent=\skip273
+\bibparsep=\skip274
+\bibitemsep=\skip275
+\biblabelsep=\skip276
+)
 ("C:\Program Files\MiKTeX 2.9\tex\latex\pgf\frontendlayer\tikz.sty"
 ("C:\Program Files\MiKTeX 2.9\tex\latex\pgf\basiclayer\pgf.sty"
 ("C:\Program Files\MiKTeX 2.9\tex\latex\pgf\utilities\pgfrcs.sty"
@@ -1043,10 +1052,10 @@ x"
 \pgf@yc=\dimen268
 \w@pgf@writea=\write5
 \r@pgf@reada=\read2
-\c@pgf@counta=\count312
-\c@pgf@countb=\count313
-\c@pgf@countc=\count314
-\c@pgf@countd=\count315
+\c@pgf@counta=\count313
+\c@pgf@countb=\count314
+\c@pgf@countc=\count315
+\c@pgf@countd=\count316
 \t@pgf@toka=\toks49
 \t@pgf@tokb=\toks50
 \t@pgf@tokc=\toks51
@@ -1065,8 +1074,8 @@ File: pgfsys-common-pdf.def 2013/10/10  (rcs-revision 1.13)
 ("C:\Program Files\MiKTeX 2.9\tex\generic\pgf\systemlayer\pgfsyssoftpath.code.t
 ex"
 File: pgfsyssoftpath.code.tex 2013/09/09  (rcs-revision 1.9)
-\pgfsyssoftpath@smallbuffer@items=\count316
-\pgfsyssoftpath@bigbuffer@items=\count317
+\pgfsyssoftpath@smallbuffer@items=\count317
+\pgfsyssoftpath@bigbuffer@items=\count318
 )
 ("C:\Program Files\MiKTeX 2.9\tex\generic\pgf\systemlayer\pgfsysprotocol.code.t
 ex"
@@ -1078,7 +1087,7 @@ Package: pgfcore 2010/04/11 v3.0.1a (rcs-revision 1.7)
 ("C:\Program Files\MiKTeX 2.9\tex\generic\pgf\math\pgfmathutil.code.tex")
 ("C:\Program Files\MiKTeX 2.9\tex\generic\pgf\math\pgfmathparser.code.tex"
 \pgfmath@dimen=\dimen269
-\pgfmath@count=\count318
+\pgfmath@count=\count319
 \pgfmath@box=\box68
 \pgfmath@toks=\toks52
 \pgfmath@stack@operand=\toks53
@@ -1102,7 +1111,7 @@ ex")
 ("C:\Program Files\MiKTeX 2.9\tex\generic\pgf\math\pgfmathfunctions.integerarit
 hmetics.code.tex")))
 ("C:\Program Files\MiKTeX 2.9\tex\generic\pgf\math\pgfmathfloat.code.tex"
-\c@pgfmathroundto@lastzeros=\count319
+\c@pgfmathroundto@lastzeros=\count320
 ))
 ("C:\Program Files\MiKTeX 2.9\tex\generic\pgf\basiclayer\pgfcorepoints.code.tex
 "
@@ -1140,7 +1149,7 @@ File: pgfcorescopes.code.tex 2015/05/08  (rcs-revision 1.46)
 \pgfpic=\box69
 \pgf@hbox=\box70
 \pgf@layerbox@main=\box71
-\pgf@picture@serial@count=\count320
+\pgf@picture@serial@count=\count321
 )
 ("C:\Program Files\MiKTeX 2.9\tex\generic\pgf\basiclayer\pgfcoregraphicstate.co
 de.tex"
@@ -1173,7 +1182,7 @@ File: pgfcorearrows.code.tex 2015/05/14  (rcs-revision 1.43)
 ("C:\Program Files\MiKTeX 2.9\tex\generic\pgf\basiclayer\pgfcoreshade.code.tex"
 File: pgfcoreshade.code.tex 2013/07/15  (rcs-revision 1.15)
 \pgf@max=\dimen293
-\pgf@sys@shading@range@num=\count321
+\pgf@sys@shading@range@num=\count322
 ) ("C:\Program Files\MiKTeX 2.9\tex\generic\pgf\basiclayer\pgfcoreimage.code.te
 x"
 File: pgfcoreimage.code.tex 2013/07/15  (rcs-revision 1.18)
@@ -1230,7 +1239,7 @@ Package: tikz 2015/08/07 v3.0.1a (rcs-revision 1.151)
 ("C:\Program Files\MiKTeX 2.9\tex\generic\pgf\libraries\pgflibraryplothandlers.
 code.tex"
 File: pgflibraryplothandlers.code.tex 2013/08/31 v3.0.1a (rcs-revision 1.20)
-\pgf@plot@mark@count=\count322
+\pgf@plot@mark@count=\count323
 \pgfplotmarksize=\dimen298
 )
 \tikz@lastx=\dimen299
@@ -1243,18 +1252,18 @@ File: pgflibraryplothandlers.code.tex 2013/08/31 v3.0.1a (rcs-revision 1.20)
 \tikz@figbox@bg=\box75
 \tikz@tempbox=\box76
 \tikz@tempbox@bg=\box77
-\tikztreelevel=\count323
-\tikznumberofchildren=\count324
-\tikznumberofcurrentchild=\count325
-\tikz@fig@count=\count326
+\tikztreelevel=\count324
+\tikznumberofchildren=\count325
+\tikznumberofcurrentchild=\count326
+\tikz@fig@count=\count327
 
 ("C:\Program Files\MiKTeX 2.9\tex\generic\pgf\modules\pgfmodulematrix.code.tex"
 File: pgfmodulematrix.code.tex 2013/09/17  (rcs-revision 1.8)
-\pgfmatrixcurrentrow=\count327
-\pgfmatrixcurrentcolumn=\count328
-\pgf@matrix@numberofcolumns=\count329
+\pgfmatrixcurrentrow=\count328
+\pgfmatrixcurrentcolumn=\count329
+\pgf@matrix@numberofcolumns=\count330
 )
-\tikz@expandcount=\count330
+\tikz@expandcount=\count331
 
 ("C:\Program Files\MiKTeX 2.9\tex\generic\pgf\frontendlayer\tikz\libraries\tikz
 librarytopaths.code.tex"
@@ -1264,33 +1273,33 @@ File: tikzlibrarytopaths.code.tex 2008/06/17 v3.0.1a (rcs-revision 1.2)
 Package: alphalph 2016/05/16 v2.5 Convert numbers to letters (HO)
 )
 ("C:\Program Files\MiKTeX 2.9\tex\latex\listings\listings.sty"
-\lst@mode=\count331
+\lst@mode=\count332
 \lst@gtempboxa=\box78
 \lst@token=\toks57
-\lst@length=\count332
+\lst@length=\count333
 \lst@currlwidth=\dimen305
-\lst@column=\count333
-\lst@pos=\count334
+\lst@column=\count334
+\lst@pos=\count335
 \lst@lostspace=\dimen306
 \lst@width=\dimen307
-\lst@newlines=\count335
-\lst@lineno=\count336
+\lst@newlines=\count336
+\lst@lineno=\count337
 \lst@maxwidth=\dimen308
 
 ("C:\Program Files\MiKTeX 2.9\tex\latex\listings\lstmisc.sty"
 File: lstmisc.sty 2015/06/04 1.6 (Carsten Heinz)
-\c@lstnumber=\count337
-\lst@skipnumbers=\count338
+\c@lstnumber=\count338
+\lst@skipnumbers=\count339
 \lst@framebox=\box79
 )
 ("C:\Program Files\MiKTeX 2.9\tex\latex\listings\listings.cfg"
 File: listings.cfg 2015/06/04 1.6 listings configuration
 ))
 Package: listings 2015/06/04 1.6 (Carsten Heinz)
-\c@subfigure=\count339
-\cftbeforesubfigureskip=\skip272
-\cftsubfigureindent=\skip273
-\cftsubfigurenumwidth=\skip274
+\c@subfigure=\count340
+\cftbeforesubfigureskip=\skip277
+\cftsubfigureindent=\skip278
+\cftsubfigurenumwidth=\skip279
 )
 (format/postamble.ltx
 \document@idxfile=\write6
@@ -1309,7 +1318,7 @@ Package: xfor 2009/02/05 v1.05 (NLCT)
 )
 ("C:\Program Files\MiKTeX 2.9\tex\latex\substr\substr.sty"
 Package: substr 2009/10/20 v1.2 Handle substrings
-\c@su@anzahl=\count340
+\c@su@anzahl=\count341
 )
 ("C:\Program Files\MiKTeX 2.9\tex\latex\datatool\datatool-base.sty"
 Package: datatool-base 2018/04/16 v2.30 (NLCT)
@@ -1323,19 +1332,19 @@ Package: fp 1995/04/02
 `Fixed Point Package', Version 0.8, April 2, 1995 (C) Michael Mehlich
 ("C:\Program Files\MiKTeX 2.9\tex\latex\fp\defpattern.sty"
 Package: defpattern 1994/10/12
-\actioncount=\count341
+\actioncount=\count342
 )
 ("C:\Program Files\MiKTeX 2.9\tex\latex\fp\fp-basic.sty"
 Package: fp-basic 1996/05/13
-\FP@xs=\count342
-\FP@xia=\count343
-\FP@xib=\count344
-\FP@xfa=\count345
-\FP@xfb=\count346
-\FP@rega=\count347
-\FP@regb=\count348
-\FP@regs=\count349
-\FP@times=\count350
+\FP@xs=\count343
+\FP@xia=\count344
+\FP@xib=\count345
+\FP@xfa=\count346
+\FP@xfb=\count347
+\FP@rega=\count348
+\FP@regb=\count349
+\FP@regs=\count350
+\FP@times=\count351
 )
 ("C:\Program Files\MiKTeX 2.9\tex\latex\fp\fp-addons.sty"
 Package: fp-addons 1995/03/15
@@ -1354,7 +1363,7 @@ Package: fp-pas 1994/08/29
 )
 ("C:\Program Files\MiKTeX 2.9\tex\latex\fp\fp-random.sty"
 Package: fp-random 1995/02/23
-\FPseed=\count351
+\FPseed=\count352
 )
 ("C:\Program Files\MiKTeX 2.9\tex\latex\fp\fp-eqn.sty"
 Package: fp-eqn 1995/04/03
@@ -1366,31 +1375,31 @@ Package: fp-upn 1996/10/21
 Package: fp-eval 1995/04/03
 )))
 \@dtl@toks=\toks58
-\@dtl@tmpcount=\count352
-\dtl@tmplength=\skip275
-\dtl@sortresult=\count353
-\@dtl@numgrpsepcount=\count354
-\@dtl@datatype=\count355
-\dtl@codeA=\count356
-\dtl@codeB=\count357
-\@dtl@foreach@level=\count358
+\@dtl@tmpcount=\count353
+\dtl@tmplength=\skip280
+\dtl@sortresult=\count354
+\@dtl@numgrpsepcount=\count355
+\@dtl@datatype=\count356
+\dtl@codeA=\count357
+\dtl@codeB=\count358
+\@dtl@foreach@level=\count359
 )
-\dtlcolumnnum=\count359
-\dtlrownum=\count360
+\dtlcolumnnum=\count360
+\dtlrownum=\count361
 \@dtl@before=\toks59
 \@dtl@after=\toks60
 \@dtl@colhead=\toks61
 \dtlcurrentrow=\toks62
 \dtlbeforerow=\toks63
 \dtlafterrow=\toks64
-\dtlforeachlevel=\count361
-\c@DTLrowi=\count362
-\c@DTLrowii=\count363
-\c@DTLrowiii=\count364
-\c@DTLrow=\count365
-\dtl@rowi=\count366
-\dtl@rowii=\count367
-\dtl@rowiii=\count368
+\dtlforeachlevel=\count362
+\c@DTLrowi=\count363
+\c@DTLrowii=\count364
+\c@DTLrowiii=\count365
+\c@DTLrow=\count366
+\dtl@rowi=\count367
+\dtl@rowii=\count368
+\dtl@rowiii=\count369
 \@dtl@curi=\toks65
 \@dtl@previ=\toks66
 \@dtl@nexti=\toks67
@@ -1400,7 +1409,7 @@ Package: fp-eval 1995/04/03
 \@dtl@curiii=\toks71
 \@dtl@previii=\toks72
 \@dtl@nextiii=\toks73
-\@dtl@elements=\count369
+\@dtl@elements=\count370
 \@dtl@list=\toks74
 \@dtl@rowa=\toks75
 \@dtl@rowb=\toks76
@@ -1408,8 +1417,8 @@ Package: fp-eval 1995/04/03
 \@dtl@toksB=\toks78
 \@dtl@write=\write7
 \@dtl@read=\read3
-\dtl@entrycr=\count370
-\dtl@omitlines=\count371
+\dtl@entrycr=\count371
+\dtl@omitlines=\count372
 )
 ("C:\Program Files\MiKTeX 2.9\tex\latex\mfirstuc\mfirstuc.sty"
 Package: mfirstuc 2017/11/14 v2.06 (NLCT)
@@ -1422,32 +1431,32 @@ Package: afterpage 2014/10/28 v1.08 After-Page Package (DPC)
 \AP@partial=\box80
 \AP@footins=\box81
 )
-\c@DTLgidxChildCount=\count372
-\datagidxsymbolwidth=\skip276
-\datagidxlocationwidth=\skip277
+\c@DTLgidxChildCount=\count373
+\datagidxsymbolwidth=\skip281
+\datagidxlocationwidth=\skip282
 \dtldb@datagidx=\toks82
 \dtlkeys@datagidx=\toks83
-\dtlrows@datagidx=\count373
-\dtlcols@datagidx=\count374
-\datagidxindent=\skip278
-\datagidxnamewidth=\skip279
-\datagidxdescwidth=\skip280
-\datagidx@anchorcount=\count375
-\datagidx@count=\count376
-\datagidx@level=\count377
+\dtlrows@datagidx=\count374
+\dtlcols@datagidx=\count375
+\datagidxindent=\skip283
+\datagidxnamewidth=\skip284
+\datagidxdescwidth=\skip285
+\datagidx@anchorcount=\count376
+\datagidx@count=\count377
+\datagidx@level=\count378
 )
 \dtldb@abbreviation=\toks84
 \dtlkeys@abbreviation=\toks85
-\dtlrows@abbreviation=\count378
-\dtlcols@abbreviation=\count379
+\dtlrows@abbreviation=\count379
+\dtlcols@abbreviation=\count380
 \dtldb@notation=\toks86
 \dtlkeys@notation=\toks87
-\dtlrows@notation=\count380
-\dtlcols@notation=\count381
+\dtlrows@notation=\count381
+\dtlcols@notation=\count382
 \dtldb@glossary=\toks88
 \dtlkeys@glossary=\toks89
-\dtlrows@glossary=\count382
-\dtlcols@glossary=\count383
+\dtlrows@glossary=\count383
+\dtlcols@glossary=\count384
 
 (abbreviation.tex) (notation.tex) (glossary.tex)
 Package hyperref Info: Option `breaklinks' set `true' on input line 58.
@@ -1456,20 +1465,20 @@ Package hyperref Info: Option `bookmarksopen' set `true' on input line 58.
 
 ("C:\Program Files\MiKTeX 2.9\tex\latex\wallpaper\wallpaper.sty"
 Package: wallpaper 2005/01/18, v1.01 easy wallpaper formatting (MHFW)
-\wpXoffset=\skip281
-\wpYoffset=\skip282
-\tileXoffset=\skip283
-\tileYoffset=\skip284
-\tilewidth=\skip285
-\tileheight=\skip286
-\tileX=\skip287
-\tileY=\skip288
+\wpXoffset=\skip286
+\wpYoffset=\skip287
+\tileXoffset=\skip288
+\tileYoffset=\skip289
+\tilewidth=\skip290
+\tileheight=\skip291
+\tileX=\skip292
+\tileY=\skip293
 )
 ("C:\Program Files\MiKTeX 2.9\tex\latex\geometry\geometry.sty"
 Package: geometry 2010/09/12 v5.6 Page Geometry
-\Gm@cnth=\count384
-\Gm@cntv=\count385
-\c@Gm@tempcnt=\count386
+\Gm@cnth=\count385
+\Gm@cntv=\count386
+\c@Gm@tempcnt=\count387
 \Gm@bindingoffset=\dimen309
 \Gm@wd@mp=\dimen310
 \Gm@odd@mp=\dimen311
@@ -1481,27 +1490,24 @@ Package: geometry 2010/09/12 v5.6 Page Geometry
 \Gm@dimlist=\toks90
 
 ("C:\Program Files\MiKTeX 2.9\tex\latex\geometry\geometry.cfg"))) (document.aux
-(introduction.aux) (literature_review.aux) (theoretical_considerations.aux)
-(design_considerations.aux) (methodology.aux) (results_and_discussions.aux)
-(conclusions.aux) (answers_to_questions.aux) (revisions_to_the_proposal.aux)
-(revisions_to_the_final.aux) (usage_examples.aux) (vita.aux))
+(introduction.aux) (literature_review.aux))
 \openout1 = `document.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 149.
-LaTeX Font Info:    ... okay on input line 149.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 149.
-LaTeX Font Info:    ... okay on input line 149.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 149.
-LaTeX Font Info:    ... okay on input line 149.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 149.
-LaTeX Font Info:    ... okay on input line 149.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 149.
-LaTeX Font Info:    ... okay on input line 149.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 149.
-LaTeX Font Info:    ... okay on input line 149.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 149.
-LaTeX Font Info:    ... okay on input line 149.
-LaTeX Font Info:    Try loading font information for OT1+ptm on input line 149.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 150.
+LaTeX Font Info:    ... okay on input line 150.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 150.
+LaTeX Font Info:    ... okay on input line 150.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 150.
+LaTeX Font Info:    ... okay on input line 150.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 150.
+LaTeX Font Info:    ... okay on input line 150.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 150.
+LaTeX Font Info:    ... okay on input line 150.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 150.
+LaTeX Font Info:    ... okay on input line 150.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 150.
+LaTeX Font Info:    ... okay on input line 150.
+LaTeX Font Info:    Try loading font information for OT1+ptm on input line 150.
 
 
 ("C:\Program Files\MiKTeX 2.9\tex\latex\psnfss\ot1ptm.fd"
@@ -1509,16 +1515,16 @@ File: ot1ptm.fd 2001/06/04 font definitions for OT1/ptm.
 )
 ("C:\Program Files\MiKTeX 2.9\tex\context\base\supp-pdf.mkii"
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count387
+\scratchcounter=\count388
 \scratchdimen=\dimen317
 \scratchbox=\box82
-\nofMPsegments=\count388
-\nofMParguments=\count389
+\nofMPsegments=\count389
+\nofMParguments=\count390
 \everyMPshowfont=\toks91
-\MPscratchCnt=\count390
+\MPscratchCnt=\count391
 \MPscratchDim=\dimen318
-\MPnumerator=\count391
-\makeMPintoPDFobject=\count392
+\MPnumerator=\count392
+\makeMPintoPDFobject=\count393
 \everyMPtoPDFconversion=\toks92
 ) ("C:\Program Files\MiKTeX 2.9\tex\latex\oberdiek\epstopdf-base.sty"
 Package: epstopdf-base 2016/05/15 v2.6 Base part for package epstopdf
@@ -1537,7 +1543,7 @@ Package caption Info: Begin \AtBeginDocument code.
 Package caption Info: hyperref package is loaded.
 Package caption Info: listings package is loaded.
 Package caption Info: End \AtBeginDocument code.
-LaTeX Info: Redefining \microtypecontext on input line 149.
+LaTeX Info: Redefining \microtypecontext on input line 150.
 Package microtype Info: Generating PDF output.
 Package microtype Info: Character protrusion enabled (level 2).
 Package microtype Info: Using default protrusion set `alltext'.
@@ -1552,7 +1558,7 @@ Package microtype Info: No adjustment of character kerning.
 File: mt-ptm.cfg 2006/04/20 v1.7 microtype config. file: Times (RS)
 )
 \AtBeginShipoutBox=\box83
-Package hyperref Info: Link coloring ON on input line 149.
+Package hyperref Info: Link coloring ON on input line 150.
 
 ("C:\Program Files\MiKTeX 2.9\tex\latex\hyperref\nameref.sty"
 Package: nameref 2016/05/21 v2.44 Cross-referencing by name of section
@@ -1560,20 +1566,27 @@ Package: nameref 2016/05/21 v2.44 Cross-referencing by name of section
 ("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\gettitlestring.sty"
 Package: gettitlestring 2016/05/16 v1.5 Cleanup title references (HO)
 )
-\c@section@level=\count393
+\c@section@level=\count394
 )
 Redoing nameref's sectioning
 Redoing nameref's label
-LaTeX Info: Redefining \nameref on input line 149.
-LaTeX Info: Redefining \ref on input line 149.
-LaTeX Info: Redefining \pageref on input line 149.
-LaTeX Info: Redefining \nameref on input line 149.
+LaTeX Info: Redefining \nameref on input line 150.
+LaTeX Info: Redefining \ref on input line 150.
+LaTeX Info: Redefining \pageref on input line 150.
+LaTeX Info: Redefining \nameref on input line 150.
 (document.out) (document.out)
 \@outlinefile=\write8
 \openout8 = `document.out'.
 
- ABD: EveryShipout initializing macros
-\c@lstlisting=\count394
+\c@maskedRefs=\count395
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\apacite\english.apc"
+File: english.apc 2013/07/21 v6.03 apacite language file
+LaTeX Info: Redefining \BPBI on input line 129.
+LaTeX Info: Redefining \BHBI on input line 130.
+)
+ABD: EveryShipout initializing macros
+\c@lstlisting=\count396
 
 *geometry* driver: auto-detecting
 *geometry* detected driver: pdftex
@@ -1610,7 +1623,7 @@ LaTeX Info: Redefining \nameref on input line 149.
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
 (format/pre_toc.ltx (format/titlep.ltx
-<figure/../format/DLSU_Logo.png, id=330, 158.994pt x 158.994pt>
+<figure/../format/DLSU_Logo.png, id=162, 158.994pt x 158.994pt>
 File: figure/../format/DLSU_Logo.png Graphic file (type png)
 
 <use figure/../format/DLSU_Logo.png>
@@ -1619,98 +1632,55 @@ Package pdftex.def Info: figure/../format/DLSU_Logo.png used on input line 7.
  [1
 
 {C:/ProgramData/MiKTeX/2.9/pdftex/config/pdftex.map} <./figure/../format/DLSU_L
-ogo.png>]) (format/defense.ltx)
-(format/approval.ltx
-<./figure/Signed_Thesis_Approval_Sheet_Undergraduate.pdf, id=339, 448.67625pt x
- 592.2125pt>
-File: ./figure/Signed_Thesis_Approval_Sheet_Undergraduate.pdf Graphic file (typ
-e pdf)
- <use ./figure/Signed_Thesis_Approval_Sheet_Undergraduate.pdf>
-Package pdftex.def Info: ./figure/Signed_Thesis_Approval_Sheet_Undergraduate.pd
-f used on input line 16.
-(pdftex.def)             Requested size: 448.67516pt x 592.21104pt.
-File: ./figure/Signed_Thesis_Approval_Sheet_Undergraduate.pdf Graphic file (typ
-e pdf)
+ogo.png>]) (format/defense.ltx
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <17.28> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 92.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <12> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 98.
 
-<use ./figure/Signed_Thesis_Approval_Sheet_Undergraduate.pdf>
-Package pdftex.def Info: ./figure/Signed_Thesis_Approval_Sheet_Undergraduate.pd
-f used on input line 16.
-(pdftex.def)             Requested size: 448.67516pt x 592.21104pt.
+Underfull \hbox (badness 10000) in paragraph at lines 97--101
 
-<./figure/Signed_Thesis_Approval_Sheet_Undergraduate.pdf, id=342, page=1, 448.6
-7625pt x 592.2125pt>
-File: ./figure/Signed_Thesis_Approval_Sheet_Undergraduate.pdf Graphic file (typ
-e pdf)
+ []
 
-<use ./figure/Signed_Thesis_Approval_Sheet_Undergraduate.pdf, page 1>
-Package pdftex.def Info: ./figure/Signed_Thesis_Approval_Sheet_Undergraduate.pd
-f, page1 used on input line 16.
-(pdftex.def)             Requested size: 448.67516pt x 592.21104pt.
-File: ./figure/Signed_Thesis_Approval_Sheet_Undergraduate.pdf Graphic file (typ
-e pdf)
 
-<use ./figure/Signed_Thesis_Approval_Sheet_Undergraduate.pdf, page 1>
-Package pdftex.def Info: ./figure/Signed_Thesis_Approval_Sheet_Undergraduate.pd
-f, page1 used on input line 16.
-(pdftex.def)             Requested size: 336.50636pt x 444.15828pt.
-File: ./figure/Signed_Thesis_Approval_Sheet_Undergraduate.pdf Graphic file (typ
-e pdf)
+Underfull \hbox (badness 10000) in paragraph at lines 109--113
 
-<use ./figure/Signed_Thesis_Approval_Sheet_Undergraduate.pdf, page 1>
-Package pdftex.def Info: ./figure/Signed_Thesis_Approval_Sheet_Undergraduate.pd
-f, page1 used on input line 16.
-(pdftex.def)             Requested size: 336.50636pt x 444.15828pt.
-File: ./figure/Signed_Thesis_Approval_Sheet_Undergraduate.pdf Graphic file (typ
-e pdf)
+ []
 
-<use ./figure/Signed_Thesis_Approval_Sheet_Undergraduate.pdf, page 1>
-Package pdftex.def Info: ./figure/Signed_Thesis_Approval_Sheet_Undergraduate.pd
-f, page1 used on input line 16.
-(pdftex.def)             Requested size: 336.50636pt x 444.15828pt.
 
-<figure/../format/dlsu_thesis_paper_letterhead.pdf, id=343, 614.295pt x 794.97p
+<figure/../format/dlsu_thesis_paper_letterhead.pdf, id=171, 614.295pt x 794.97p
 t>
 File: figure/../format/dlsu_thesis_paper_letterhead.pdf Graphic file (type pdf)
 
  <use figure/../format/dlsu_thesis_paper_letterhead.pdf>
 Package pdftex.def Info: figure/../format/dlsu_thesis_paper_letterhead.pdf used
- on input line 16.
+ on input line 126.
 (pdftex.def)             Requested size: 614.31223pt x 794.99231pt.
-File: ./figure/Signed_Thesis_Approval_Sheet_Undergraduate.pdf Graphic file (typ
-e pdf)
-
-<use ./figure/Signed_Thesis_Approval_Sheet_Undergraduate.pdf, page 1>
-Package pdftex.def Info: ./figure/Signed_Thesis_Approval_Sheet_Undergraduate.pd
-f, page1 used on input line 16.
-(pdftex.def)             Requested size: 336.50636pt x 444.15828pt.
  [2
 
-
- <./figure/../format/dlsu_thesis_paper_letterhead.pdf> <./figure/Signed_Thesis_
-Approval_Sheet_Undergraduate.pdf>]) (format/aaa.ltx
+ <./figure/../format/dlsu_thesis_paper_letterhead.pdf>]) (format/approval.ltx))
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <24.88> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 3.
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 160.
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <20.74> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 3.
-LaTeX Font Info:    Try loading font information for OT1+phv on input line 3.
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 160.
+LaTeX Font Info:    Try loading font information for OT1+phv on input line 160.
+
 
 ("C:\Program Files\MiKTeX 2.9\tex\latex\psnfss\ot1phv.fd"
 File: ot1phv.fd 2001/06/04 scalable font definitions for OT1/phv.
 )
 LaTeX Font Info:    Font shape `OT1/phv/bx/n' in size <20.74> not available
-(Font)              Font shape `OT1/phv/b/n' tried instead on input line 3.
+(Font)              Font shape `OT1/phv/b/n' tried instead on input line 160.
 Package microtype Info: Loading generic protrusion settings for font family
 (microtype)             `phv' (encoding: OT1).
 (microtype)             For optimal results, create family-specific settings.
 (microtype)             See the microtype manual for details.
-LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <12> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 10.
-
+ (document.toc
 ("C:\Program Files\MiKTeX 2.9\tex\latex\microtype\mt-cmr.cfg"
 File: mt-cmr.cfg 2013/05/19 v2.2 microtype config. file: Computer Modern Roman 
 (RS)
 )
-LaTeX Font Info:    Try loading font information for U+msa on input line 10.
+LaTeX Font Info:    Try loading font information for U+msa on input line 1.
 
 ("C:\Program Files\MiKTeX 2.9\tex\latex\amsfonts\umsa.fd"
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
@@ -1718,7 +1688,7 @@ File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 ("C:\Program Files\MiKTeX 2.9\tex\latex\microtype\mt-msa.cfg"
 File: mt-msa.cfg 2006/02/04 v1.1 microtype config. file: AMS symbols (a) (RS)
 )
-LaTeX Font Info:    Try loading font information for U+msb on input line 10.
+LaTeX Font Info:    Try loading font information for U+msb on input line 1.
 
 ("C:\Program Files\MiKTeX 2.9\tex\latex\amsfonts\umsb.fd"
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
@@ -1726,7 +1696,7 @@ File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 ("C:\Program Files\MiKTeX 2.9\tex\latex\microtype\mt-msb.cfg"
 File: mt-msb.cfg 2005/06/01 v1.0 microtype config. file: AMS symbols (b) (RS)
 )
-LaTeX Font Info:    Try loading font information for U+rsfs on input line 10.
+LaTeX Font Info:    Try loading font information for U+rsfs on input line 1.
 
 ("C:\Program Files\MiKTeX 2.9\tex\latex\jknappen\ursfs.fd"
 File: ursfs.fd 1998/03/24 rsfs font definition file (jk)
@@ -1736,56 +1706,28 @@ File: figure/../format/dlsu_thesis_paper_letterhead.pdf Graphic file (type pdf)
 
 <use figure/../format/dlsu_thesis_paper_letterhead.pdf>
 Package pdftex.def Info: figure/../format/dlsu_thesis_paper_letterhead.pdf used
- on input line 28.
+ on input line 25.
 (pdftex.def)             Requested size: 614.31223pt x 794.99231pt.
  [3
 
 
-] (acknowledgment.tex)
-File: figure/../format/dlsu_thesis_paper_letterhead.pdf Graphic file (type pdf)
-
- <use figure/../format/dlsu_thesis_paper_letterhead.pdf>
-Package pdftex.def Info: figure/../format/dlsu_thesis_paper_letterhead.pdf used
- on input line 38.
-(pdftex.def)             Requested size: 614.31223pt x 794.99231pt.
- [4
-
-
-] (abstract.tex)
-File: figure/../format/dlsu_thesis_paper_letterhead.pdf Graphic file (type pdf)
-
-
-<use figure/../format/dlsu_thesis_paper_letterhead.pdf>
-Package pdftex.def Info: figure/../format/dlsu_thesis_paper_letterhead.pdf used
- on input line 51.
-(pdftex.def)             Requested size: 614.31223pt x 794.99231pt.
- [5
-
-
-])) (document.toc
-File: figure/../format/dlsu_thesis_paper_letterhead.pdf Graphic file (type pdf)
-
-
-<use figure/../format/dlsu_thesis_paper_letterhead.pdf>
-Package pdftex.def Info: figure/../format/dlsu_thesis_paper_letterhead.pdf used
- on input line 28.
-(pdftex.def)             Requested size: 614.31223pt x 794.99231pt.
- [6
-
 
 ]
-Overfull \hbox (10.75226pt too wide) in paragraph at lines 39--39
- [][] [][][]\OT1/ptm/b/n/12 CONCLUSIONS, REC-OM-MEN-DA-TIONS, AND FU-TURE DI-RE
-C- 
- []
-
+Missing character: There is no Ã in font ptmr7t!
+Missing character: There is no ¢ in font ptmr7t!
+Missing character: There is no Ã in font ptmr7t!
+Missing character: There is no £ in font ptmr7t!
+Missing character: There is no â in font ptmr7t!
+Missing character: There is no € in font ptmr7t!
+Missing character: There is no ™ in font ptmr7t!
 File: figure/../format/dlsu_thesis_paper_letterhead.pdf Graphic file (type pdf)
+
 
 <use figure/../format/dlsu_thesis_paper_letterhead.pdf>
 Package pdftex.def Info: figure/../format/dlsu_thesis_paper_letterhead.pdf used
- on input line 57.
+ on input line 39.
 (pdftex.def)             Requested size: 614.31223pt x 794.99231pt.
- [7])
+ [4])
 \tf@toc=\write9
 \openout9 = `document.toc'.
 
@@ -1794,9 +1736,9 @@ File: figure/../format/dlsu_thesis_paper_letterhead.pdf Graphic file (type pdf)
 
 <use figure/../format/dlsu_thesis_paper_letterhead.pdf>
 Package pdftex.def Info: figure/../format/dlsu_thesis_paper_letterhead.pdf used
- on input line 159.
+ on input line 160.
 (pdftex.def)             Requested size: 614.31223pt x 794.99231pt.
- [8] (document.lof)
+ [5] (document.lof)
 \tf@lof=\write10
 \openout10 = `document.lof'.
 
@@ -1805,9 +1747,9 @@ File: figure/../format/dlsu_thesis_paper_letterhead.pdf Graphic file (type pdf)
 
 <use figure/../format/dlsu_thesis_paper_letterhead.pdf>
 Package pdftex.def Info: figure/../format/dlsu_thesis_paper_letterhead.pdf used
- on input line 163.
+ on input line 164.
 (pdftex.def)             Requested size: 614.31223pt x 794.99231pt.
- [9
+ [6
 
 ] (document.lot)
 \tf@lot=\write11
@@ -1818,52 +1760,13 @@ File: figure/../format/dlsu_thesis_paper_letterhead.pdf Graphic file (type pdf)
 
 <use figure/../format/dlsu_thesis_paper_letterhead.pdf>
 Package pdftex.def Info: figure/../format/dlsu_thesis_paper_letterhead.pdf used
- on input line 167.
+ on input line 168.
 (pdftex.def)             Requested size: 614.31223pt x 794.99231pt.
- [10
+ [7
 
 ]
-File: figure/../format/dlsu_thesis_paper_letterhead.pdf Graphic file (type pdf)
-
-
-<use figure/../format/dlsu_thesis_paper_letterhead.pdf>
-Package pdftex.def Info: figure/../format/dlsu_thesis_paper_letterhead.pdf used
- on input line 176.
-(pdftex.def)             Requested size: 614.31223pt x 794.99231pt.
- [11
-
-
-]
-File: figure/../format/dlsu_thesis_paper_letterhead.pdf Graphic file (type pdf)
-
-
-<use figure/../format/dlsu_thesis_paper_letterhead.pdf>
-Package pdftex.def Info: figure/../format/dlsu_thesis_paper_letterhead.pdf used
- on input line 189.
-(pdftex.def)             Requested size: 614.31223pt x 794.99231pt.
- [12
-
-
-]
-Underfull \hbox (badness 10000) in paragraph at lines 195--195
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 195--195
-
- []
-
-File: figure/../format/dlsu_thesis_paper_letterhead.pdf Graphic file (type pdf)
-
-<use figure/../format/dlsu_thesis_paper_letterhead.pdf>
-Package pdftex.def Info: figure/../format/dlsu_thesis_paper_letterhead.pdf used
- on input line 198.
-(pdftex.def)             Requested size: 614.31223pt x 794.99231pt.
- [13
-
-
-] (document.lol)
+Excluding 'comment' comment. Excluding 'comment' comment.
+Excluding 'comment' comment. (document.lol)
 \tf@lol=\write12
 \openout12 = `document.lol'.
 
@@ -1872,23 +1775,23 @@ File: figure/../format/dlsu_thesis_paper_letterhead.pdf Graphic file (type pdf)
 
 <use figure/../format/dlsu_thesis_paper_letterhead.pdf>
 Package pdftex.def Info: figure/../format/dlsu_thesis_paper_letterhead.pdf used
- on input line 202.
+ on input line 206.
 (pdftex.def)             Requested size: 614.31223pt x 794.99231pt.
- [14
+ [8
 
 ]
-\c@ttl@toc@chapters=\count395
+\c@ttl@toc@chapters=\count397
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <14.4> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 211.
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 215.
 LaTeX Font Info:    Font shape `OT1/phv/bx/n' in size <14.4> not available
-(Font)              Font shape `OT1/phv/b/n' tried instead on input line 211.
+(Font)              Font shape `OT1/phv/b/n' tried instead on input line 215.
  (document.ptc)
 File: figure/../format/dlsu_thesis_paper_letterhead.pdf Graphic file (type pdf)
 
 
 <use figure/../format/dlsu_thesis_paper_letterhead.pdf>
 Package pdftex.def Info: figure/../format/dlsu_thesis_paper_letterhead.pdf used
- on input line 213.
+ on input line 217.
 (pdftex.def)             Requested size: 614.31223pt x 794.99231pt.
  [1
 
@@ -1897,122 +1800,189 @@ Package pdftex.def Info: figure/../format/dlsu_thesis_paper_letterhead.pdf used
 \openout2 = `introduction.aux'.
 
  (introduction.tex
-LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <17.28> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 1.
 LaTeX Font Info:    Font shape `OT1/phv/bx/n' in size <17.28> not available
 (Font)              Font shape `OT1/phv/b/n' tried instead on input line 1.
+
+<figure/blockdiag.pdf, id=305, 554.07pt x 284.26201pt>
+File: figure/blockdiag.pdf Graphic file (type pdf)
+
+<use figure/blockdiag.pdf>
+Package pdftex.def Info: figure/blockdiag.pdf used on input line 54.
+(pdftex.def)             Requested size: 368.4012pt x 188.99979pt.
 File: figure/../format/dlsu_thesis_paper_letterhead.pdf Graphic file (type pdf)
 
 
 <use figure/../format/dlsu_thesis_paper_letterhead.pdf>
 Package pdftex.def Info: figure/../format/dlsu_thesis_paper_letterhead.pdf used
- on input line 5.
+ on input line 56.
 (pdftex.def)             Requested size: 614.31223pt x 794.99231pt.
  [2
 
 ]
+<figure/frame.pdf, id=313, 408.92778pt x 315.57903pt>
+File: figure/frame.pdf Graphic file (type pdf)
+ <use figure/frame.pdf>
+Package pdftex.def Info: figure/frame.pdf used on input line 63.
+(pdftex.def)             Requested size: 244.90305pt x 188.99979pt.
 File: figure/../format/dlsu_thesis_paper_letterhead.pdf Graphic file (type pdf)
 
 
 <use figure/../format/dlsu_thesis_paper_letterhead.pdf>
 Package pdftex.def Info: figure/../format/dlsu_thesis_paper_letterhead.pdf used
- on input line 8.
+ on input line 69.
 (pdftex.def)             Requested size: 614.31223pt x 794.99231pt.
- [3]
-File: figure/../format/dlsu_thesis_paper_letterhead.pdf Graphic file (type pdf)
+ [3 <./figure/blockdiag.pdf>] <figure/gantt1.pdf, id=320, 708.24603pt x 170.436
+75pt>
+File: figure/gantt1.pdf Graphic file (type pdf)
 
+<use figure/gantt1.pdf>
+Package pdftex.def Info: figure/gantt1.pdf used on input line 74.
+(pdftex.def)             Requested size: 403.92056pt x 97.19989pt.
+ <figure/gantt2.pdf, id=321, 707.04152pt x 290.88676pt>
+File: figure/gantt2.pdf Graphic file (type pdf)
 
-<use figure/../format/dlsu_thesis_paper_letterhead.pdf>
-Package pdftex.def Info: figure/../format/dlsu_thesis_paper_letterhead.pdf used
- on input line 29.
-(pdftex.def)             Requested size: 614.31223pt x 794.99231pt.
- [4]
-LaTeX Font Info:    Try loading font information for OMS+ptm on input line 40.
+<use figure/gantt2.pdf>
+Package pdftex.def Info: figure/gantt2.pdf used on input line 80.
+(pdftex.def)             Requested size: 367.52345pt x 151.19983pt.
+ <figure/gantt3.pdf, id=322, 590.205pt x 357.13426pt>
+File: figure/gantt3.pdf Graphic file (type pdf)
 
-("C:\Program Files\MiKTeX 2.9\tex\latex\psnfss\omsptm.fd"
-File: omsptm.fd 
+<use figure/gantt3.pdf>
+Package pdftex.def Info: figure/gantt3.pdf used on input line 86.
+(pdftex.def)             Requested size: 401.58624pt x 242.99973pt.
+ <figure/gantt4.pdf, id=323, 375.20177pt x 165.61874pt>
+File: figure/gantt4.pdf Graphic file (type pdf)
+
+<use figure/gantt4.pdf>
+Package pdftex.def Info: figure/gantt4.pdf used on input line 92.
+(pdftex.def)             Requested size: 428.19244pt x 188.99979pt.
 )
-LaTeX Font Info:    Font shape `OMS/ptm/m/n' in size <12> not available
-(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 40.
 File: figure/../format/dlsu_thesis_paper_letterhead.pdf Graphic file (type pdf)
 
 
 <use figure/../format/dlsu_thesis_paper_letterhead.pdf>
 Package pdftex.def Info: figure/../format/dlsu_thesis_paper_letterhead.pdf used
- on input line 58.
+ on input line 217.
 (pdftex.def)             Requested size: 614.31223pt x 794.99231pt.
- [5]
+ [4 <./figure/frame.pdf> <./figure/gantt1.pdf>]
 File: figure/../format/dlsu_thesis_paper_letterhead.pdf Graphic file (type pdf)
 
 
 <use figure/../format/dlsu_thesis_paper_letterhead.pdf>
 Package pdftex.def Info: figure/../format/dlsu_thesis_paper_letterhead.pdf used
- on input line 78.
+ on input line 217.
 (pdftex.def)             Requested size: 614.31223pt x 794.99231pt.
- [6]
+ [5 <./figure/gantt2.pdf> <./figure/gantt3.pdf>]
 File: figure/../format/dlsu_thesis_paper_letterhead.pdf Graphic file (type pdf)
 
 
 <use figure/../format/dlsu_thesis_paper_letterhead.pdf>
 Package pdftex.def Info: figure/../format/dlsu_thesis_paper_letterhead.pdf used
- on input line 98.
+ on input line 217.
 (pdftex.def)             Requested size: 614.31223pt x 794.99231pt.
- [7]
+ [6 <./figure/gantt4.pdf>] (document.ptc
+Missing character: There is no Ã in font ptmr7t!
+Missing character: There is no ¢ in font ptmr7t!
+Missing character: There is no Ã in font ptmr7t!
+Missing character: There is no £ in font ptmr7t!
+Missing character: There is no â in font ptmr7t!
+Missing character: There is no € in font ptmr7t!
+Missing character: There is no ™ in font ptmr7t!
 File: figure/../format/dlsu_thesis_paper_letterhead.pdf Graphic file (type pdf)
 
-
-<use figure/../format/dlsu_thesis_paper_letterhead.pdf>
+ <use figure/../format/dlsu_thesis_paper_letterhead.pdf>
 Package pdftex.def Info: figure/../format/dlsu_thesis_paper_letterhead.pdf used
- on input line 130.
+ on input line 34.
 (pdftex.def)             Requested size: 614.31223pt x 794.99231pt.
- [8])
+
+[7
+
+
+
+])
 File: figure/../format/dlsu_thesis_paper_letterhead.pdf Graphic file (type pdf)
 
-
-<use figure/../format/dlsu_thesis_paper_letterhead.pdf>
+ <use figure/../format/dlsu_thesis_paper_letterhead.pdf>
 Package pdftex.def Info: figure/../format/dlsu_thesis_paper_letterhead.pdf used
- on input line 213.
+ on input line 228.
 (pdftex.def)             Requested size: 614.31223pt x 794.99231pt.
- [9] (document.ptc)
-File: figure/../format/dlsu_thesis_paper_letterhead.pdf Graphic file (type pdf)
-
-
-<use figure/../format/dlsu_thesis_paper_letterhead.pdf>
-Package pdftex.def Info: figure/../format/dlsu_thesis_paper_letterhead.pdf used
- on input line 224.
-(pdftex.def)             Requested size: 614.31223pt x 794.99231pt.
- [10
-
-
-
-]
+ [8]
 \openout2 = `literature_review.aux'.
 
 
 (literature_review.tex
+Missing character: There is no â in font ptmr7t!
+Missing character: There is no € in font ptmr7t!
+Missing character: There is no ™ in font ptmr7t!
 File: figure/../format/dlsu_thesis_paper_letterhead.pdf Graphic file (type pdf)
 
  <use figure/../format/dlsu_thesis_paper_letterhead.pdf>
 Package pdftex.def Info: figure/../format/dlsu_thesis_paper_letterhead.pdf used
- on input line 7.
+ on input line 10.
 (pdftex.def)             Requested size: 614.31223pt x 794.99231pt.
 
-[11
+[9
 
 ]
-File: figure/../format/dlsu_thesis_paper_letterhead.pdf Graphic file (type pdf)
+Overfull \hbox (17.24097pt too wide) in paragraph at lines 10--10
+[]\OT1/phv/b/n/14.4 Mostafa, T., Muharam, A.,Hattori, R. Wire-less Bat-tery Cha
+rg-
+ []
 
- <use figure/../format/dlsu_thesis_paper_letterhead.pdf>
-Package pdftex.def Info: figure/../format/dlsu_thesis_paper_letterhead.pdf used
- on input line 7.
-(pdftex.def)             Requested size: 614.31223pt x 794.99231pt.
- [12]
-File: figure/../format/dlsu_thesis_paper_letterhead.pdf Graphic file (type pdf)
 
+Overfull \hbox (8.24454pt too wide) in paragraph at lines 14--14
+\OT1/phv/b/n/14.4 age-ment of hy-brid fuel cel-l/-bat-tery power sys-tem for UA
+Vs. 
+ []
+
+File: figure/../format/dlsu_thesis_paper_letterhead.pdf Graphic file (type pdf)
 
 <use figure/../format/dlsu_thesis_paper_letterhead.pdf>
 Package pdftex.def Info: figure/../format/dlsu_thesis_paper_letterhead.pdf used
- on input line 23.
+ on input line 21.
+(pdftex.def)             Requested size: 614.31223pt x 794.99231pt.
+ [10]
+Missing character: There is no Ã in font phvb7t!
+Missing character: There is no ¢ in font phvb7t!
+Missing character: There is no Ã in font phvb7t!
+Missing character: There is no £ in font phvb7t!
+
+Overfull \hbox (0.22382pt too wide) in paragraph at lines 21--21
+\OT1/phv/b/n/14.4 UKACC In-ter-na-tional Con-fer-ence on Con-trol (CON-TROL),
+ []
+
+File: figure/../format/dlsu_thesis_paper_letterhead.pdf Graphic file (type pdf)
+
+<use figure/../format/dlsu_thesis_paper_letterhead.pdf>
+Package pdftex.def Info: figure/../format/dlsu_thesis_paper_letterhead.pdf used
+ on input line 35.
+(pdftex.def)             Requested size: 614.31223pt x 794.99231pt.
+ [11]
+Missing character: There is no â in font phvb7t!
+Missing character: There is no € in font phvb7t!
+Missing character: There is no ™ in font phvb7t!
+
+Overfull \hbox (10.49426pt too wide) in paragraph at lines 39--39
+\OT1/phv/b/n/14.4 New Ad-vances in Mech-a-nisms, Me-chan-i-cal Trans-mis-sions
+ []
+
+File: figure/../format/dlsu_thesis_paper_letterhead.pdf Graphic file (type pdf)
+
+<use figure/../format/dlsu_thesis_paper_letterhead.pdf>
+Package pdftex.def Info: figure/../format/dlsu_thesis_paper_letterhead.pdf used
+ on input line 41.
+(pdftex.def)             Requested size: 614.31223pt x 794.99231pt.
+ [12]
+Overfull \hbox (19.59503pt too wide) in paragraph at lines 44--44
+[]\OT1/phv/b/n/14.4 A. Ailon and S. Aro-geti, "On set-point con-trol of a quadr
+otor-
+ []
+
+File: figure/../format/dlsu_thesis_paper_letterhead.pdf Graphic file (type pdf)
+
+<use figure/../format/dlsu_thesis_paper_letterhead.pdf>
+Package pdftex.def Info: figure/../format/dlsu_thesis_paper_letterhead.pdf used
+ on input line 46.
 (pdftex.def)             Requested size: 614.31223pt x 794.99231pt.
  [13]
 File: figure/../format/dlsu_thesis_paper_letterhead.pdf Graphic file (type pdf)
@@ -2020,2625 +1990,86 @@ File: figure/../format/dlsu_thesis_paper_letterhead.pdf Graphic file (type pdf)
 
 <use figure/../format/dlsu_thesis_paper_letterhead.pdf>
 Package pdftex.def Info: figure/../format/dlsu_thesis_paper_letterhead.pdf used
- on input line 23.
+ on input line 53.
 (pdftex.def)             Requested size: 614.31223pt x 794.99231pt.
- [14])
-File: figure/../format/dlsu_thesis_paper_letterhead.pdf Graphic file (type pdf)
-
-
-<use figure/../format/dlsu_thesis_paper_letterhead.pdf>
-Package pdftex.def Info: figure/../format/dlsu_thesis_paper_letterhead.pdf used
- on input line 224.
-(pdftex.def)             Requested size: 614.31223pt x 794.99231pt.
- [15] (document.ptc)
-File: figure/../format/dlsu_thesis_paper_letterhead.pdf Graphic file (type pdf)
-
-
-<use figure/../format/dlsu_thesis_paper_letterhead.pdf>
-Package pdftex.def Info: figure/../format/dlsu_thesis_paper_letterhead.pdf used
- on input line 236.
-(pdftex.def)             Requested size: 614.31223pt x 794.99231pt.
- [16
-
-
-
-]
-\openout2 = `theoretical_considerations.aux'.
-
-
-(theoretical_considerations.tex
-File: figure/../format/dlsu_thesis_paper_letterhead.pdf Graphic file (type pdf)
-
-
-<use figure/../format/dlsu_thesis_paper_letterhead.pdf>
-Package pdftex.def Info: figure/../format/dlsu_thesis_paper_letterhead.pdf used
- on input line 5.
-(pdftex.def)             Requested size: 614.31223pt x 794.99231pt.
- [17
-
-]
-File: figure/../format/dlsu_thesis_paper_letterhead.pdf Graphic file (type pdf)
-
-
-<use figure/../format/dlsu_thesis_paper_letterhead.pdf>
-Package pdftex.def Info: figure/../format/dlsu_thesis_paper_letterhead.pdf used
- on input line 5.
-(pdftex.def)             Requested size: 614.31223pt x 794.99231pt.
- [18]
-<figure/example_gray_box.pdf, id=737, 202.7575pt x 202.7575pt>
-File: figure/example_gray_box.pdf Graphic file (type pdf)
-
-<use figure/example_gray_box.pdf>
-Package pdftex.def Info: figure/example_gray_box.pdf used on input line 9.
-(pdftex.def)             Requested size: 214.67604pt x 214.6806pt.
-)
-File: figure/../format/dlsu_thesis_paper_letterhead.pdf Graphic file (type pdf)
-
-
-<use figure/../format/dlsu_thesis_paper_letterhead.pdf>
-Package pdftex.def Info: figure/../format/dlsu_thesis_paper_letterhead.pdf used
- on input line 236.
-(pdftex.def)             Requested size: 614.31223pt x 794.99231pt.
- [19 <./figure/example_gray_box.pdf>] (document.ptc)
-File: figure/../format/dlsu_thesis_paper_letterhead.pdf Graphic file (type pdf)
-
-
-<use figure/../format/dlsu_thesis_paper_letterhead.pdf>
-Package pdftex.def Info: figure/../format/dlsu_thesis_paper_letterhead.pdf used
- on input line 247.
-(pdftex.def)             Requested size: 614.31223pt x 794.99231pt.
- [20
-
-
-
-]
-\openout2 = `design_considerations.aux'.
-
-
-(design_considerations.tex
-File: figure/../format/dlsu_thesis_paper_letterhead.pdf Graphic file (type pdf)
-
-
-<use figure/../format/dlsu_thesis_paper_letterhead.pdf>
-Package pdftex.def Info: figure/../format/dlsu_thesis_paper_letterhead.pdf used
- on input line 8.
-(pdftex.def)             Requested size: 614.31223pt x 794.99231pt.
- [21
-
-]
-File: figure/../format/dlsu_thesis_paper_letterhead.pdf Graphic file (type pdf)
-
-
-<use figure/../format/dlsu_thesis_paper_letterhead.pdf>
-Package pdftex.def Info: figure/../format/dlsu_thesis_paper_letterhead.pdf used
- on input line 8.
-(pdftex.def)             Requested size: 614.31223pt x 794.99231pt.
- [22])
-File: figure/../format/dlsu_thesis_paper_letterhead.pdf Graphic file (type pdf)
-
-
-<use figure/../format/dlsu_thesis_paper_letterhead.pdf>
-Package pdftex.def Info: figure/../format/dlsu_thesis_paper_letterhead.pdf used
- on input line 247.
-(pdftex.def)             Requested size: 614.31223pt x 794.99231pt.
- [23] (document.ptc)
-File: figure/../format/dlsu_thesis_paper_letterhead.pdf Graphic file (type pdf)
-
-
-<use figure/../format/dlsu_thesis_paper_letterhead.pdf>
-Package pdftex.def Info: figure/../format/dlsu_thesis_paper_letterhead.pdf used
- on input line 258.
-(pdftex.def)             Requested size: 614.31223pt x 794.99231pt.
- [24
-
-
-
-]
-\openout2 = `methodology.aux'.
-
- (methodology.tex
-File: figure/../format/dlsu_thesis_paper_letterhead.pdf Graphic file (type pdf)
-
-
-<use figure/../format/dlsu_thesis_paper_letterhead.pdf>
-Package pdftex.def Info: figure/../format/dlsu_thesis_paper_letterhead.pdf used
- on input line 16.
-(pdftex.def)             Requested size: 614.31223pt x 794.99231pt.
- [25
-
-]
-File: figure/../format/dlsu_thesis_paper_letterhead.pdf Graphic file (type pdf)
-
-
-<use figure/../format/dlsu_thesis_paper_letterhead.pdf>
-Package pdftex.def Info: figure/../format/dlsu_thesis_paper_letterhead.pdf used
- on input line 16.
-(pdftex.def)             Requested size: 614.31223pt x 794.99231pt.
- [26]
-File: figure/../format/dlsu_thesis_paper_letterhead.pdf Graphic file (type pdf)
-
-
-<use figure/../format/dlsu_thesis_paper_letterhead.pdf>
-Package pdftex.def Info: figure/../format/dlsu_thesis_paper_letterhead.pdf used
- on input line 26.
-(pdftex.def)             Requested size: 614.31223pt x 794.99231pt.
- [27]
-File: figure/../format/dlsu_thesis_paper_letterhead.pdf Graphic file (type pdf)
-
-
-<use figure/../format/dlsu_thesis_paper_letterhead.pdf>
-Package pdftex.def Info: figure/../format/dlsu_thesis_paper_letterhead.pdf used
- on input line 27.
-(pdftex.def)             Requested size: 614.31223pt x 794.99231pt.
- [28])
-File: figure/../format/dlsu_thesis_paper_letterhead.pdf Graphic file (type pdf)
-
-
-<use figure/../format/dlsu_thesis_paper_letterhead.pdf>
-Package pdftex.def Info: figure/../format/dlsu_thesis_paper_letterhead.pdf used
- on input line 258.
-(pdftex.def)             Requested size: 614.31223pt x 794.99231pt.
- [29]
-File: figure/../format/dlsu_thesis_paper_letterhead.pdf Graphic file (type pdf)
-
-
-<use figure/../format/dlsu_thesis_paper_letterhead.pdf>
-Package pdftex.def Info: figure/../format/dlsu_thesis_paper_letterhead.pdf used
- on input line 258.
-(pdftex.def)             Requested size: 614.31223pt x 794.99231pt.
- [30] (document.ptc)
-File: figure/../format/dlsu_thesis_paper_letterhead.pdf Graphic file (type pdf)
-
-
-<use figure/../format/dlsu_thesis_paper_letterhead.pdf>
-Package pdftex.def Info: figure/../format/dlsu_thesis_paper_letterhead.pdf used
- on input line 270.
-(pdftex.def)             Requested size: 614.31223pt x 794.99231pt.
- [31
-
-
-
-]
-\openout2 = `results_and_discussions.aux'.
-
-
-(results_and_discussions.tex
-Package microtype Info: Loading generic protrusion settings for font family
-(microtype)             `cmtt' (encoding: OT1).
-(microtype)             For optimal results, create family-specific settings.
-(microtype)             See the microtype manual for details.
-
-Overfull \hbox (27.04155pt too wide) in paragraph at lines 8--9
-\OT1/cmtt/m/n/12 www . ctan . org / tex-[]archive / info / lshort$[][]\OT1/ptm/
-m/n/12 (-20) . See the Ap-pendix of [][]\OT1/cmtt/m/n/12 document_guide.pdf []\
-OT1/ptm/m/n/12 (-20) for
- []
-
-File: figure/../format/dlsu_thesis_paper_letterhead.pdf Graphic file (type pdf)
-
-<use figure/../format/dlsu_thesis_paper_letterhead.pdf>
-Package pdftex.def Info: figure/../format/dlsu_thesis_paper_letterhead.pdf used
- on input line 12.
-(pdftex.def)             Requested size: 614.31223pt x 794.99231pt.
- [32
-
-]
-File: figure/../format/dlsu_thesis_paper_letterhead.pdf Graphic file (type pdf)
-
-
-<use figure/../format/dlsu_thesis_paper_letterhead.pdf>
-Package pdftex.def Info: figure/../format/dlsu_thesis_paper_letterhead.pdf used
- on input line 12.
-(pdftex.def)             Requested size: 614.31223pt x 794.99231pt.
- [33])
-File: figure/../format/dlsu_thesis_paper_letterhead.pdf Graphic file (type pdf)
-
-
-<use figure/../format/dlsu_thesis_paper_letterhead.pdf>
-Package pdftex.def Info: figure/../format/dlsu_thesis_paper_letterhead.pdf used
- on input line 270.
-(pdftex.def)             Requested size: 614.31223pt x 794.99231pt.
- [34] (document.ptc)
-File: figure/../format/dlsu_thesis_paper_letterhead.pdf Graphic file (type pdf)
-
-
-<use figure/../format/dlsu_thesis_paper_letterhead.pdf>
-Package pdftex.def Info: figure/../format/dlsu_thesis_paper_letterhead.pdf used
- on input line 283.
-(pdftex.def)             Requested size: 614.31223pt x 794.99231pt.
- [35
-
-
-
-]
-\openout2 = `conclusions.aux'.
-
- (conclusions.tex
-File: figure/../format/dlsu_thesis_paper_letterhead.pdf Graphic file (type pdf)
-
-
-<use figure/../format/dlsu_thesis_paper_letterhead.pdf>
-Package pdftex.def Info: figure/../format/dlsu_thesis_paper_letterhead.pdf used
- on input line 23.
-(pdftex.def)             Requested size: 614.31223pt x 794.99231pt.
- [36
-
-]
-File: figure/../format/dlsu_thesis_paper_letterhead.pdf Graphic file (type pdf)
-
-
-<use figure/../format/dlsu_thesis_paper_letterhead.pdf>
-Package pdftex.def Info: figure/../format/dlsu_thesis_paper_letterhead.pdf used
- on input line 23.
-(pdftex.def)             Requested size: 614.31223pt x 794.99231pt.
- [37]
-File: figure/../format/dlsu_thesis_paper_letterhead.pdf Graphic file (type pdf)
-
-
-<use figure/../format/dlsu_thesis_paper_letterhead.pdf>
-Package pdftex.def Info: figure/../format/dlsu_thesis_paper_letterhead.pdf used
- on input line 38.
-(pdftex.def)             Requested size: 614.31223pt x 794.99231pt.
- [38])
-File: figure/../format/dlsu_thesis_paper_letterhead.pdf Graphic file (type pdf)
-
-
-<use figure/../format/dlsu_thesis_paper_letterhead.pdf>
-Package pdftex.def Info: figure/../format/dlsu_thesis_paper_letterhead.pdf used
- on input line 283.
-(pdftex.def)             Requested size: 614.31223pt x 794.99231pt.
- [39] (document.bbl
-bibitemlist
-File: figure/../format/dlsu_thesis_paper_letterhead.pdf Graphic file (type pdf)
-
-<use figure/../format/dlsu_thesis_paper_letterhead.pdf>
-Package pdftex.def Info: figure/../format/dlsu_thesis_paper_letterhead.pdf used
- on input line 95.
-(pdftex.def)             Requested size: 614.31223pt x 794.99231pt.
- [40
-
-
-
-]
-File: figure/../format/dlsu_thesis_paper_letterhead.pdf Graphic file (type pdf)
-
-
-<use figure/../format/dlsu_thesis_paper_letterhead.pdf>
-Package pdftex.def Info: figure/../format/dlsu_thesis_paper_letterhead.pdf used
- on input line 192.
-(pdftex.def)             Requested size: 614.31223pt x 794.99231pt.
- [41]
-File: figure/../format/dlsu_thesis_paper_letterhead.pdf Graphic file (type pdf)
-
-
-<use figure/../format/dlsu_thesis_paper_letterhead.pdf>
-Package pdftex.def Info: figure/../format/dlsu_thesis_paper_letterhead.pdf used
- on input line 288.
-(pdftex.def)             Requested size: 614.31223pt x 794.99231pt.
- [42]
-File: figure/../format/dlsu_thesis_paper_letterhead.pdf Graphic file (type pdf)
-
-
-<use figure/../format/dlsu_thesis_paper_letterhead.pdf>
-Package pdftex.def Info: figure/../format/dlsu_thesis_paper_letterhead.pdf used
- on input line 390.
-(pdftex.def)             Requested size: 614.31223pt x 794.99231pt.
- [43]
-File: figure/../format/dlsu_thesis_paper_letterhead.pdf Graphic file (type pdf)
-
-
-<use figure/../format/dlsu_thesis_paper_letterhead.pdf>
-Package pdftex.def Info: figure/../format/dlsu_thesis_paper_letterhead.pdf used
- on input line 492.
-(pdftex.def)             Requested size: 614.31223pt x 794.99231pt.
- [44]
-File: figure/../format/dlsu_thesis_paper_letterhead.pdf Graphic file (type pdf)
-
-
-<use figure/../format/dlsu_thesis_paper_letterhead.pdf>
-Package pdftex.def Info: figure/../format/dlsu_thesis_paper_letterhead.pdf used
- on input line 596.
-(pdftex.def)             Requested size: 614.31223pt x 794.99231pt.
- [45]
-File: figure/../format/dlsu_thesis_paper_letterhead.pdf Graphic file (type pdf)
-
-
-<use figure/../format/dlsu_thesis_paper_letterhead.pdf>
-Package pdftex.def Info: figure/../format/dlsu_thesis_paper_letterhead.pdf used
- on input line 691.
-(pdftex.def)             Requested size: 614.31223pt x 794.99231pt.
- [46]
-File: figure/../format/dlsu_thesis_paper_letterhead.pdf Graphic file (type pdf)
-
-
-<use figure/../format/dlsu_thesis_paper_letterhead.pdf>
-Package pdftex.def Info: figure/../format/dlsu_thesis_paper_letterhead.pdf used
- on input line 790.
-(pdftex.def)             Requested size: 614.31223pt x 794.99231pt.
- [47])
-File: figure/../format/dlsu_thesis_paper_letterhead.pdf Graphic file (type pdf)
-
-
-<use figure/../format/dlsu_thesis_paper_letterhead.pdf>
-Package pdftex.def Info: figure/../format/dlsu_thesis_paper_letterhead.pdf used
- on input line 312.
-(pdftex.def)             Requested size: 614.31223pt x 794.99231pt.
- [48]
-<./figure/STUDENT_RESEARCH_ETHICS_CLEARANCE.pdf, id=1045, 484.81125pt x 655.448
-75pt>
-File: ./figure/STUDENT_RESEARCH_ETHICS_CLEARANCE.pdf Graphic file (type pdf)
- <use ./figure/STUDENT_RESEARCH_ETHICS_CLEARANCE.pdf>
-Package pdftex.def Info: ./figure/STUDENT_RESEARCH_ETHICS_CLEARANCE.pdf used on
- input line 327.
-(pdftex.def)             Requested size: 484.81006pt x 655.44714pt.
-File: ./figure/STUDENT_RESEARCH_ETHICS_CLEARANCE.pdf Graphic file (type pdf)
-
-<use ./figure/STUDENT_RESEARCH_ETHICS_CLEARANCE.pdf>
-Package pdftex.def Info: ./figure/STUDENT_RESEARCH_ETHICS_CLEARANCE.pdf used on
- input line 327.
-(pdftex.def)             Requested size: 484.81006pt x 655.44714pt.
-
-<./figure/STUDENT_RESEARCH_ETHICS_CLEARANCE.pdf, id=1048, page=1, 484.81125pt x
- 655.44875pt>
-File: ./figure/STUDENT_RESEARCH_ETHICS_CLEARANCE.pdf Graphic file (type pdf)
- <use ./figure/STUDENT_RESEARCH_ETHICS_CLEARANCE.pdf, page 1>
-Package pdftex.def Info: ./figure/STUDENT_RESEARCH_ETHICS_CLEARANCE.pdf, page1 
-used on input line 327.
-(pdftex.def)             Requested size: 484.81006pt x 655.44714pt.
-File: ./figure/STUDENT_RESEARCH_ETHICS_CLEARANCE.pdf Graphic file (type pdf)
-
-<use ./figure/STUDENT_RESEARCH_ETHICS_CLEARANCE.pdf, page 1>
-Package pdftex.def Info: ./figure/STUDENT_RESEARCH_ETHICS_CLEARANCE.pdf, page1 
-used on input line 327.
-(pdftex.def)             Requested size: 363.60754pt x 491.58536pt.
-File: figure/../format/dlsu_thesis_paper_letterhead.pdf Graphic file (type pdf)
-
-
-<use figure/../format/dlsu_thesis_paper_letterhead.pdf>
-Package pdftex.def Info: figure/../format/dlsu_thesis_paper_letterhead.pdf used
- on input line 327.
-(pdftex.def)             Requested size: 614.31223pt x 794.99231pt.
- [49
-
-
-]
-File: ./figure/STUDENT_RESEARCH_ETHICS_CLEARANCE.pdf Graphic file (type pdf)
-
-<use ./figure/STUDENT_RESEARCH_ETHICS_CLEARANCE.pdf, page 1>
-Package pdftex.def Info: ./figure/STUDENT_RESEARCH_ETHICS_CLEARANCE.pdf, page1 
-used on input line 327.
-(pdftex.def)             Requested size: 363.60754pt x 491.58536pt.
-File: ./figure/STUDENT_RESEARCH_ETHICS_CLEARANCE.pdf Graphic file (type pdf)
-
-<use ./figure/STUDENT_RESEARCH_ETHICS_CLEARANCE.pdf, page 1>
-Package pdftex.def Info: ./figure/STUDENT_RESEARCH_ETHICS_CLEARANCE.pdf, page1 
-used on input line 327.
-(pdftex.def)             Requested size: 363.60754pt x 491.58536pt.
-File: figure/../format/dlsu_thesis_paper_letterhead.pdf Graphic file (type pdf)
-
-
-<use figure/../format/dlsu_thesis_paper_letterhead.pdf>
-Package pdftex.def Info: figure/../format/dlsu_thesis_paper_letterhead.pdf used
- on input line 327.
-(pdftex.def)             Requested size: 614.31223pt x 794.99231pt.
-File: ./figure/STUDENT_RESEARCH_ETHICS_CLEARANCE.pdf Graphic file (type pdf)
-
-<use ./figure/STUDENT_RESEARCH_ETHICS_CLEARANCE.pdf, page 1>
-Package pdftex.def Info: ./figure/STUDENT_RESEARCH_ETHICS_CLEARANCE.pdf, page1 
-used on input line 327.
-(pdftex.def)             Requested size: 363.60754pt x 491.58536pt.
- [50 <./figure/STUDENT_RESEARCH_ETHICS_CLEARANCE.pdf>]
-File: figure/../format/dlsu_thesis_paper_letterhead.pdf Graphic file (type pdf)
-
-
-<use figure/../format/dlsu_thesis_paper_letterhead.pdf>
-Package pdftex.def Info: figure/../format/dlsu_thesis_paper_letterhead.pdf used
- on input line 334.
-(pdftex.def)             Requested size: 614.31223pt x 794.99231pt.
- [51
-
-
-]
-\openout2 = `answers_to_questions.aux'.
-
-
-(answers_to_questions.tex
-File: figure/../format/dlsu_thesis_paper_letterhead.pdf Graphic file (type pdf)
-
-
-<use figure/../format/dlsu_thesis_paper_letterhead.pdf>
-Package pdftex.def Info: figure/../format/dlsu_thesis_paper_letterhead.pdf used
- on input line 23.
-(pdftex.def)             Requested size: 614.31223pt x 794.99231pt.
- [52
-
-]
-LaTeX Font Info:    Font shape `OT1/phv/bx/n' in size <12> not available
-(Font)              Font shape `OT1/phv/b/n' tried instead on input line 23.
-File: figure/../format/dlsu_thesis_paper_letterhead.pdf Graphic file (type pdf)
-
-
-<use figure/../format/dlsu_thesis_paper_letterhead.pdf>
-Package pdftex.def Info: figure/../format/dlsu_thesis_paper_letterhead.pdf used
- on input line 46.
-(pdftex.def)             Requested size: 614.31223pt x 794.99231pt.
- [53]
-File: figure/../format/dlsu_thesis_paper_letterhead.pdf Graphic file (type pdf)
-
-
-<use figure/../format/dlsu_thesis_paper_letterhead.pdf>
-Package pdftex.def Info: figure/../format/dlsu_thesis_paper_letterhead.pdf used
- on input line 64.
-(pdftex.def)             Requested size: 614.31223pt x 794.99231pt.
- [54]
-File: figure/../format/dlsu_thesis_paper_letterhead.pdf Graphic file (type pdf)
-
-
-<use figure/../format/dlsu_thesis_paper_letterhead.pdf>
-Package pdftex.def Info: figure/../format/dlsu_thesis_paper_letterhead.pdf used
- on input line 80.
-(pdftex.def)             Requested size: 614.31223pt x 794.99231pt.
- [55]
-Overfull \hbox (6.19975pt too wide) in paragraph at lines 80--80
-[][]\OT1/phv/b/n/14.4 B5.1 What will be the lim-its of ap-pli-ca-bil-ity of you
-r pro-posed so-
- []
-
-File: figure/../format/dlsu_thesis_paper_letterhead.pdf Graphic file (type pdf)
-
-<use figure/../format/dlsu_thesis_paper_letterhead.pdf>
-Package pdftex.def Info: figure/../format/dlsu_thesis_paper_letterhead.pdf used
- on input line 96.
-(pdftex.def)             Requested size: 614.31223pt x 794.99231pt.
- [56]
-File: figure/../format/dlsu_thesis_paper_letterhead.pdf Graphic file (type pdf)
-
-
-<use figure/../format/dlsu_thesis_paper_letterhead.pdf>
-Package pdftex.def Info: figure/../format/dlsu_thesis_paper_letterhead.pdf used
- on input line 115.
-(pdftex.def)             Requested size: 614.31223pt x 794.99231pt.
- [57]
-Overfull \hbox (4.5901pt too wide) in paragraph at lines 132--132
-[][]\OT1/phv/b/n/14.4 B8.1 What are the weak-nesses of your The-sis, specif-i-c
-ally your
- []
-
-)
-File: figure/../format/dlsu_thesis_paper_letterhead.pdf Graphic file (type pdf)
-
- <use figure/../format/dlsu_thesis_paper_letterhead.pdf>
-Package pdftex.def Info: figure/../format/dlsu_thesis_paper_letterhead.pdf used
- on input line 334.
-(pdftex.def)             Requested size: 614.31223pt x 794.99231pt.
- [58]
-File: figure/../format/dlsu_thesis_paper_letterhead.pdf Graphic file (type pdf)
-
-
-<use figure/../format/dlsu_thesis_paper_letterhead.pdf>
-Package pdftex.def Info: figure/../format/dlsu_thesis_paper_letterhead.pdf used
- on input line 334.
-(pdftex.def)             Requested size: 614.31223pt x 794.99231pt.
- [59]
-File: figure/../format/dlsu_thesis_paper_letterhead.pdf Graphic file (type pdf)
-
-
-<use figure/../format/dlsu_thesis_paper_letterhead.pdf>
-Package pdftex.def Info: figure/../format/dlsu_thesis_paper_letterhead.pdf used
- on input line 343.
-(pdftex.def)             Requested size: 614.31223pt x 794.99231pt.
- [60
-
-
-
-]
-\openout2 = `revisions_to_the_proposal.aux'.
-
-
-(revisions_to_the_proposal.tex
-Underfull \hbox (badness 10000) in paragraph at lines 68--68
-[]\OT1/ptm/b/n/9 Panelist
- []
-
-
-Overfull \hbox (6.26866pt too wide) in alignment at lines 68--68
- [] [] [] [] 
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 68--68
-[]\OT1/ptm/b/n/9 Panelist
- []
-
-
-Overfull \hbox (6.26866pt too wide) in alignment at lines 68--68
- [] [] [] [] 
- []
-
-
-Overfull \hbox (6.26866pt too wide) in alignment at lines 68--68
- [] [] [] [] 
- []
-
-
-Overfull \hbox (6.26866pt too wide) in alignment at lines 68--68
- [] [] [] [] 
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 68--68
-[]\OT1/ptm/m/n/9 Dr. Fran-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 68--68
-\OT1/ptm/m/n/9 cisco D.
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 68--68
-[][]\OT1/ptm/m/n/9 Lorem ip-sum do-lor
- []
-
-
-Underfull \hbox (badness 2027) in paragraph at lines 68--68
-\OT1/ptm/m/n/9 sit amet, con-sectetuer
- []
-
-
-Underfull \hbox (badness 6364) in paragraph at lines 68--68
-\OT1/ptm/m/n/9 lobor-tis fa-cil-i-sis sem.
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 68--68
-\OT1/ptm/m/n/9 phare-tra sol-lic-i-tudin.
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 68--68
-\OT1/ptm/m/n/9 Prae-sent im-perdiet
- []
-
-
-Underfull \hbox (badness 1292) in paragraph at lines 68--68
-\OT1/ptm/m/n/9 mi nec ante. Donec
- []
-
-
-Underfull \hbox (badness 1215) in paragraph at lines 68--68
-\OT1/ptm/m/n/9 ul-lam-cor-per, fe-lis non
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 68--68
-\OT1/ptm/m/n/9 ul-tricies vel, sem-per
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 68--68
-\OT1/ptm/m/n/9 Prae-sent in sapien.
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 68--68
-\OT1/ptm/m/n/9 Lorem ip-sum do-lor
- []
-
-
-Underfull \hbox (badness 2027) in paragraph at lines 68--68
-\OT1/ptm/m/n/9 sit amet, con-sectetuer
- []
-
-
-Underfull \hbox (badness 1418) in paragraph at lines 68--68
-\OT1/ptm/m/n/9 adip-isc-ing elit. Duis
- []
-
-
-Underfull \hbox (badness 3977) in paragraph at lines 68--68
-\OT1/ptm/m/n/9 me-tus. Pel-len-tesque
- []
-
-
-Underfull \hbox (badness 1694) in paragraph at lines 68--68
-\OT1/ptm/m/n/9 au-gue a leo. Morbi
- []
-
-
-Underfull \hbox (badness 1199) in paragraph at lines 68--68
-\OT1/ptm/m/n/9 sed elit sit amet ante
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 68--68
-\OT1/ptm/m/n/9 lobor-tis sol-lic-i-tudin.
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 68--68
-\OT1/ptm/m/n/9 luc-tus a, eges-tas a,
- []
-
-
-Underfull \hbox (badness 1264) in paragraph at lines 68--68
-\OT1/ptm/m/n/9 lorem sit amet ip-sum.
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 68--68
-[]\OT1/ptm/m/n/9 Sec. [][]5.1[][]
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 68--68
-\OT1/ptm/m/n/9 on p. [][]25[][],
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 68--68
-\OT1/ptm/m/n/9 Sec. [][]5.2[][]
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 68--68
-\OT1/ptm/m/n/9 on p. [][]27[][],
- []
-
-
-Underfull \hbox (badness 1033) in paragraph at lines 68--68
-[]\OT1/ptm/m/n/9 Dr. Amado
- []
-
-
-Underfull \hbox (badness 4913) in paragraph at lines 68--68
-\OT1/ptm/m/n/9 Z. Her-nan-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 68--68
-[][]\OT1/ptm/m/n/9 Lorem ip-sum do-lor
- []
-
-
-Underfull \hbox (badness 2027) in paragraph at lines 68--68
-\OT1/ptm/m/n/9 sit amet, con-sectetuer
- []
-
-
-Underfull \hbox (badness 6364) in paragraph at lines 68--68
-\OT1/ptm/m/n/9 lobor-tis fa-cil-i-sis sem.
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 68--68
-\OT1/ptm/m/n/9 phare-tra sol-lic-i-tudin.
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 68--68
-\OT1/ptm/m/n/9 Prae-sent im-perdiet
- []
-
-
-Underfull \hbox (badness 1292) in paragraph at lines 68--68
-\OT1/ptm/m/n/9 mi nec ante. Donec
- []
-
-
-Underfull \hbox (badness 1215) in paragraph at lines 68--68
-\OT1/ptm/m/n/9 ul-lam-cor-per, fe-lis non
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 68--68
-\OT1/ptm/m/n/9 ul-tricies vel, sem-per
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 68--68
-\OT1/ptm/m/n/9 Prae-sent in sapien.
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 68--68
-\OT1/ptm/m/n/9 Lorem ip-sum do-lor
- []
-
-
-Underfull \hbox (badness 2027) in paragraph at lines 68--68
-\OT1/ptm/m/n/9 sit amet, con-sectetuer
- []
-
-
-Underfull \hbox (badness 1418) in paragraph at lines 68--68
-\OT1/ptm/m/n/9 adip-isc-ing elit. Duis
- []
-
-
-Underfull \hbox (badness 3977) in paragraph at lines 68--68
-\OT1/ptm/m/n/9 me-tus. Pel-len-tesque
- []
-
-
-Underfull \hbox (badness 1694) in paragraph at lines 68--68
-\OT1/ptm/m/n/9 au-gue a leo. Morbi
- []
-
-
-Underfull \hbox (badness 1199) in paragraph at lines 68--68
-\OT1/ptm/m/n/9 sed elit sit amet ante
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 68--68
-\OT1/ptm/m/n/9 lobor-tis sol-lic-i-tudin.
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 68--68
-\OT1/ptm/m/n/9 luc-tus a, eges-tas a,
- []
-
-
-Underfull \hbox (badness 1264) in paragraph at lines 68--68
-\OT1/ptm/m/n/9 lorem sit amet ip-sum.
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 68--68
-[]\OT1/ptm/m/n/9 Sec. [][]5.1[][]
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 68--68
-\OT1/ptm/m/n/9 on p. [][]25[][],
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 68--68
-\OT1/ptm/m/n/9 Sec. [][]5.2[][]
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 68--68
-\OT1/ptm/m/n/9 on p. [][]27[][],
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 68--68
-[][]\OT1/ptm/m/n/9 Lorem ip-sum do-lor
- []
-
-
-Underfull \hbox (badness 2027) in paragraph at lines 68--68
-\OT1/ptm/m/n/9 sit amet, con-sectetuer
- []
-
-
-Underfull \hbox (badness 6364) in paragraph at lines 68--68
-\OT1/ptm/m/n/9 lobor-tis fa-cil-i-sis sem.
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 68--68
-\OT1/ptm/m/n/9 phare-tra sol-lic-i-tudin.
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 68--68
-\OT1/ptm/m/n/9 Prae-sent im-perdiet
- []
-
-
-Underfull \hbox (badness 1292) in paragraph at lines 68--68
-\OT1/ptm/m/n/9 mi nec ante. Donec
- []
-
-
-Underfull \hbox (badness 1215) in paragraph at lines 68--68
-\OT1/ptm/m/n/9 ul-lam-cor-per, fe-lis non
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 68--68
-\OT1/ptm/m/n/9 ul-tricies vel, sem-per
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 68--68
-\OT1/ptm/m/n/9 Prae-sent in sapien.
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 68--68
-\OT1/ptm/m/n/9 Lorem ip-sum do-lor
- []
-
-
-Underfull \hbox (badness 2027) in paragraph at lines 68--68
-\OT1/ptm/m/n/9 sit amet, con-sectetuer
- []
-
-
-Underfull \hbox (badness 1418) in paragraph at lines 68--68
-\OT1/ptm/m/n/9 adip-isc-ing elit. Duis
- []
-
-
-Underfull \hbox (badness 3977) in paragraph at lines 68--68
-\OT1/ptm/m/n/9 me-tus. Pel-len-tesque
- []
-
-
-Underfull \hbox (badness 1694) in paragraph at lines 68--68
-\OT1/ptm/m/n/9 au-gue a leo. Morbi
- []
-
-
-Underfull \hbox (badness 1199) in paragraph at lines 68--68
-\OT1/ptm/m/n/9 sed elit sit amet ante
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 68--68
-\OT1/ptm/m/n/9 lobor-tis sol-lic-i-tudin.
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 68--68
-\OT1/ptm/m/n/9 luc-tus a, eges-tas a,
- []
-
-
-Underfull \hbox (badness 1264) in paragraph at lines 68--68
-\OT1/ptm/m/n/9 lorem sit amet ip-sum.
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 68--68
-[]\OT1/ptm/m/n/9 Sec. [][]5.1[][]
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 68--68
-\OT1/ptm/m/n/9 on p. [][]25[][],
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 68--68
-\OT1/ptm/m/n/9 Sec. [][]5.2[][]
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 68--68
-\OT1/ptm/m/n/9 on p. [][]27[][],
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 68--68
-[]\OT1/ptm/m/n/9 Dr. Mar-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 68--68
-\OT1/ptm/m/n/9 i-ana X.
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 68--68
-[][]\OT1/ptm/m/n/9 Lorem ip-sum do-lor
- []
-
-
-Underfull \hbox (badness 2027) in paragraph at lines 68--68
-\OT1/ptm/m/n/9 sit amet, con-sectetuer
- []
-
-
-Underfull \hbox (badness 6364) in paragraph at lines 68--68
-\OT1/ptm/m/n/9 lobor-tis fa-cil-i-sis sem.
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 68--68
-\OT1/ptm/m/n/9 phare-tra sol-lic-i-tudin.
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 68--68
-\OT1/ptm/m/n/9 Prae-sent im-perdiet
- []
-
-
-Underfull \hbox (badness 1292) in paragraph at lines 68--68
-\OT1/ptm/m/n/9 mi nec ante. Donec
- []
-
-
-Underfull \hbox (badness 1215) in paragraph at lines 68--68
-\OT1/ptm/m/n/9 ul-lam-cor-per, fe-lis non
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 68--68
-\OT1/ptm/m/n/9 ul-tricies vel, sem-per
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 68--68
-\OT1/ptm/m/n/9 Prae-sent in sapien.
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 68--68
-\OT1/ptm/m/n/9 Lorem ip-sum do-lor
- []
-
-
-Underfull \hbox (badness 2027) in paragraph at lines 68--68
-\OT1/ptm/m/n/9 sit amet, con-sectetuer
- []
-
-
-Underfull \hbox (badness 1418) in paragraph at lines 68--68
-\OT1/ptm/m/n/9 adip-isc-ing elit. Duis
- []
-
-
-Underfull \hbox (badness 3977) in paragraph at lines 68--68
-\OT1/ptm/m/n/9 me-tus. Pel-len-tesque
- []
-
-
-Underfull \hbox (badness 1694) in paragraph at lines 68--68
-\OT1/ptm/m/n/9 au-gue a leo. Morbi
- []
-
-
-Underfull \hbox (badness 1199) in paragraph at lines 68--68
-\OT1/ptm/m/n/9 sed elit sit amet ante
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 68--68
-\OT1/ptm/m/n/9 lobor-tis sol-lic-i-tudin.
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 68--68
-\OT1/ptm/m/n/9 luc-tus a, eges-tas a,
- []
-
-
-Underfull \hbox (badness 1264) in paragraph at lines 68--68
-\OT1/ptm/m/n/9 lorem sit amet ip-sum.
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 68--68
-[]\OT1/ptm/m/n/9 Sec. [][]5.1[][]
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 68--68
-\OT1/ptm/m/n/9 on p. [][]25[][],
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 68--68
-\OT1/ptm/m/n/9 Sec. [][]5.2[][]
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 68--68
-\OT1/ptm/m/n/9 on p. [][]27[][],
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 68--68
-[]\OT1/ptm/m/n/9 Dr. Rafael
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 68--68
-[][]\OT1/ptm/m/n/9 Lorem ip-sum do-lor
- []
-
-
-Underfull \hbox (badness 2027) in paragraph at lines 68--68
-\OT1/ptm/m/n/9 sit amet, con-sectetuer
- []
-
-
-Underfull \hbox (badness 6364) in paragraph at lines 68--68
-\OT1/ptm/m/n/9 lobor-tis fa-cil-i-sis sem.
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 68--68
-\OT1/ptm/m/n/9 phare-tra sol-lic-i-tudin.
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 68--68
-\OT1/ptm/m/n/9 Prae-sent im-perdiet
- []
-
-
-Underfull \hbox (badness 1292) in paragraph at lines 68--68
-\OT1/ptm/m/n/9 mi nec ante. Donec
- []
-
-
-Underfull \hbox (badness 1215) in paragraph at lines 68--68
-\OT1/ptm/m/n/9 ul-lam-cor-per, fe-lis non
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 68--68
-\OT1/ptm/m/n/9 ul-tricies vel, sem-per
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 68--68
-\OT1/ptm/m/n/9 Prae-sent in sapien.
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 68--68
-\OT1/ptm/m/n/9 Lorem ip-sum do-lor
- []
-
-
-Underfull \hbox (badness 2027) in paragraph at lines 68--68
-\OT1/ptm/m/n/9 sit amet, con-sectetuer
- []
-
-
-Underfull \hbox (badness 1418) in paragraph at lines 68--68
-\OT1/ptm/m/n/9 adip-isc-ing elit. Duis
- []
-
-
-Underfull \hbox (badness 3977) in paragraph at lines 68--68
-\OT1/ptm/m/n/9 me-tus. Pel-len-tesque
- []
-
-
-Underfull \hbox (badness 1694) in paragraph at lines 68--68
-\OT1/ptm/m/n/9 au-gue a leo. Morbi
- []
-
-
-Underfull \hbox (badness 1199) in paragraph at lines 68--68
-\OT1/ptm/m/n/9 sed elit sit amet ante
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 68--68
-\OT1/ptm/m/n/9 lobor-tis sol-lic-i-tudin.
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 68--68
-\OT1/ptm/m/n/9 luc-tus a, eges-tas a,
- []
-
-
-Underfull \hbox (badness 1264) in paragraph at lines 68--68
-\OT1/ptm/m/n/9 lorem sit amet ip-sum.
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 68--68
-[]\OT1/ptm/m/n/9 Sec. [][]5.1[][]
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 68--68
-\OT1/ptm/m/n/9 on p. [][]25[][],
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 68--68
-\OT1/ptm/m/n/9 Sec. [][]5.2[][]
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 68--68
-\OT1/ptm/m/n/9 on p. [][]27[][],
- []
-
-
-Overfull \hbox (6.26866pt too wide) in alignment at lines 68--68
- [] [] [] [] 
- []
-
-File: figure/../format/dlsu_thesis_paper_letterhead.pdf Graphic file (type pdf)
-
-<use figure/../format/dlsu_thesis_paper_letterhead.pdf>
-Package pdftex.def Info: figure/../format/dlsu_thesis_paper_letterhead.pdf used
- on input line 68.
-(pdftex.def)             Requested size: 614.31223pt x 794.99231pt.
- [61
-
-]
-File: figure/../format/dlsu_thesis_paper_letterhead.pdf Graphic file (type pdf)
-
-
-<use figure/../format/dlsu_thesis_paper_letterhead.pdf>
-Package pdftex.def Info: figure/../format/dlsu_thesis_paper_letterhead.pdf used
- on input line 68.
-(pdftex.def)             Requested size: 614.31223pt x 794.99231pt.
- [62]
-File: figure/../format/dlsu_thesis_paper_letterhead.pdf Graphic file (type pdf)
-
-
-<use figure/../format/dlsu_thesis_paper_letterhead.pdf>
-Package pdftex.def Info: figure/../format/dlsu_thesis_paper_letterhead.pdf used
- on input line 68.
-(pdftex.def)             Requested size: 614.31223pt x 794.99231pt.
- [63]
-File: figure/../format/dlsu_thesis_paper_letterhead.pdf Graphic file (type pdf)
-
-
-<use figure/../format/dlsu_thesis_paper_letterhead.pdf>
-Package pdftex.def Info: figure/../format/dlsu_thesis_paper_letterhead.pdf used
- on input line 68.
-(pdftex.def)             Requested size: 614.31223pt x 794.99231pt.
- [64])
-File: figure/../format/dlsu_thesis_paper_letterhead.pdf Graphic file (type pdf)
-
-
-<use figure/../format/dlsu_thesis_paper_letterhead.pdf>
-Package pdftex.def Info: figure/../format/dlsu_thesis_paper_letterhead.pdf used
- on input line 343.
-(pdftex.def)             Requested size: 614.31223pt x 794.99231pt.
- [65]
-File: figure/../format/dlsu_thesis_paper_letterhead.pdf Graphic file (type pdf)
-
-
-<use figure/../format/dlsu_thesis_paper_letterhead.pdf>
-Package pdftex.def Info: figure/../format/dlsu_thesis_paper_letterhead.pdf used
- on input line 352.
-(pdftex.def)             Requested size: 614.31223pt x 794.99231pt.
- [66
-
-
-
-]
-\openout2 = `revisions_to_the_final.aux'.
-
-
-(revisions_to_the_final.tex
-Underfull \hbox (badness 10000) in paragraph at lines 68--68
-[]\OT1/ptm/b/n/9 Panelist
- []
-
-
-Overfull \hbox (6.26866pt too wide) in alignment at lines 68--68
- [] [] [] [] 
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 68--68
-[]\OT1/ptm/b/n/9 Panelist
- []
-
-
-Overfull \hbox (6.26866pt too wide) in alignment at lines 68--68
- [] [] [] [] 
- []
-
-
-Overfull \hbox (6.26866pt too wide) in alignment at lines 68--68
- [] [] [] [] 
- []
-
-
-Overfull \hbox (6.26866pt too wide) in alignment at lines 68--68
- [] [] [] [] 
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 68--68
-[]\OT1/ptm/m/n/9 Dr. Fran-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 68--68
-\OT1/ptm/m/n/9 cisco D.
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 68--68
-[][]\OT1/ptm/m/n/9 Lorem ip-sum do-lor
- []
-
-
-Underfull \hbox (badness 2027) in paragraph at lines 68--68
-\OT1/ptm/m/n/9 sit amet, con-sectetuer
- []
-
-
-Underfull \hbox (badness 6364) in paragraph at lines 68--68
-\OT1/ptm/m/n/9 lobor-tis fa-cil-i-sis sem.
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 68--68
-\OT1/ptm/m/n/9 phare-tra sol-lic-i-tudin.
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 68--68
-\OT1/ptm/m/n/9 Prae-sent im-perdiet
- []
-
-
-Underfull \hbox (badness 1292) in paragraph at lines 68--68
-\OT1/ptm/m/n/9 mi nec ante. Donec
- []
-
-
-Underfull \hbox (badness 1215) in paragraph at lines 68--68
-\OT1/ptm/m/n/9 ul-lam-cor-per, fe-lis non
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 68--68
-\OT1/ptm/m/n/9 ul-tricies vel, sem-per
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 68--68
-\OT1/ptm/m/n/9 Prae-sent in sapien.
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 68--68
-\OT1/ptm/m/n/9 Lorem ip-sum do-lor
- []
-
-
-Underfull \hbox (badness 2027) in paragraph at lines 68--68
-\OT1/ptm/m/n/9 sit amet, con-sectetuer
- []
-
-
-Underfull \hbox (badness 1418) in paragraph at lines 68--68
-\OT1/ptm/m/n/9 adip-isc-ing elit. Duis
- []
-
-
-Underfull \hbox (badness 3977) in paragraph at lines 68--68
-\OT1/ptm/m/n/9 me-tus. Pel-len-tesque
- []
-
-
-Underfull \hbox (badness 1694) in paragraph at lines 68--68
-\OT1/ptm/m/n/9 au-gue a leo. Morbi
- []
-
-
-Underfull \hbox (badness 1199) in paragraph at lines 68--68
-\OT1/ptm/m/n/9 sed elit sit amet ante
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 68--68
-\OT1/ptm/m/n/9 lobor-tis sol-lic-i-tudin.
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 68--68
-\OT1/ptm/m/n/9 luc-tus a, eges-tas a,
- []
-
-
-Underfull \hbox (badness 1264) in paragraph at lines 68--68
-\OT1/ptm/m/n/9 lorem sit amet ip-sum.
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 68--68
-[]\OT1/ptm/m/n/9 Sec. [][]5.1[][]
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 68--68
-\OT1/ptm/m/n/9 on p. [][]25[][],
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 68--68
-\OT1/ptm/m/n/9 Sec. [][]5.2[][]
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 68--68
-\OT1/ptm/m/n/9 on p. [][]27[][],
- []
-
-
-Underfull \hbox (badness 1033) in paragraph at lines 68--68
-[]\OT1/ptm/m/n/9 Dr. Amado
- []
-
-
-Underfull \hbox (badness 4913) in paragraph at lines 68--68
-\OT1/ptm/m/n/9 Z. Her-nan-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 68--68
-[][]\OT1/ptm/m/n/9 Lorem ip-sum do-lor
- []
-
-
-Underfull \hbox (badness 2027) in paragraph at lines 68--68
-\OT1/ptm/m/n/9 sit amet, con-sectetuer
- []
-
-
-Underfull \hbox (badness 6364) in paragraph at lines 68--68
-\OT1/ptm/m/n/9 lobor-tis fa-cil-i-sis sem.
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 68--68
-\OT1/ptm/m/n/9 phare-tra sol-lic-i-tudin.
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 68--68
-\OT1/ptm/m/n/9 Prae-sent im-perdiet
- []
-
-
-Underfull \hbox (badness 1292) in paragraph at lines 68--68
-\OT1/ptm/m/n/9 mi nec ante. Donec
- []
-
-
-Underfull \hbox (badness 1215) in paragraph at lines 68--68
-\OT1/ptm/m/n/9 ul-lam-cor-per, fe-lis non
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 68--68
-\OT1/ptm/m/n/9 ul-tricies vel, sem-per
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 68--68
-\OT1/ptm/m/n/9 Prae-sent in sapien.
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 68--68
-\OT1/ptm/m/n/9 Lorem ip-sum do-lor
- []
-
-
-Underfull \hbox (badness 2027) in paragraph at lines 68--68
-\OT1/ptm/m/n/9 sit amet, con-sectetuer
- []
-
-
-Underfull \hbox (badness 1418) in paragraph at lines 68--68
-\OT1/ptm/m/n/9 adip-isc-ing elit. Duis
- []
-
-
-Underfull \hbox (badness 3977) in paragraph at lines 68--68
-\OT1/ptm/m/n/9 me-tus. Pel-len-tesque
- []
-
-
-Underfull \hbox (badness 1694) in paragraph at lines 68--68
-\OT1/ptm/m/n/9 au-gue a leo. Morbi
- []
-
-
-Underfull \hbox (badness 1199) in paragraph at lines 68--68
-\OT1/ptm/m/n/9 sed elit sit amet ante
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 68--68
-\OT1/ptm/m/n/9 lobor-tis sol-lic-i-tudin.
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 68--68
-\OT1/ptm/m/n/9 luc-tus a, eges-tas a,
- []
-
-
-Underfull \hbox (badness 1264) in paragraph at lines 68--68
-\OT1/ptm/m/n/9 lorem sit amet ip-sum.
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 68--68
-[]\OT1/ptm/m/n/9 Sec. [][]5.1[][]
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 68--68
-\OT1/ptm/m/n/9 on p. [][]25[][],
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 68--68
-\OT1/ptm/m/n/9 Sec. [][]5.2[][]
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 68--68
-\OT1/ptm/m/n/9 on p. [][]27[][],
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 68--68
-[][]\OT1/ptm/m/n/9 Lorem ip-sum do-lor
- []
-
-
-Underfull \hbox (badness 2027) in paragraph at lines 68--68
-\OT1/ptm/m/n/9 sit amet, con-sectetuer
- []
-
-
-Underfull \hbox (badness 6364) in paragraph at lines 68--68
-\OT1/ptm/m/n/9 lobor-tis fa-cil-i-sis sem.
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 68--68
-\OT1/ptm/m/n/9 phare-tra sol-lic-i-tudin.
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 68--68
-\OT1/ptm/m/n/9 Prae-sent im-perdiet
- []
-
-
-Underfull \hbox (badness 1292) in paragraph at lines 68--68
-\OT1/ptm/m/n/9 mi nec ante. Donec
- []
-
-
-Underfull \hbox (badness 1215) in paragraph at lines 68--68
-\OT1/ptm/m/n/9 ul-lam-cor-per, fe-lis non
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 68--68
-\OT1/ptm/m/n/9 ul-tricies vel, sem-per
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 68--68
-\OT1/ptm/m/n/9 Prae-sent in sapien.
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 68--68
-\OT1/ptm/m/n/9 Lorem ip-sum do-lor
- []
-
-
-Underfull \hbox (badness 2027) in paragraph at lines 68--68
-\OT1/ptm/m/n/9 sit amet, con-sectetuer
- []
-
-
-Underfull \hbox (badness 1418) in paragraph at lines 68--68
-\OT1/ptm/m/n/9 adip-isc-ing elit. Duis
- []
-
-
-Underfull \hbox (badness 3977) in paragraph at lines 68--68
-\OT1/ptm/m/n/9 me-tus. Pel-len-tesque
- []
-
-
-Underfull \hbox (badness 1694) in paragraph at lines 68--68
-\OT1/ptm/m/n/9 au-gue a leo. Morbi
- []
-
-
-Underfull \hbox (badness 1199) in paragraph at lines 68--68
-\OT1/ptm/m/n/9 sed elit sit amet ante
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 68--68
-\OT1/ptm/m/n/9 lobor-tis sol-lic-i-tudin.
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 68--68
-\OT1/ptm/m/n/9 luc-tus a, eges-tas a,
- []
-
-
-Underfull \hbox (badness 1264) in paragraph at lines 68--68
-\OT1/ptm/m/n/9 lorem sit amet ip-sum.
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 68--68
-[]\OT1/ptm/m/n/9 Sec. [][]5.1[][]
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 68--68
-\OT1/ptm/m/n/9 on p. [][]25[][],
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 68--68
-\OT1/ptm/m/n/9 Sec. [][]5.2[][]
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 68--68
-\OT1/ptm/m/n/9 on p. [][]27[][],
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 68--68
-[]\OT1/ptm/m/n/9 Dr. Mar-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 68--68
-\OT1/ptm/m/n/9 i-ana X.
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 68--68
-[][]\OT1/ptm/m/n/9 Lorem ip-sum do-lor
- []
-
-
-Underfull \hbox (badness 2027) in paragraph at lines 68--68
-\OT1/ptm/m/n/9 sit amet, con-sectetuer
- []
-
-
-Underfull \hbox (badness 6364) in paragraph at lines 68--68
-\OT1/ptm/m/n/9 lobor-tis fa-cil-i-sis sem.
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 68--68
-\OT1/ptm/m/n/9 phare-tra sol-lic-i-tudin.
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 68--68
-\OT1/ptm/m/n/9 Prae-sent im-perdiet
- []
-
-
-Underfull \hbox (badness 1292) in paragraph at lines 68--68
-\OT1/ptm/m/n/9 mi nec ante. Donec
- []
-
-
-Underfull \hbox (badness 1215) in paragraph at lines 68--68
-\OT1/ptm/m/n/9 ul-lam-cor-per, fe-lis non
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 68--68
-\OT1/ptm/m/n/9 ul-tricies vel, sem-per
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 68--68
-\OT1/ptm/m/n/9 Prae-sent in sapien.
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 68--68
-\OT1/ptm/m/n/9 Lorem ip-sum do-lor
- []
-
-
-Underfull \hbox (badness 2027) in paragraph at lines 68--68
-\OT1/ptm/m/n/9 sit amet, con-sectetuer
- []
-
-
-Underfull \hbox (badness 1418) in paragraph at lines 68--68
-\OT1/ptm/m/n/9 adip-isc-ing elit. Duis
- []
-
-
-Underfull \hbox (badness 3977) in paragraph at lines 68--68
-\OT1/ptm/m/n/9 me-tus. Pel-len-tesque
- []
-
-
-Underfull \hbox (badness 1694) in paragraph at lines 68--68
-\OT1/ptm/m/n/9 au-gue a leo. Morbi
- []
-
-
-Underfull \hbox (badness 1199) in paragraph at lines 68--68
-\OT1/ptm/m/n/9 sed elit sit amet ante
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 68--68
-\OT1/ptm/m/n/9 lobor-tis sol-lic-i-tudin.
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 68--68
-\OT1/ptm/m/n/9 luc-tus a, eges-tas a,
- []
-
-
-Underfull \hbox (badness 1264) in paragraph at lines 68--68
-\OT1/ptm/m/n/9 lorem sit amet ip-sum.
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 68--68
-[]\OT1/ptm/m/n/9 Sec. [][]5.1[][]
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 68--68
-\OT1/ptm/m/n/9 on p. [][]25[][],
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 68--68
-\OT1/ptm/m/n/9 Sec. [][]5.2[][]
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 68--68
-\OT1/ptm/m/n/9 on p. [][]27[][],
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 68--68
-[]\OT1/ptm/m/n/9 Dr. Rafael
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 68--68
-[][]\OT1/ptm/m/n/9 Lorem ip-sum do-lor
- []
-
-
-Underfull \hbox (badness 2027) in paragraph at lines 68--68
-\OT1/ptm/m/n/9 sit amet, con-sectetuer
- []
-
-
-Underfull \hbox (badness 6364) in paragraph at lines 68--68
-\OT1/ptm/m/n/9 lobor-tis fa-cil-i-sis sem.
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 68--68
-\OT1/ptm/m/n/9 phare-tra sol-lic-i-tudin.
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 68--68
-\OT1/ptm/m/n/9 Prae-sent im-perdiet
- []
-
-
-Underfull \hbox (badness 1292) in paragraph at lines 68--68
-\OT1/ptm/m/n/9 mi nec ante. Donec
- []
-
-
-Underfull \hbox (badness 1215) in paragraph at lines 68--68
-\OT1/ptm/m/n/9 ul-lam-cor-per, fe-lis non
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 68--68
-\OT1/ptm/m/n/9 ul-tricies vel, sem-per
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 68--68
-\OT1/ptm/m/n/9 Prae-sent in sapien.
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 68--68
-\OT1/ptm/m/n/9 Lorem ip-sum do-lor
- []
-
-
-Underfull \hbox (badness 2027) in paragraph at lines 68--68
-\OT1/ptm/m/n/9 sit amet, con-sectetuer
- []
-
-
-Underfull \hbox (badness 1418) in paragraph at lines 68--68
-\OT1/ptm/m/n/9 adip-isc-ing elit. Duis
- []
-
-
-Underfull \hbox (badness 3977) in paragraph at lines 68--68
-\OT1/ptm/m/n/9 me-tus. Pel-len-tesque
- []
-
-
-Underfull \hbox (badness 1694) in paragraph at lines 68--68
-\OT1/ptm/m/n/9 au-gue a leo. Morbi
- []
-
-
-Underfull \hbox (badness 1199) in paragraph at lines 68--68
-\OT1/ptm/m/n/9 sed elit sit amet ante
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 68--68
-\OT1/ptm/m/n/9 lobor-tis sol-lic-i-tudin.
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 68--68
-\OT1/ptm/m/n/9 luc-tus a, eges-tas a,
- []
-
-
-Underfull \hbox (badness 1264) in paragraph at lines 68--68
-\OT1/ptm/m/n/9 lorem sit amet ip-sum.
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 68--68
-[]\OT1/ptm/m/n/9 Sec. [][]5.1[][]
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 68--68
-\OT1/ptm/m/n/9 on p. [][]25[][],
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 68--68
-\OT1/ptm/m/n/9 Sec. [][]5.2[][]
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 68--68
-\OT1/ptm/m/n/9 on p. [][]27[][],
- []
-
-
-Overfull \hbox (6.26866pt too wide) in alignment at lines 68--68
- [] [] [] [] 
- []
-
-File: figure/../format/dlsu_thesis_paper_letterhead.pdf Graphic file (type pdf)
-
-<use figure/../format/dlsu_thesis_paper_letterhead.pdf>
-Package pdftex.def Info: figure/../format/dlsu_thesis_paper_letterhead.pdf used
- on input line 68.
-(pdftex.def)             Requested size: 614.31223pt x 794.99231pt.
- [67
-
-]
-File: figure/../format/dlsu_thesis_paper_letterhead.pdf Graphic file (type pdf)
-
-
-<use figure/../format/dlsu_thesis_paper_letterhead.pdf>
-Package pdftex.def Info: figure/../format/dlsu_thesis_paper_letterhead.pdf used
- on input line 68.
-(pdftex.def)             Requested size: 614.31223pt x 794.99231pt.
- [68]
-File: figure/../format/dlsu_thesis_paper_letterhead.pdf Graphic file (type pdf)
-
-
-<use figure/../format/dlsu_thesis_paper_letterhead.pdf>
-Package pdftex.def Info: figure/../format/dlsu_thesis_paper_letterhead.pdf used
- on input line 68.
-(pdftex.def)             Requested size: 614.31223pt x 794.99231pt.
- [69]
-File: figure/../format/dlsu_thesis_paper_letterhead.pdf Graphic file (type pdf)
-
-
-<use figure/../format/dlsu_thesis_paper_letterhead.pdf>
-Package pdftex.def Info: figure/../format/dlsu_thesis_paper_letterhead.pdf used
- on input line 68.
-(pdftex.def)             Requested size: 614.31223pt x 794.99231pt.
- [70])
-File: figure/../format/dlsu_thesis_paper_letterhead.pdf Graphic file (type pdf)
-
-
-<use figure/../format/dlsu_thesis_paper_letterhead.pdf>
-Package pdftex.def Info: figure/../format/dlsu_thesis_paper_letterhead.pdf used
- on input line 352.
-(pdftex.def)             Requested size: 614.31223pt x 794.99231pt.
- [71]
-File: figure/../format/dlsu_thesis_paper_letterhead.pdf Graphic file (type pdf)
-
-
-<use figure/../format/dlsu_thesis_paper_letterhead.pdf>
-Package pdftex.def Info: figure/../format/dlsu_thesis_paper_letterhead.pdf used
- on input line 361.
-(pdftex.def)             Requested size: 614.31223pt x 794.99231pt.
- [72
-
-
-
-]
-\openout2 = `usage_examples.aux'.
-
-
-(usage_examples.tex
-LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <8> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 9.
-File: figure/../format/dlsu_thesis_paper_letterhead.pdf Graphic file (type pdf)
-
- <use figure/../format/dlsu_thesis_paper_letterhead.pdf>
-Package pdftex.def Info: figure/../format/dlsu_thesis_paper_letterhead.pdf used
- on input line 39.
-(pdftex.def)             Requested size: 614.31223pt x 794.99231pt.
-
-[73
-
-] ("C:\Program Files\MiKTeX 2.9\tex\latex\listings\lstlang1.sty"
-File: lstlang1.sty 2015/06/04 1.6 listings language file
-)
-("C:\Program Files\MiKTeX 2.9\tex\latex\listings\lstlang2.sty"
-File: lstlang2.sty 2015/06/04 1.6 listings language file
-)
-("C:\Program Files\MiKTeX 2.9\tex\latex\listings\lstlang3.sty"
-File: lstlang3.sty 2015/06/04 1.6 listings language file
-)
-("C:\Program Files\MiKTeX 2.9\tex\latex\listings\lstlang1.sty"
-File: lstlang1.sty 2015/06/04 1.6 listings language file
-)
-("C:\Program Files\MiKTeX 2.9\tex\latex\listings\lstlang2.sty"
-File: lstlang2.sty 2015/06/04 1.6 listings language file
-)
-("C:\Program Files\MiKTeX 2.9\tex\latex\listings\lstlang3.sty"
-File: lstlang3.sty 2015/06/04 1.6 listings language file
-)
-("C:\Program Files\MiKTeX 2.9\tex\latex\listings\lstlang1.sty"
-File: lstlang1.sty 2015/06/04 1.6 listings language file
-)
-("C:\Program Files\MiKTeX 2.9\tex\latex\listings\lstlang2.sty"
-File: lstlang2.sty 2015/06/04 1.6 listings language file
-)
-("C:\Program Files\MiKTeX 2.9\tex\latex\listings\lstlang3.sty"
-File: lstlang3.sty 2015/06/04 1.6 listings language file
-)
-("C:\Program Files\MiKTeX 2.9\tex\latex\listings\lstmisc.sty"
-File: lstmisc.sty 2015/06/04 1.6 (Carsten Heinz)
-)
-Package hyperref Info: bookmark level for unknown lstlisting defaults to 0 on i
-nput line 47.
-LaTeX Font Info:    Font shape `OT1/cmtt/bx/n' in size <9> not available
-(Font)              Font shape `OT1/cmtt/m/n' tried instead on input line 53.
-File: figure/../format/dlsu_thesis_paper_letterhead.pdf Graphic file (type pdf)
-
-
-<use figure/../format/dlsu_thesis_paper_letterhead.pdf>
-Package pdftex.def Info: figure/../format/dlsu_thesis_paper_letterhead.pdf used
- on input line 78.
-(pdftex.def)             Requested size: 614.31223pt x 794.99231pt.
- [74]
-Package microtype Info: Loading generic protrusion settings for font family
-(microtype)             `cmss' (encoding: OT1).
-(microtype)             For optimal results, create family-specific settings.
-(microtype)             See the microtype manual for details.
-LaTeX Font Info:    Try loading font information for OML+cmr on input line 129.
-
-
-("C:\Program Files\MiKTeX 2.9\tex\latex\base\omlcmr.fd"
-File: omlcmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
-)
-LaTeX Font Info:    Font shape `OML/cmr/bx/it' in size <12> not available
-(Font)              Font shape `OML/cmm/b/it' tried instead on input line 129.
-LaTeX Font Info:    Font shape `OML/cmr/bx/it' in size <8> not available
-(Font)              Font shape `OML/cmm/b/it' tried instead on input line 129.
-LaTeX Font Info:    Font shape `OML/cmr/bx/it' in size <6> not available
-(Font)              Font shape `OML/cmm/b/it' tried instead on input line 129.
-LaTeX Font Info:    Try loading font information for OML+cmbr on input line 130
-.
-
-("C:\Program Files\MiKTeX 2.9\tex\latex\cmbright\omlcmbr.fd"
-File: omlcmbr.fd 2005/04/13 v8.1 (WaS)
-)
-LaTeX Font Info:    Try loading font information for OML+cmbrm on input line 13
-0.
-
-("C:\Program Files\MiKTeX 2.9\tex\latex\cmbright\omlcmbrm.fd"
-File: omlcmbrm.fd 2005/04/13 v8.1 (WaS)
-)
-LaTeX Font Info:    Font shape `OML/cmbr/m/it' in size <12> not available
-(Font)              Font shape `OML/cmbrm/m/it' tried instead on input line 130
-.
-LaTeX Font Info:    Font shape `OML/cmbr/m/it' in size <8> not available
-(Font)              Font shape `OML/cmbrm/m/it' tried instead on input line 130
-.
-LaTeX Font Info:    Font shape `OML/cmbr/m/it' in size <6> not available
-(Font)              Font shape `OML/cmbrm/m/it' tried instead on input line 130
-.
-LaTeX Font Info:    Font shape `OML/cmbr/bx/it' in size <12> not available
-(Font)              Font shape `OML/cmbrm/b/it' tried instead on input line 131
-.
-LaTeX Font Info:    Font shape `OML/cmbr/bx/it' in size <8> not available
-(Font)              Font shape `OML/cmbrm/b/it' tried instead on input line 131
-.
-LaTeX Font Info:    Font shape `OML/cmbr/bx/it' in size <6> not available
-(Font)              Font shape `OML/cmbrm/b/it' tried instead on input line 131
-.
-LaTeX Font Info:    Font shape `OML/cmr/bx/it' in size <10> not available
-(Font)              Font shape `OML/cmm/b/it' tried instead on input line 159.
-LaTeX Font Info:    Font shape `OML/cmr/bx/it' in size <7> not available
-(Font)              Font shape `OML/cmm/b/it' tried instead on input line 159.
-LaTeX Font Info:    Font shape `OML/cmr/bx/it' in size <5> not available
-(Font)              Font shape `OML/cmm/b/it' tried instead on input line 159.
-LaTeX Font Info:    Font shape `OML/cmbr/m/it' in size <10> not available
-(Font)              Font shape `OML/cmbrm/m/it' tried instead on input line 159
-.
-LaTeX Font Info:    Font shape `OML/cmbr/m/it' in size <7> not available
-(Font)              Font shape `OML/cmbrm/m/it' tried instead on input line 159
-.
-LaTeX Font Info:    Font shape `OML/cmbr/m/it' in size <5> not available
-(Font)              Font shape `OML/cmbrm/m/it' tried instead on input line 159
-.
-LaTeX Font Info:    Font shape `OML/cmbr/bx/it' in size <10> not available
-(Font)              Font shape `OML/cmbrm/b/it' tried instead on input line 159
-.
-LaTeX Font Info:    Font shape `OML/cmbr/bx/it' in size <7> not available
-(Font)              Font shape `OML/cmbrm/b/it' tried instead on input line 159
-.
-LaTeX Font Info:    Font shape `OML/cmbr/bx/it' in size <5> not available
-(Font)              Font shape `OML/cmbrm/b/it' tried instead on input line 159
-.
-File: figure/../format/dlsu_thesis_paper_letterhead.pdf Graphic file (type pdf)
-
-
-<use figure/../format/dlsu_thesis_paper_letterhead.pdf>
-Package pdftex.def Info: figure/../format/dlsu_thesis_paper_letterhead.pdf used
- on input line 167.
-(pdftex.def)             Requested size: 614.31223pt x 794.99231pt.
- [75
-
-]
-File: figure/../format/dlsu_thesis_paper_letterhead.pdf Graphic file (type pdf)
-
-
-<use figure/../format/dlsu_thesis_paper_letterhead.pdf>
-Package pdftex.def Info: figure/../format/dlsu_thesis_paper_letterhead.pdf used
- on input line 180.
-(pdftex.def)             Requested size: 614.31223pt x 794.99231pt.
- [76]
-Overfull \hbox (11.43413pt too wide) in paragraph at lines 183--185
-\OT1/ptm/m/n/12 (-20) The ``bold'' math ver-sion is se-lected with the com-mand
-s [][]\OT1/cmtt/m/n/12 \boldmath []\OT1/ptm/m/n/12 (-20) or [][]\OT1/cmtt/m/n/1
-2 \mathversion{bold} 
- []
-
-
-Overfull \hbox (2.12918pt too wide) in alignment at lines 187--194
- [][][] []
- []
-
-File: figure/../format/dlsu_thesis_paper_letterhead.pdf Graphic file (type pdf)
-
-<use figure/../format/dlsu_thesis_paper_letterhead.pdf>
-Package pdftex.def Info: figure/../format/dlsu_thesis_paper_letterhead.pdf used
- on input line 259.
-(pdftex.def)             Requested size: 614.31223pt x 794.99231pt.
- [77]
-File: figure/../format/dlsu_thesis_paper_letterhead.pdf Graphic file (type pdf)
-
-
-<use figure/../format/dlsu_thesis_paper_letterhead.pdf>
-Package pdftex.def Info: figure/../format/dlsu_thesis_paper_letterhead.pdf used
- on input line 321.
-(pdftex.def)             Requested size: 614.31223pt x 794.99231pt.
- [78]
-File: figure/../format/dlsu_thesis_paper_letterhead.pdf Graphic file (type pdf)
-
-
-<use figure/../format/dlsu_thesis_paper_letterhead.pdf>
-Package pdftex.def Info: figure/../format/dlsu_thesis_paper_letterhead.pdf used
- on input line 376.
-(pdftex.def)             Requested size: 614.31223pt x 794.99231pt.
- [79]
-File: figure/../format/dlsu_thesis_paper_letterhead.pdf Graphic file (type pdf)
-
-
-<use figure/../format/dlsu_thesis_paper_letterhead.pdf>
-Package pdftex.def Info: figure/../format/dlsu_thesis_paper_letterhead.pdf used
- on input line 422.
-(pdftex.def)             Requested size: 614.31223pt x 794.99231pt.
- [80]
-File: figure/../format/dlsu_thesis_paper_letterhead.pdf Graphic file (type pdf)
-
-
-<use figure/../format/dlsu_thesis_paper_letterhead.pdf>
-Package pdftex.def Info: figure/../format/dlsu_thesis_paper_letterhead.pdf used
- on input line 517.
-(pdftex.def)             Requested size: 614.31223pt x 794.99231pt.
- [81
-
-]
-File: figure/../format/dlsu_thesis_paper_letterhead.pdf Graphic file (type pdf)
-
-
-<use figure/../format/dlsu_thesis_paper_letterhead.pdf>
-Package pdftex.def Info: figure/../format/dlsu_thesis_paper_letterhead.pdf used
- on input line 518.
-(pdftex.def)             Requested size: 614.31223pt x 794.99231pt.
- [82]
-
-LaTeX Warning: `h' float specifier changed to `ht'.
-
-File: figure/../format/dlsu_thesis_paper_letterhead.pdf Graphic file (type pdf)
-
-<use figure/../format/dlsu_thesis_paper_letterhead.pdf>
-Package pdftex.def Info: figure/../format/dlsu_thesis_paper_letterhead.pdf used
- on input line 574.
-(pdftex.def)             Requested size: 614.31223pt x 794.99231pt.
- [83
-
-]
-File: figure/../format/dlsu_thesis_paper_letterhead.pdf Graphic file (type pdf)
-
-
-<use figure/../format/dlsu_thesis_paper_letterhead.pdf>
-Package pdftex.def Info: figure/../format/dlsu_thesis_paper_letterhead.pdf used
- on input line 574.
-(pdftex.def)             Requested size: 614.31223pt x 794.99231pt.
- [84]
-File: figure/example_gray_box.pdf Graphic file (type pdf)
-
-<use figure/example_gray_box.pdf>
-Package pdftex.def Info: figure/example_gray_box.pdf used on input line 594.
-(pdftex.def)             Requested size: 214.67604pt x 214.6806pt.
-File: figure/../format/dlsu_thesis_paper_letterhead.pdf Graphic file (type pdf)
-
-
-<use figure/../format/dlsu_thesis_paper_letterhead.pdf>
-Package pdftex.def Info: figure/../format/dlsu_thesis_paper_letterhead.pdf used
- on input line 598.
-(pdftex.def)             Requested size: 614.31223pt x 794.99231pt.
- [85
-
-]
-File: figure/../format/dlsu_thesis_paper_letterhead.pdf Graphic file (type pdf)
-
-
-<use figure/../format/dlsu_thesis_paper_letterhead.pdf>
-Package pdftex.def Info: figure/../format/dlsu_thesis_paper_letterhead.pdf used
- on input line 620.
-(pdftex.def)             Requested size: 614.31223pt x 794.99231pt.
- [86
-
-]
-File: figure/example_gray_box.pdf Graphic file (type pdf)
-
-<use figure/example_gray_box.pdf>
-Package pdftex.def Info: figure/example_gray_box.pdf used on input line 631.
-(pdftex.def)             Requested size: 150.27585pt x 150.27951pt.
-File: figure/example_gray_box.pdf Graphic file (type pdf)
- <use figure/example_gray_box.pdf>
-Package pdftex.def Info: figure/example_gray_box.pdf used on input line 636.
-(pdftex.def)             Requested size: 150.27585pt x 150.27951pt.
-File: figure/example_gray_box.pdf Graphic file (type pdf)
-
-<use figure/example_gray_box.pdf>
-Package pdftex.def Info: figure/example_gray_box.pdf used on input line 641.
-(pdftex.def)             Requested size: 150.27585pt x 150.27951pt.
-File: figure/../format/dlsu_thesis_paper_letterhead.pdf Graphic file (type pdf)
-
-
-<use figure/../format/dlsu_thesis_paper_letterhead.pdf>
-Package pdftex.def Info: figure/../format/dlsu_thesis_paper_letterhead.pdf used
- on input line 645.
-(pdftex.def)             Requested size: 614.31223pt x 794.99231pt.
- [87]
-File: figure/../format/dlsu_thesis_paper_letterhead.pdf Graphic file (type pdf)
-
-
-<use figure/../format/dlsu_thesis_paper_letterhead.pdf>
-Package pdftex.def Info: figure/../format/dlsu_thesis_paper_letterhead.pdf used
- on input line 676.
-(pdftex.def)             Requested size: 614.31223pt x 794.99231pt.
- [88
-
-
-]
-File: figure/example_gray_box.pdf Graphic file (type pdf)
-
-<use figure/example_gray_box.pdf>
-Package pdftex.def Info: figure/example_gray_box.pdf used on input line 689.
-(pdftex.def)             Requested size: 193.20712pt x 193.21254pt.
-File: figure/example_gray_box.pdf Graphic file (type pdf)
- <use figure/example_gray_box.pdf>
-Package pdftex.def Info: figure/example_gray_box.pdf used on input line 694.
-(pdftex.def)             Requested size: 193.20712pt x 193.21254pt.
-File: figure/example_gray_box.pdf Graphic file (type pdf)
-
-<use figure/example_gray_box.pdf>
-Package pdftex.def Info: figure/example_gray_box.pdf used on input line 699.
-(pdftex.def)             Requested size: 193.20712pt x 193.21254pt.
-File: figure/example_gray_box.pdf Graphic file (type pdf)
- <use figure/example_gray_box.pdf>
-Package pdftex.def Info: figure/example_gray_box.pdf used on input line 704.
-(pdftex.def)             Requested size: 193.20712pt x 193.21254pt.
-File: figure/../format/dlsu_thesis_paper_letterhead.pdf Graphic file (type pdf)
-
-
-<use figure/../format/dlsu_thesis_paper_letterhead.pdf>
-Package pdftex.def Info: figure/../format/dlsu_thesis_paper_letterhead.pdf used
- on input line 708.
-(pdftex.def)             Requested size: 614.31223pt x 794.99231pt.
- [89
-
-]
-File: figure/../format/dlsu_thesis_paper_letterhead.pdf Graphic file (type pdf)
-
-
-<use figure/../format/dlsu_thesis_paper_letterhead.pdf>
-Package pdftex.def Info: figure/../format/dlsu_thesis_paper_letterhead.pdf used
- on input line 744.
-(pdftex.def)             Requested size: 614.31223pt x 794.99231pt.
- [90
-
-]
-Underfull \vbox (badness 10000) detected at line 843
+ [14]
+Overfull \hbox (10.65205pt too wide) in paragraph at lines 57--57
+[]\OT1/phv/b/n/14.4 T. Kalyani, et.al. (2018). En-ergy Ef-fi-cient Sun Syn-chro
+nous
  []
-
-File: figure/../format/dlsu_thesis_paper_letterhead.pdf Graphic file (type pdf)
-
-<use figure/../format/dlsu_thesis_paper_letterhead.pdf>
-Package pdftex.def Info: figure/../format/dlsu_thesis_paper_letterhead.pdf used
- on input line 843.
-(pdftex.def)             Requested size: 614.31223pt x 794.99231pt.
- [91
-
-]
-File: figure/../format/dlsu_thesis_paper_letterhead.pdf Graphic file (type pdf)
-
-
-<use figure/../format/dlsu_thesis_paper_letterhead.pdf>
-Package pdftex.def Info: figure/../format/dlsu_thesis_paper_letterhead.pdf used
- on input line 846.
-(pdftex.def)             Requested size: 614.31223pt x 794.99231pt.
- [92]
-File: figure/../format/dlsu_thesis_paper_letterhead.pdf Graphic file (type pdf)
-
-
-<use figure/../format/dlsu_thesis_paper_letterhead.pdf>
-Package pdftex.def Info: figure/../format/dlsu_thesis_paper_letterhead.pdf used
- on input line 907.
-(pdftex.def)             Requested size: 614.31223pt x 794.99231pt.
- [93
-
-]
-File: figure/../format/dlsu_thesis_paper_letterhead.pdf Graphic file (type pdf)
-
-
-<use figure/../format/dlsu_thesis_paper_letterhead.pdf>
-Package pdftex.def Info: figure/../format/dlsu_thesis_paper_letterhead.pdf used
- on input line 956.
-(pdftex.def)             Requested size: 614.31223pt x 794.99231pt.
- [94]
-LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <10> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 977.
-LaTeX Font Info:    Font shape `OMS/ptm/m/n' in size <10> not available
-(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 1004.
-
-File: figure/../format/dlsu_thesis_paper_letterhead.pdf Graphic file (type pdf)
-
-
-<use figure/../format/dlsu_thesis_paper_letterhead.pdf>
-Package pdftex.def Info: figure/../format/dlsu_thesis_paper_letterhead.pdf used
- on input line 1012.
-(pdftex.def)             Requested size: 614.31223pt x 794.99231pt.
- [95
-
-]
-File: figure/../format/dlsu_thesis_paper_letterhead.pdf Graphic file (type pdf)
-
-
-<use figure/../format/dlsu_thesis_paper_letterhead.pdf>
-Package pdftex.def Info: figure/../format/dlsu_thesis_paper_letterhead.pdf used
- on input line 1066.
-(pdftex.def)             Requested size: 614.31223pt x 794.99231pt.
- [96
-
-]
-("C:\Program Files\MiKTeX 2.9\tex\latex\listings\lstlang1.sty"
-File: lstlang1.sty 2015/06/04 1.6 listings language file
-)
-("C:\Program Files\MiKTeX 2.9\tex\latex\listings\lstmisc.sty"
-File: lstmisc.sty 2015/06/04 1.6 (Carsten Heinz)
-) (code/fibo.c)
-File: figure/../format/dlsu_thesis_paper_letterhead.pdf Graphic file (type pdf)
-
-
-<use figure/../format/dlsu_thesis_paper_letterhead.pdf>
-Package pdftex.def Info: figure/../format/dlsu_thesis_paper_letterhead.pdf used
- on input line 1092.
-(pdftex.def)             Requested size: 614.31223pt x 794.99231pt.
- [97
-
-]
-File: figure/../format/dlsu_thesis_paper_letterhead.pdf Graphic file (type pdf)
-
-
-<use figure/../format/dlsu_thesis_paper_letterhead.pdf>
-Package pdftex.def Info: figure/../format/dlsu_thesis_paper_letterhead.pdf used
- on input line 1093.
-(pdftex.def)             Requested size: 614.31223pt x 794.99231pt.
- [98]
-File: figure/../format/dlsu_thesis_paper_letterhead.pdf Graphic file (type pdf)
-
-
-<use figure/../format/dlsu_thesis_paper_letterhead.pdf>
-Package pdftex.def Info: figure/../format/dlsu_thesis_paper_letterhead.pdf used
- on input line 1120.
-(pdftex.def)             Requested size: 614.31223pt x 794.99231pt.
- [99
-
-]
-File: figure/../format/dlsu_thesis_paper_letterhead.pdf Graphic file (type pdf)
-
-
-<use figure/../format/dlsu_thesis_paper_letterhead.pdf>
-Package pdftex.def Info: figure/../format/dlsu_thesis_paper_letterhead.pdf used
- on input line 1141.
-(pdftex.def)             Requested size: 614.31223pt x 794.99231pt.
- [100
-
-]
-File: figure/../format/dlsu_thesis_paper_letterhead.pdf Graphic file (type pdf)
-
-
-<use figure/../format/dlsu_thesis_paper_letterhead.pdf>
-Package pdftex.def Info: figure/../format/dlsu_thesis_paper_letterhead.pdf used
- on input line 1163.
-(pdftex.def)             Requested size: 614.31223pt x 794.99231pt.
- [101
-
-]
-File: figure/../format/dlsu_thesis_paper_letterhead.pdf Graphic file (type pdf)
-
-
-<use figure/../format/dlsu_thesis_paper_letterhead.pdf>
-Package pdftex.def Info: figure/../format/dlsu_thesis_paper_letterhead.pdf used
- on input line 1201.
-(pdftex.def)             Requested size: 614.31223pt x 794.99231pt.
- [102
-
-]
-File: figure/../format/dlsu_thesis_paper_letterhead.pdf Graphic file (type pdf)
-
-
-<use figure/../format/dlsu_thesis_paper_letterhead.pdf>
-Package pdftex.def Info: figure/../format/dlsu_thesis_paper_letterhead.pdf used
- on input line 1232.
-(pdftex.def)             Requested size: 614.31223pt x 794.99231pt.
- [103]
-File: figure/../format/dlsu_thesis_paper_letterhead.pdf Graphic file (type pdf)
-
-
-<use figure/../format/dlsu_thesis_paper_letterhead.pdf>
-Package pdftex.def Info: figure/../format/dlsu_thesis_paper_letterhead.pdf used
- on input line 1264.
-(pdftex.def)             Requested size: 614.31223pt x 794.99231pt.
- [104]
-File: figure/../format/dlsu_thesis_paper_letterhead.pdf Graphic file (type pdf)
-
-
-<use figure/../format/dlsu_thesis_paper_letterhead.pdf>
-Package pdftex.def Info: figure/../format/dlsu_thesis_paper_letterhead.pdf used
- on input line 1299.
-(pdftex.def)             Requested size: 614.31223pt x 794.99231pt.
- [105]
-File: figure/../format/dlsu_thesis_paper_letterhead.pdf Graphic file (type pdf)
-
-
-<use figure/../format/dlsu_thesis_paper_letterhead.pdf>
-Package pdftex.def Info: figure/../format/dlsu_thesis_paper_letterhead.pdf used
- on input line 1323.
-(pdftex.def)             Requested size: 614.31223pt x 794.99231pt.
- [106]
-File: figure/../format/dlsu_thesis_paper_letterhead.pdf Graphic file (type pdf)
-
-
-<use figure/../format/dlsu_thesis_paper_letterhead.pdf>
-Package pdftex.def Info: figure/../format/dlsu_thesis_paper_letterhead.pdf used
- on input line 1357.
-(pdftex.def)             Requested size: 614.31223pt x 794.99231pt.
- [107]
-File: figure/../format/dlsu_thesis_paper_letterhead.pdf Graphic file (type pdf)
-
-
-<use figure/../format/dlsu_thesis_paper_letterhead.pdf>
-Package pdftex.def Info: figure/../format/dlsu_thesis_paper_letterhead.pdf used
- on input line 1383.
-(pdftex.def)             Requested size: 614.31223pt x 794.99231pt.
- [108]
-File: figure/../format/dlsu_thesis_paper_letterhead.pdf Graphic file (type pdf)
-
-
-<use figure/../format/dlsu_thesis_paper_letterhead.pdf>
-Package pdftex.def Info: figure/../format/dlsu_thesis_paper_letterhead.pdf used
- on input line 1410.
-(pdftex.def)             Requested size: 614.31223pt x 794.99231pt.
- [109
-
-]
-File: figure/../format/dlsu_thesis_paper_letterhead.pdf Graphic file (type pdf)
-
-
-<use figure/../format/dlsu_thesis_paper_letterhead.pdf>
-Package pdftex.def Info: figure/../format/dlsu_thesis_paper_letterhead.pdf used
- on input line 1433.
-(pdftex.def)             Requested size: 614.31223pt x 794.99231pt.
- [110
 
-]
-<./reference/Xilinx2015-UltraScale-Architecture-Overview.pdf, id=2435, 614.295p
-t x 794.97pt>
-File: ./reference/Xilinx2015-UltraScale-Architecture-Overview.pdf Graphic file 
-(type pdf)
-
-<use ./reference/Xilinx2015-UltraScale-Architecture-Overview.pdf>
-Package pdftex.def Info: ./reference/Xilinx2015-UltraScale-Architecture-Overvie
-w.pdf used on input line 1440.
-(pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
-File: ./reference/Xilinx2015-UltraScale-Architecture-Overview.pdf Graphic file 
-(type pdf)
-
-<use ./reference/Xilinx2015-UltraScale-Architecture-Overview.pdf>
-Package pdftex.def Info: ./reference/Xilinx2015-UltraScale-Architecture-Overvie
-w.pdf used on input line 1440.
-(pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
-
-<./reference/Xilinx2015-UltraScale-Architecture-Overview.pdf, id=2438, page=8, 
-614.295pt x 794.97pt>
-File: ./reference/Xilinx2015-UltraScale-Architecture-Overview.pdf Graphic file 
-(type pdf)
-
-<use ./reference/Xilinx2015-UltraScale-Architecture-Overview.pdf, page 8>
-Package pdftex.def Info: ./reference/Xilinx2015-UltraScale-Architecture-Overvie
-w.pdf, page8 used on input line 1440.
-(pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
-File: ./reference/Xilinx2015-UltraScale-Architecture-Overview.pdf Graphic file 
-(type pdf)
-
-<use ./reference/Xilinx2015-UltraScale-Architecture-Overview.pdf, page 8>
-Package pdftex.def Info: ./reference/Xilinx2015-UltraScale-Architecture-Overvie
-w.pdf, page8 used on input line 1440.
-(pdftex.def)             Requested size: 448.43161pt x 580.32329pt.
-File: ./reference/Xilinx2015-UltraScale-Architecture-Overview.pdf Graphic file 
-(type pdf)
-
-<use ./reference/Xilinx2015-UltraScale-Architecture-Overview.pdf, page 8>
-Package pdftex.def Info: ./reference/Xilinx2015-UltraScale-Architecture-Overvie
-w.pdf, page8 used on input line 1440.
-(pdftex.def)             Requested size: 448.43161pt x 580.32329pt.
-File: ./reference/Xilinx2015-UltraScale-Architecture-Overview.pdf Graphic file 
-(type pdf)
-
-<use ./reference/Xilinx2015-UltraScale-Architecture-Overview.pdf, page 8>
-Package pdftex.def Info: ./reference/Xilinx2015-UltraScale-Architecture-Overvie
-w.pdf, page8 used on input line 1440.
-(pdftex.def)             Requested size: 448.43161pt x 580.32329pt.
 File: figure/../format/dlsu_thesis_paper_letterhead.pdf Graphic file (type pdf)
-
 
 <use figure/../format/dlsu_thesis_paper_letterhead.pdf>
 Package pdftex.def Info: figure/../format/dlsu_thesis_paper_letterhead.pdf used
- on input line 1440.
+ on input line 59.
 (pdftex.def)             Requested size: 614.31223pt x 794.99231pt.
-File: ./reference/Xilinx2015-UltraScale-Architecture-Overview.pdf Graphic file 
-(type pdf)
-
-<use ./reference/Xilinx2015-UltraScale-Architecture-Overview.pdf, page 8>
-Package pdftex.def Info: ./reference/Xilinx2015-UltraScale-Architecture-Overvie
-w.pdf, page8 used on input line 1440.
-(pdftex.def)             Requested size: 448.43161pt x 580.32329pt.
-
-[111
-
- <./reference/Xilinx2015-UltraScale-Architecture-Overview.pdf>]
-<./reference/Xilinx2015-UltraScale-Architecture-Overview.pdf, id=2463, page=9, 
-614.295pt x 794.97pt>
-File: ./reference/Xilinx2015-UltraScale-Architecture-Overview.pdf Graphic file 
-(type pdf)
-
-<use ./reference/Xilinx2015-UltraScale-Architecture-Overview.pdf, page 9>
-Package pdftex.def Info: ./reference/Xilinx2015-UltraScale-Architecture-Overvie
-w.pdf, page9 used on input line 1440.
-(pdftex.def)             Requested size: 448.43161pt x 580.32329pt.
-File: ./reference/Xilinx2015-UltraScale-Architecture-Overview.pdf Graphic file 
-(type pdf)
-
-<use ./reference/Xilinx2015-UltraScale-Architecture-Overview.pdf, page 9>
-Package pdftex.def Info: ./reference/Xilinx2015-UltraScale-Architecture-Overvie
-w.pdf, page9 used on input line 1440.
-(pdftex.def)             Requested size: 448.43161pt x 580.32329pt.
+ [15]
 File: figure/../format/dlsu_thesis_paper_letterhead.pdf Graphic file (type pdf)
 
 
 <use figure/../format/dlsu_thesis_paper_letterhead.pdf>
 Package pdftex.def Info: figure/../format/dlsu_thesis_paper_letterhead.pdf used
- on input line 1440.
+ on input line 67.
 (pdftex.def)             Requested size: 614.31223pt x 794.99231pt.
-File: ./reference/Xilinx2015-UltraScale-Architecture-Overview.pdf Graphic file 
-(type pdf)
-
-<use ./reference/Xilinx2015-UltraScale-Architecture-Overview.pdf, page 9>
-Package pdftex.def Info: ./reference/Xilinx2015-UltraScale-Architecture-Overvie
-w.pdf, page9 used on input line 1440.
-(pdftex.def)             Requested size: 448.43161pt x 580.32329pt.
-
-[112 <./reference/Xilinx2015-UltraScale-Architecture-Overview.pdf>]
-<./reference/Xilinx2015-UltraScale-Architecture-Overview.pdf, id=2472, page=10,
- 614.295pt x 794.97pt>
-File: ./reference/Xilinx2015-UltraScale-Architecture-Overview.pdf Graphic file 
-(type pdf)
-
-<use ./reference/Xilinx2015-UltraScale-Architecture-Overview.pdf, page 10>
-Package pdftex.def Info: ./reference/Xilinx2015-UltraScale-Architecture-Overvie
-w.pdf, page10 used on input line 1440.
-(pdftex.def)             Requested size: 448.43161pt x 580.32329pt.
-File: ./reference/Xilinx2015-UltraScale-Architecture-Overview.pdf Graphic file 
-(type pdf)
-
-<use ./reference/Xilinx2015-UltraScale-Architecture-Overview.pdf, page 10>
-Package pdftex.def Info: ./reference/Xilinx2015-UltraScale-Architecture-Overvie
-w.pdf, page10 used on input line 1440.
-(pdftex.def)             Requested size: 448.43161pt x 580.32329pt.
+ [16])
 File: figure/../format/dlsu_thesis_paper_letterhead.pdf Graphic file (type pdf)
 
 
 <use figure/../format/dlsu_thesis_paper_letterhead.pdf>
 Package pdftex.def Info: figure/../format/dlsu_thesis_paper_letterhead.pdf used
- on input line 1440.
+ on input line 228.
 (pdftex.def)             Requested size: 614.31223pt x 794.99231pt.
-File: ./reference/Xilinx2015-UltraScale-Architecture-Overview.pdf Graphic file 
-(type pdf)
-
-<use ./reference/Xilinx2015-UltraScale-Architecture-Overview.pdf, page 10>
-Package pdftex.def Info: ./reference/Xilinx2015-UltraScale-Architecture-Overvie
-w.pdf, page10 used on input line 1440.
-(pdftex.def)             Requested size: 448.43161pt x 580.32329pt.
-
-[113 <./reference/Xilinx2015-UltraScale-Architecture-Overview.pdf>])
-\openout2 = `vita.aux'.
-
- (vita.tex
-<figure/vita_photo.pdf, id=2482, 150.5625pt x 150.5625pt>
-File: figure/vita_photo.pdf Graphic file (type pdf)
-
-<use figure/vita_photo.pdf>
-Package pdftex.def Info: figure/vita_photo.pdf used on input line 11.
-(pdftex.def)             Requested size: 85.8691pt x 85.87204pt.
-File: figure/vita_photo.pdf Graphic file (type pdf)
- <use figure/vita_photo.pdf>
-Package pdftex.def Info: figure/vita_photo.pdf used on input line 11.
-(pdftex.def)             Requested size: 85.8691pt x 85.87204pt.
-File: figure/vita_photo.pdf Graphic file (type pdf)
-
-<use figure/vita_photo.pdf>
-Package pdftex.def Info: figure/vita_photo.pdf used on input line 11.
-(pdftex.def)             Requested size: 85.8691pt x 85.87204pt.
+ [17]
+Excluding 'comment' comment. Excluding 'comment' comment.
+Excluding 'comment' comment. (document.bbl
 File: figure/../format/dlsu_thesis_paper_letterhead.pdf Graphic file (type pdf)
 
 
 <use figure/../format/dlsu_thesis_paper_letterhead.pdf>
 Package pdftex.def Info: figure/../format/dlsu_thesis_paper_letterhead.pdf used
- on input line 11.
+ on input line 444.
 (pdftex.def)             Requested size: 614.31223pt x 794.99231pt.
- [114
-
-
-
+ [18
 
 
- <./figure/vita_photo.pdf>]
-File: figure/vita_photo.pdf Graphic file (type pdf)
- <use figure/vita_photo.pdf>
-Package pdftex.def Info: figure/vita_photo.pdf used on input line 11.
-(pdftex.def)             Requested size: 85.8691pt x 85.87204pt.
-File: figure/vita_photo.pdf Graphic file (type pdf)
- <use figure/vita_photo.pdf>
-Package pdftex.def Info: figure/vita_photo.pdf used on input line 11.
-(pdftex.def)             Requested size: 85.8691pt x 85.87204pt.
-)
+])
+Excluding 'comment' comment.
 File: figure/../format/dlsu_thesis_paper_letterhead.pdf Graphic file (type pdf)
 
 
 <use figure/../format/dlsu_thesis_paper_letterhead.pdf>
 Package pdftex.def Info: figure/../format/dlsu_thesis_paper_letterhead.pdf used
- on input line 373.
+ on input line 337.
 (pdftex.def)             Requested size: 614.31223pt x 794.99231pt.
- [115]
-No file document.ind.
+ [19]
 \tf@ptc=\write13
 \openout13 = `document.ptc'.
 
-
-Package datagidx Warning: Rerun required to sort the index/glossary databases.
-
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 383.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 383.
-(document.aux (introduction.aux) (literature_review.aux)
-(theoretical_considerations.aux) (design_considerations.aux) (methodology.aux)
-(results_and_discussions.aux) (conclusions.aux) (answers_to_questions.aux)
-(revisions_to_the_proposal.aux) (revisions_to_the_final.aux)
-(usage_examples.aux) (vita.aux))
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 383.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 383.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 408.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 408.
+ (document.aux
+(introduction.aux) (literature_review.aux))
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 408.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 408.
 Package rerunfilecheck Info: File `document.out' has not changed.
-(rerunfilecheck)             Checksum: 325B21161990A25EAC60BAAE6CD0D3A7;5130.
+(rerunfilecheck)             Checksum: CA8CC81AFBBB50ACBCA645404774EF97;5016.
  ) 
 Here is how much of TeX's memory you used:
- 37611 strings out of 493323
- 625956 string characters out of 3139031
- 1393769 words of memory out of 3000000
- 38850 multiletter control sequences out of 15000+200000
- 89312 words of font info for 403 fonts, out of 3000000 for 9000
+ 34248 strings out of 493323
+ 578283 string characters out of 3139031
+ 813886 words of memory out of 3000000
+ 36886 multiletter control sequences out of 15000+200000
+ 32456 words of font info for 145 fonts, out of 3000000 for 9000
  1149 hyphenation exceptions out of 8191
- 65i,20n,126p,1085b,2060s stack positions out of 5000i,500n,10000p,200000b,50000s
- <C:\Users\alnair.m.guevarra\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\public\
-cmbright\dpi720\cmbrmb10.pk> <C:\Users\alnair.m.guevarra\AppData\Local\MiKTeX\2
-.9\fonts\pk\ljfour\public\cmbright\dpi720\cmbrmi10.pk>{C:/Program Files/MiKTeX 
-2.9/fonts/enc/dvips/base/8r.enc}<C:/Program Files/MiKTeX 2.9/fonts/type1/public
-/amsfonts/cm/cmbsy10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfon
-ts/cm/cmbx12.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cm
-bx8.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbxti10.pf
-b><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmex10.pfb><C:/Pr
-ogram Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmitt10.pfb><C:/Program F
-iles/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi10.pfb><C:/Program Files/MiK
-TeX 2.9/fonts/type1/public/amsfonts/cm/cmmi12.pfb><C:/Program Files/MiKTeX 2.9/
-fonts/type1/public/amsfonts/cm/cmmi7.pfb><C:/Program Files/MiKTeX 2.9/fonts/typ
-e1/public/amsfonts/cm/cmmi8.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public
-/amsfonts/cm/cmmib10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfon
-ts/cmextra/cmmib8.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/
-cm/cmr10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr12.
-pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr7.pfb><C:/Pr
-ogram Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr8.pfb><C:/Program File
-s/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmss12.pfb><C:/Program Files/MiKTeX
- 2.9/fonts/type1/public/amsfonts/cm/cmssbx10.pfb><C:/Program Files/MiKTeX 2.9/f
-onts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Program Files/MiKTeX 2.9/fonts/typ
-e1/public/amsfonts/cm/cmsy8.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public
-/amsfonts/cm/cmsy9.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts
-/cm/cmti12.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmtt
-12.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmtt9.pfb><C
-:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/symbols/msam10.pfb><C:/P
-rogram Files/MiKTeX 2.9/fonts/type1/public/amsfonts/symbols/msbm10.pfb><C:/Prog
-ram Files/MiKTeX 2.9/fonts/type1/urw/helvetic/uhvb8a.pfb><C:/Program Files/MiKT
-eX 2.9/fonts/type1/urw/helvetic/uhvr8a.pfb><C:/Program Files/MiKTeX 2.9/fonts/t
-ype1/urw/times/utmb8a.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/urw/times/ut
-mr8a.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/urw/times/utmri8a.pfb>
-Output written on document.pdf (129 pages, 1610554 bytes).
+ 62i,15n,82p,1085b,549s stack positions out of 5000i,500n,10000p,200000b,50000s
+{C:/Program Files/MiKTeX 2.9/fonts/enc/dvips/base/8r.enc}<C:/Program Files/Mi
+KTeX 2.9/fonts/type1/urw/helvetic/uhvb8a.pfb><C:/Program Files/MiKTeX 2.9/fonts
+/type1/urw/times/utmb8a.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/urw/times/
+utmr8a.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/urw/times/utmri8a.pfb>
+Output written on document.pdf (27 pages, 514248 bytes).
 PDF statistics:
- 2868 PDF objects out of 2984 (max. 8388607)
- 1085 named destinations out of 1200 (max. 500000)
- 63727 words of extra memory for PDF output out of 74296 (max. 10000000)
+ 505 PDF objects out of 1000 (max. 8388607)
+ 92 named destinations out of 1000 (max. 500000)
+ 23917 words of extra memory for PDF output out of 24883 (max. 10000000)
 
