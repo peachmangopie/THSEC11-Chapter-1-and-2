@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.19 (MiKTeX 2.9.6730 64-bit) (preloaded format=pdflatex 2018.7.26)  24 SEP 2018 18:32
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (MiKTeX 2.9.6730 64-bit) (preloaded format=pdflatex 2018.7.26)  24 SEP 2018 19:15
 entering extended mode
 **./document.tex
 (document.tex
@@ -1864,21 +1864,21 @@ File: figure/../format/dlsu_thesis_paper_letterhead.pdf Graphic file (type pdf)
 
 <use figure/../format/dlsu_thesis_paper_letterhead.pdf>
 Package pdftex.def Info: figure/../format/dlsu_thesis_paper_letterhead.pdf  use
-d on input line 33.
+d on input line 19.
 (pdftex.def)             Requested size: 614.31223pt x 794.99231pt.
  [3]
 File: figure/../format/dlsu_thesis_paper_letterhead.pdf Graphic file (type pdf)
 
 <use figure/../format/dlsu_thesis_paper_letterhead.pdf>
 Package pdftex.def Info: figure/../format/dlsu_thesis_paper_letterhead.pdf  use
-d on input line 42.
+d on input line 28.
 (pdftex.def)             Requested size: 614.31223pt x 794.99231pt.
  [4]
 File: figure/../format/dlsu_thesis_paper_letterhead.pdf Graphic file (type pdf)
 
 <use figure/../format/dlsu_thesis_paper_letterhead.pdf>
 Package pdftex.def Info: figure/../format/dlsu_thesis_paper_letterhead.pdf  use
-d on input line 67.
+d on input line 53.
 (pdftex.def)             Requested size: 614.31223pt x 794.99231pt.
 
 [5]
@@ -1886,27 +1886,27 @@ File: figure/../format/dlsu_thesis_paper_letterhead.pdf Graphic file (type pdf)
 
 <use figure/../format/dlsu_thesis_paper_letterhead.pdf>
 Package pdftex.def Info: figure/../format/dlsu_thesis_paper_letterhead.pdf  use
-d on input line 83.
+d on input line 69.
 (pdftex.def)             Requested size: 614.31223pt x 794.99231pt.
  [6]
 File: figure/../format/dlsu_thesis_paper_letterhead.pdf Graphic file (type pdf)
 
 <use figure/../format/dlsu_thesis_paper_letterhead.pdf>
 Package pdftex.def Info: figure/../format/dlsu_thesis_paper_letterhead.pdf  use
-d on input line 108.
+d on input line 94.
 (pdftex.def)             Requested size: 614.31223pt x 794.99231pt.
  [7]
 File: figure/../format/dlsu_thesis_paper_letterhead.pdf Graphic file (type pdf)
 
 <use figure/../format/dlsu_thesis_paper_letterhead.pdf>
 Package pdftex.def Info: figure/../format/dlsu_thesis_paper_letterhead.pdf  use
-d on input line 133.
+d on input line 119.
 (pdftex.def)             Requested size: 614.31223pt x 794.99231pt.
  [8]
-<figure/EyeFlowchart.jpeg, id=513, 562.35094pt x 307.1475pt>
+<figure/EyeFlowchart.jpeg, id=509, 562.35094pt x 307.1475pt>
 File: figure/EyeFlowchart.jpeg Graphic file (type jpg)
 <use figure/EyeFlowchart.jpeg>
-Package pdftex.def Info: figure/EyeFlowchart.jpeg  used on input line 138.
+Package pdftex.def Info: figure/EyeFlowchart.jpeg  used on input line 124.
 (pdftex.def)             Requested size: 393.64297pt x 215.00177pt.
 )
 File: figure/../format/dlsu_thesis_paper_letterhead.pdf Graphic file (type pdf)
@@ -2006,7 +2006,7 @@ d on input line 5.
  [18
 
 ]
-<figure/example_gray_box.pdf, id=561, 202.7575pt x 202.7575pt>
+<figure/example_gray_box.pdf, id=557, 202.7575pt x 202.7575pt>
 File: figure/example_gray_box.pdf Graphic file (type pdf)
 <use figure/example_gray_box.pdf>
 Package pdftex.def Info: figure/example_gray_box.pdf  used on input line 9.
@@ -2809,7 +2809,7 @@ d on input line 1439.
  [91
 
 ]
-<./reference/Xilinx2015-UltraScale-Architecture-Overview.pdf, id=1912, 614.295p
+<./reference/Xilinx2015-UltraScale-Architecture-Overview.pdf, id=1908, 614.295p
 t x 794.97pt>
 File: ./reference/Xilinx2015-UltraScale-Architecture-Overview.pdf Graphic file 
 (type pdf)
@@ -2823,7 +2823,7 @@ File: ./reference/Xilinx2015-UltraScale-Architecture-Overview.pdf Graphic file
 Package pdftex.def Info: ./reference/Xilinx2015-UltraScale-Architecture-Overvie
 w.pdf  used on input line 1446.
 (pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
-<./reference/Xilinx2015-UltraScale-Architecture-Overview.pdf, id=1915, page=8, 
+<./reference/Xilinx2015-UltraScale-Architecture-Overview.pdf, id=1911, page=8, 
 614.295pt x 794.97pt>
 File: ./reference/Xilinx2015-UltraScale-Architecture-Overview.pdf Graphic file 
 (type pdf)
@@ -2864,7 +2864,7 @@ w.pdf , page8 used on input line 1446.
  [92
 
  <./reference/Xilinx2015-UltraScale-Architecture-Overview.pdf>]
-<./reference/Xilinx2015-UltraScale-Architecture-Overview.pdf, id=1940, page=9, 
+<./reference/Xilinx2015-UltraScale-Architecture-Overview.pdf, id=1936, page=9, 
 614.295pt x 794.97pt>
 File: ./reference/Xilinx2015-UltraScale-Architecture-Overview.pdf Graphic file 
 (type pdf)
@@ -2891,7 +2891,7 @@ Package pdftex.def Info: ./reference/Xilinx2015-UltraScale-Architecture-Overvie
 w.pdf , page9 used on input line 1446.
 (pdftex.def)             Requested size: 448.43161pt x 580.32329pt.
  [93 <./reference/Xilinx2015-UltraScale-Architecture-Overview.pdf>]
-<./reference/Xilinx2015-UltraScale-Architecture-Overview.pdf, id=1949, page=10,
+<./reference/Xilinx2015-UltraScale-Architecture-Overview.pdf, id=1945, page=10,
  614.295pt x 794.97pt>
 File: ./reference/Xilinx2015-UltraScale-Architecture-Overview.pdf Graphic file 
 (type pdf)
@@ -2937,7 +2937,7 @@ d on input line 320.
 \openout2 = `vita.aux'.
 
  (vita.tex
-<figure/vita_photo.pdf, id=1975, 150.5625pt x 150.5625pt>
+<figure/vita_photo.pdf, id=1971, 150.5625pt x 150.5625pt>
 File: figure/vita_photo.pdf Graphic file (type pdf)
 <use figure/vita_photo.pdf>
 Package pdftex.def Info: figure/vita_photo.pdf  used on input line 11.
@@ -2982,9 +2982,6 @@ No file document.ind.
 \tf@ptc=\write13
 \openout13 = `document.ptc'.
 
-
-Package datagidx Warning: Rerun required to sort the index/glossary databases.
-
 Package atveryend Info: Empty hook `BeforeClearDocument' on input line 336.
 Package atveryend Info: Empty hook `AfterLastShipout' on input line 336.
 (document.aux (introduction.aux) (literature_review.aux)
@@ -3001,11 +2998,11 @@ LaTeX Warning: There were undefined references.
 
  ) 
 Here is how much of TeX's memory you used:
- 37529 strings out of 492973
- 626622 string characters out of 3135935
- 1388070 words of memory out of 3000000
- 39194 multiletter control sequences out of 15000+200000
- 88387 words of font info for 381 fonts, out of 3000000 for 9000
+ 37530 strings out of 492973
+ 626650 string characters out of 3135935
+ 1388914 words of memory out of 3000000
+ 39196 multiletter control sequences out of 15000+200000
+ 88506 words of font info for 383 fonts, out of 3000000 for 9000
  1149 hyphenation exceptions out of 8191
  65i,20n,126p,1085b,2194s stack positions out of 5000i,500n,10000p,200000b,50000s
  <C:\Users\user\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\public\cmbright\dpi7
@@ -3038,9 +3035,9 @@ eX 2.9/fonts/type1/public/amsfonts/symbols/msbm10.pfb><C:/Program Files/MiKTeX
 1/urw/helvetic/uhvr8a.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/urw/times/ut
 mb8a.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/urw/times/utmr8a.pfb><C:/Prog
 ram Files/MiKTeX 2.9/fonts/type1/urw/times/utmri8a.pfb>
-Output written on document.pdf (111 pages, 1039353 bytes).
+Output written on document.pdf (111 pages, 1039171 bytes).
 PDF statistics:
- 2347 PDF objects out of 2487 (max. 8388607)
- 1037 named destinations out of 1200 (max. 500000)
+ 2343 PDF objects out of 2487 (max. 8388607)
+ 1033 named destinations out of 1200 (max. 500000)
  63436 words of extra memory for PDF output out of 74296 (max. 10000000)
 
