@@ -6,7 +6,7 @@
 	\begin{SingleSpace}
 		\vfill
 		
-		\ifDraft
+		\ifPutLineNumbers
 			\TitleGuide
 		\fi
 		
@@ -31,7 +31,7 @@
 	\addcontentsline{toc}{chapter}{Acknowledgment}
 	\begin{SingleSpace}
 		\input{acknowledgment.tex}
-		\ifDraft
+		\ifPutLineNumbers
 			\AcknowledgmentGuide
 		\fi
 	\end{SingleSpace}
@@ -43,9 +43,9 @@
 \addcontentsline{toc}{chapter}{Abstract}
 \begin{DoubleSpace}
 	\input{abstract.tex}
-	\ifDraft
-		\AbstractGuide
-	\fi
+	%\ifPutLineNumbers
+		%\AbstractGuide
+	%\fi
 	\vspace{3ex} \noindent {\itshape Index Terms}---\keywords.
 \end{DoubleSpace}
 \cleardoublepage

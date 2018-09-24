@@ -1,160 +1,124 @@
-This is BibTeX, Version 0.99dThe top-level auxiliary file: document.aux
-A level-1 auxiliary file: introduction.aux
-A level-1 auxiliary file: literature_review.aux
-The style file: apacite.bst
-A level-1 auxiliary file: answers_to_questions.aux
-A level-1 auxiliary file: revisions_to_the_proposal.aux
-A level-1 auxiliary file: revisions_to_the_final.aux
-A level-1 auxiliary file: usage_examples.aux
+This is 8-bit Big BibTeX version 0.99d
+Implementation:  Microsoft(R) C/C++ for Win32
+Release version: 3.71 (18 mar 2013)
+
+The 8-bit codepage and sorting file: 88591lat.csf
+The top-level auxiliary file: document.aux
+A level-1 auxilliary file: introduction.aux
+A level-1 auxilliary file: literature_review.aux
+A level-1 auxilliary file: theoretical_considerations.aux
+A level-1 auxilliary file: design_considerations.aux
+A level-1 auxilliary file: methodology.aux
+A level-1 auxilliary file: results_and_discussion.aux
+A level-1 auxilliary file: conclusions.aux
+The style file: IEEEtr.bst
+A level-1 auxilliary file: answers_to_questions.aux
+A level-1 auxilliary file: usage_examples.aux
+A level-1 auxilliary file: publication.aux
+A level-1 auxilliary file: vita.aux
+Reallocated glb_str_ptr (elt_size=4) to 10 items from 0.
+Reallocated global_strs (elt_size=1001) to 10 items from 0.
+Reallocated glb_str_end (elt_size=4) to 10 items from 0.
 Database file #1: references.bib
-Warning--I didn't find a database entry for "Oetiker2014"
-Warning--I didn't find a database entry for "ISO800002"
-Warning--I didn't find a database entry for "chicago-82"
-Warning--I didn't find a database entry for "aristotle:rhetoric"
-Warning--I didn't find a database entry for "aristotle:anima"
-Warning--I didn't find a database entry for "aristotle:poetics"
-Warning--I didn't find a database entry for "aristotle:physics"
-Warning--I didn't find a database entry for "BCM-59"
-Warning--I didn't find a database entry for "augustine"
-Warning--I didn't find a database entry for "averroes/bland"
-Warning--I didn't find a database entry for "butcher-81"
-Warning--I didn't find a database entry for "chapman-75"
-Warning--I didn't find a database entry for "cicero"
-Warning--I didn't find a database entry for "coleridge"
-Warning--I didn't find a database entry for "cotton"
-Warning--I didn't find a database entry for "vangennep"
-Warning--I didn't find a database entry for "vangennep:related"
-Warning--I didn't find a database entry for "vangennep:trans"
-Warning--I didn't find a database entry for "gerhardt"
-Warning--I didn't find a database entry for "gonzalez"
-Warning--I didn't find a database entry for "companion"
-Warning--I didn't find a database entry for "hammond"
-Warning--I didn't find a database entry for "hershkovitz-62"
-Warning--I didn't find a database entry for "hoel-71-whole"
-Warning--I didn't find a database entry for "iliad"
-Warning--I didn't find a database entry for "book-full"
-Warning--I didn't find a database entry for "book-minimal"
-Warning--I didn't find a database entry for "whole-set"
-Warning--I didn't find a database entry for "kullback:related"
-Warning--I didn't find a database entry for "kullback:reprint"
-Warning--I didn't find a database entry for "kullback"
-Warning--I didn't find a database entry for "malinowski"
-Warning--I didn't find a database entry for "maron"
-Warning--I didn't find a database entry for "massa"
-Warning--I didn't find a database entry for "mccolvin-nodate"
-Warning--I didn't find a database entry for "nietzsche:ksa"
-Warning--I didn't find a database entry for "nietzsche:ksa1"
-Warning--I didn't find a database entry for "piccato"
-Warning--I didn't find a database entry for "smart-76"
-Warning--I didn't find a database entry for "vazques-de-parga"
-Warning--I didn't find a database entry for "wilde"
-Warning--I didn't find a database entry for "wood-61"
-Warning--I didn't find a database entry for "worman"
-Warning--I didn't find a database entry for "wright-78-book"
-Warning--I didn't find a database entry for "whole-collection"
-Warning--I didn't find a database entry for "booklet-full"
-Warning--I didn't find a database entry for "proceedings-full"
-Warning--I didn't find a database entry for "brandt"
-Warning--I didn't find a database entry for "bs-2570-inbook"
-Warning--I didn't find a database entry for "eckstein-zuckerman"
-Warning--I didn't find a database entry for "feigl-58"
-Warning--I didn't find a database entry for "gordon-75"
-Warning--I didn't find a database entry for "hanson-67"
-Warning--I didn't find a database entry for "hoel-71-portion"
-Warning--I didn't find a database entry for "hyman"
-Warning--I didn't find a database entry for "kant:kpv"
-Warning--I didn't find a database entry for "kant:ku"
-Warning--I didn't find a database entry for "inbook-full"
-Warning--I didn't find a database entry for "inbook-minimal"
-Warning--I didn't find a database entry for "incollection-full"
-Warning--I didn't find a database entry for "incollection-crossref"
-Warning--I didn't find a database entry for "incollection-minimal"
-Warning--I didn't find a database entry for "mcneill-63"
-Warning--I didn't find a database entry for "milton-24"
-Warning--I didn't find a database entry for "nietzsche:historie"
-Warning--I didn't find a database entry for "ogilvy-65"
-Warning--I didn't find a database entry for "pines"
-Warning--I didn't find a database entry for "ramsbottom-31"
-Warning--I didn't find a database entry for "ranganathan-51"
-Warning--I didn't find a database entry for "thomson-71"
-Warning--I didn't find a database entry for "westfahl:space"
-Warning--I didn't find a database entry for "wright-63"
-Warning--I didn't find a database entry for "wright-78-incollection"
-Warning--I didn't find a database entry for "chave-64"
-Warning--I didn't find a database entry for "chomsky-73"
-Warning--I didn't find a database entry for "moraux"
-Warning--I didn't find a database entry for "inproceedings-full"
-Warning--I didn't find a database entry for "inproceedings-crossref"
-Warning--I didn't find a database entry for "inproceedings-minimal"
-Warning--I didn't find a database entry for "salam"
-Warning--I didn't find a database entry for "article-crossref"
-Warning--I didn't find a database entry for "article-full"
-Warning--I didn't find a database entry for "article-minimal"
-Warning--I didn't find a database entry for "aksin"
-Warning--I didn't find a database entry for "angenendt"
-Warning--I didn't find a database entry for "aslin-49"
-Warning--I didn't find a database entry for "baez/article"
-Warning--I didn't find a database entry for "bertram"
-Warning--I didn't find a database entry for "bry-afflerbach"
-Warning--I didn't find a database entry for "doody"
-Warning--I didn't find a database entry for "Einstein"
-Warning--I didn't find a database entry for "fletcher-hopkins"
-Warning--I didn't find a database entry for "gillies"
-Warning--I didn't find a database entry for "glashow"
-Warning--I didn't find a database entry for "godfrey-59"
-Warning--I didn't find a database entry for "hanlon-72"
-Warning--I didn't find a database entry for "heller-lederis"
-Warning--I didn't find a database entry for "herrmann"
-Warning--I didn't find a database entry for "murray"
-Warning--I didn't find a database entry for "howells-66-pop"
-Warning--I didn't find a database entry for "howells-66-var"
-Warning--I didn't find a database entry for "howells-51"
-Warning--I didn't find a database entry for "jackson-79"
-Warning--I didn't find a database entry for "johnson-74"
-Warning--I didn't find a database entry for "moore:related"
-Warning--I didn't find a database entry for "moore"
-Warning--I didn't find a database entry for "prufer-64"
-Warning--I didn't find a database entry for "reese"
-Warning--I didn't find a database entry for "sarfraz"
-Warning--I didn't find a database entry for "shore"
-Warning--I didn't find a database entry for "sigfridsson"
-Warning--I didn't find a database entry for "weinberg"
-Warning--I didn't find a database entry for "yoon"
-Warning--I didn't find a database entry for "whole-journal"
-Warning--I didn't find a database entry for "croft-78"
-Warning--I didn't find a database entry for "maguire-76"
-Warning--I didn't find a database entry for "mann-68"
-Warning--I didn't find a database entry for "mastersthesis-full"
-Warning--I didn't find a database entry for "mastersthesis-minimal"
-Warning--I didn't find a database entry for "phdthesis-full"
-Warning--I didn't find a database entry for "phdthesis-minimal"
-Warning--I didn't find a database entry for "brunswick-85"
-Warning--I didn't find a database entry for "bs-6371"
-Warning--I didn't find a database entry for "bs-5605"
-Warning--I didn't find a database entry for "bs-1629"
-Warning--I didn't find a database entry for "bs-2570-techreport"
-Warning--I didn't find a database entry for "ellis-walton"
-Warning--I didn't find a database entry for "techreport-full"
-Warning--I didn't find a database entry for "techreport-minimal"
-Warning--I didn't find a database entry for "winget-67"
-Warning--I didn't find a database entry for "unpublished-minimal"
-Warning--I didn't find a database entry for "unpublished-full"
-Warning--I didn't find a database entry for "downes-74"
-Warning--I didn't find a database entry for "exchequer-34-39"
-Warning--I didn't find a database entry for "pym-24"
-Warning--I didn't find a database entry for "traquair-38"
-Warning--I didn't find a database entry for "almendro"
-Warning--I didn't find a database entry for "baez/online"
-Warning--I didn't find a database entry for "chiu"
-Warning--I didn't find a database entry for "itzhaki"
-Warning--I didn't find a database entry for "kowalik"
-Warning--I didn't find a database entry for "laufenberg"
-Warning--I didn't find a database entry for "loh"
-Warning--I didn't find a database entry for "markey"
-Warning--I didn't find a database entry for "misc-full"
-Warning--I didn't find a database entry for "padhye"
-Warning--I didn't find a database entry for "sorace"
-Warning--I didn't find a database entry for "wassenberg"
-Warning--I didn't find a database entry for "misc-minimal"
-apacite.bst [2013/07/21 v6.03 APA bibliography style]
-(There were 149 warnings)
+Warning--entry type for "almendro" isn't style-file defined
+--line 130 of file references.bib
+Warning--string name "cup" is undefined
+--line 168 of file references.bib
+Warning--string name "cup" is undefined
+--line 189 of file references.bib
+Warning--entry type for "baez/online" isn't style-file defined
+--line 297 of file references.bib
+Warning--string name "jams" is undefined
+--line 316 of file references.bib
+Warning--entry type for "chiu" isn't style-file defined
+--line 461 of file references.bib
+Warning--string name "anch-ie" is undefined
+--line 863 of file references.bib
+Warning--entry type for "itzhaki" isn't style-file defined
+--line 1026 of file references.bib
+Warning--entry type for "kowalik" isn't style-file defined
+--line 1179 of file references.bib
+Warning--entry type for "laufenberg" isn't style-file defined
+--line 1239 of file references.bib
+Warning--entry type for "loh" isn't style-file defined
+--line 1295 of file references.bib
+Warning--entry type for "markey" isn't style-file defined
+--line 1360 of file references.bib
+Warning--string name "cup" is undefined
+--line 1507 of file references.bib
+Warning--string name "dtv" is undefined
+--line 1530 of file references.bib
+Warning--string name "dtv" is undefined
+--line 1560 of file references.bib
+Warning--string name "dtv" is undefined
+--line 1586 of file references.bib
+Warning--string name "acm" is undefined
+--line 1620 of file references.bib
+Warning--string name "stoc" is undefined
+--line 1629 of file references.bib
+Warning--entry type for "padhye" isn't style-file defined
+--line 1653 of file references.bib
+Warning--string name "hup" is undefined
+--line 1736 of file references.bib
+Warning--entry type for "sorace" isn't style-file defined
+--line 1902 of file references.bib
+Warning--entry type for "wassenberg" isn't style-file defined
+--line 1978 of file references.bib
+Warning--entry type for "matuz:doody" isn't style-file defined
+--line 2123 of file references.bib
+Warning--string name "stoc" is undefined
+--line 2139 of file references.bib
+Warning--string name "acm" is undefined
+--line 2147 of file references.bib
+Warning--entry type for "jcg" isn't style-file defined
+--line 2152 of file references.bib
+Warning--string name "stoc" is undefined
+--line 2217 of file references.bib
+Warning--string name "stoc-key" is undefined
+--line 2220 of file references.bib
+Warning--string name "stoc" is undefined
+--line 2224 of file references.bib
+Warning--string name "acm" is undefined
+--line 2229 of file references.bib
+Warning--string name "stoc" is undefined
+--line 2231 of file references.bib
+Warning--string name "stoc-key" is undefined
+--line 2232 of file references.bib
+A bad cross reference---entry "westfahl:space"
+refers to entry "westfahl:frontier", which doesn't exist
+Warning--I didn't find a database entry for "geer"
+Warning--I didn't find a database entry for "westfahl:frontier"
+Warning--empty author in whole-journal
+Warning--empty title in whole-journal
+Warning--can't use both author and editor fields in aristotle:rhetoric
+Warning--empty publisher in aristotle:rhetoric
+Warning--can't use both author and editor fields in aristotle:anima
+Warning--empty publisher in aristotle:anima
+Warning--can't use both author and editor fields in aristotle:poetics
+Warning--empty publisher in BCM-59
+Warning--can't use both author and editor fields in averroes/bland
+Warning--can't use both author and editor fields in cicero
+Warning--can't use both author and editor fields in coleridge
+Warning--can't use both volume and number fields in coleridge
+Warning--can't use both author and editor fields in nietzsche:ksa
+Warning--can't use both author and editor fields in nietzsche:ksa1
+Warning--empty publisher in hanson-67
+Warning--can't use both author and editor fields in nietzsche:historie
+Warning--empty publisher in pines
+Warning--empty publisher in ranganathan-51
+Warning--empty booktitle in westfahl:space
+Warning--empty publisher in westfahl:space
+Warning--can't use both author and editor fields in wright-63
+Warning--empty publisher in wright-63
+Warning--empty journal in bertram
+Warning--empty journal in herrmann
+Warning--empty institution in winget-67
+
+Here's how much of BibTeX's memory you used:
+ Cites:               154 out of 750
+ Fields:             3531 out of 5000
+ Hash table:         4527 out of 5000
+ Strings:            1266 out of 4000
+ Free string pool:  20469 out of 65000
+ Wizard functions:   1876 out of 3000
+(There was 1 error message)

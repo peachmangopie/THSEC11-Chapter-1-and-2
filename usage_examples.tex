@@ -3,7 +3,7 @@ The user is expected to have a working knowledge of \LaTeX. A good introduction 
 
 
 
-\section{Equations}
+\section*{Equations}
 \label{sec:eqn_not}
 
 The following examples show how to typeset equations in \LaTeX.  This section also shows examples of the use of \verb| \gls{ } | commands in conjunction with the items that are in the \verb| notation.tex | file. \textbf{Please make sure that the entries in} \verb| notation.tex |\textbf{  are those that are referenced in the \LaTeX \ document files used by this \documentType.  Please comment out unused notations and be careful with the commas and brackets  in} \verb| notation.tex |.
@@ -84,7 +84,7 @@ Other example equations are as follows.
 
 
 \newpage
-\section{Notations}
+\section*{Notations}
 \label{sec:not}
 In order to use the standardized notation, the user is highly suggested to see the ISO~80000-2 standard~\cite{ISO800002}. 
 
@@ -111,7 +111,7 @@ v,w,
 }
 
 
-\subsection{Math alphabets}
+\subsection*{Math alphabets}
 
 If there are other symbols in place of Greek letters in a math
 alphabet, it uses T1 or OT1 font encoding instead of OML.
@@ -143,14 +143,14 @@ $
 \mathnormal  {T C \Theta \Gamma}
 $
 
-\subsection{Vector symbols}
+\subsection*{Vector symbols}
 
 Alphabetic symbols for vectors are boldface italic,
 $\vec{\lambda}=\vec{e}_{1}\cdot\vec{a}$,
 while numeric ones (e.g. the zero vector) are bold upright,
 $\vec{a} + \vec{0} = \vec{a}$.
 
-\subsection{Matrix symbols}
+\subsection*{Matrix symbols}
 
 Symbols for matrices are boldface italic, too:%
 \footnote{However, matrix symbols are usually capital letters whereas vectors
@@ -160,7 +160,7 @@ vector $\vec{F}$ or the electrical field $\vec{E}$.%
 $\matrixsym{\Lambda}=\matrixsym{E}\cdot\matrixsym{A}.$
 
 
-\subsection{Tensor symbols}
+\subsection*{Tensor symbols}
 
 Symbols for tensors are sans-serif bold italic,
 
@@ -178,7 +178,7 @@ displacement: \[
 
 
 \newpage
-\subsection{Bold math version}
+\subsection*{Bold math version}
 
 The ``bold'' math version is selected with the commands
 \verb+\boldmath+ or \verb+\mathversion{bold}+
@@ -211,7 +211,7 @@ The ``bold'' math version is selected with the commands
 	\mathnormal  {T C \Theta \Gamma}
 	$
 
-	\subsubsection{Vector symbols}
+	\subsection*{Vector symbols}
 
 	Alphabetic symbols for vectors are boldface italic,
 	$\vec{\lambda}=\vec{e}_{1}\cdot\vec{a}$,
@@ -221,7 +221,7 @@ The ``bold'' math version is selected with the commands
 
 
 
-	\subsubsection{Matrix symbols}
+	\subsection*{Matrix symbols}
 
 	Symbols for matrices are boldface italic, too:%
 	\footnote{However, matrix symbols are usually capital letters whereas vectors
@@ -231,7 +231,7 @@ The ``bold'' math version is selected with the commands
 	$\matrixsym{\Lambda}=\matrixsym{E}\cdot\matrixsym{A}.$
 
 
-	\subsubsection{Tensor symbols}
+	\subsection*{Tensor symbols}
 
 	Symbols for tensors are sans-serif bold italic,
 
@@ -283,7 +283,7 @@ v,w,
 }
 
 
-\subsection{Math alphabets}
+\subsection*{Math alphabets}
 
 If there are other symbols in place of Greek letters in a math
 alphabet, it uses T1 or OT1 font encoding instead of OML.
@@ -315,14 +315,14 @@ $
 \mathnormal  {T C \Theta \Gamma}
 $
 
-\subsection{Vector symbols}
+\subsection*{Vector symbols}
 
 Alphabetic symbols for vectors are boldface italic,
 $\vec{\lambda}=\vec{e}_{1}\cdot\vec{a}$,
 while numeric ones (e.g. the zero vector) are bold upright,
 $\vec{a} + \vec{0} = \vec{a}$.
 
-\subsection{Matrix symbols}
+\subsection*{Matrix symbols}
 
 Symbols for matrices are boldface italic, too:%
 \footnote{However, matrix symbols are usually capital letters whereas vectors
@@ -332,7 +332,7 @@ vector $\vec{F}$ or the electrical field $\vec{E}$.%
 $\matrixsym{\Lambda}=\matrixsym{E}\cdot\matrixsym{A}.$
 
 
-\subsection{Tensor symbols}
+\subsection*{Tensor symbols}
 
 Symbols for tensors are sans-serif bold italic,
 
@@ -350,7 +350,7 @@ displacement: \[
 
 
 \newpage
-\subsection{Bold math version}
+\subsection*{Bold math version}
 
 The ``bold'' math version is selected with the commands
 \verb+\boldmath+ or \verb+\mathversion{bold}+
@@ -383,7 +383,7 @@ The ``bold'' math version is selected with the commands
 	\mathnormal  {T C \Theta \Gamma}
 	$
 
-	\subsection{Vector symbols}
+	\subsection*{Vector symbols}
 
 	Alphabetic symbols for vectors are boldface italic,
 	$\vec{\lambda}=\vec{e}_{1}\cdot\vec{a}$,
@@ -393,7 +393,7 @@ The ``bold'' math version is selected with the commands
 
 
 
-	\subsection{Matrix symbols}
+	\subsection*{Matrix symbols}
 
 	Symbols for matrices are boldface italic, too:%
 	\footnote{However, matrix symbols are usually capital letters whereas vectors
@@ -403,7 +403,7 @@ The ``bold'' math version is selected with the commands
 	$\matrixsym{\Lambda}=\matrixsym{E}\cdot\matrixsym{A}.$
 
 
-	\subsection{Tensor symbols}
+	\subsection*{Tensor symbols}
 
 	Symbols for tensors are sans-serif bold italic,
 
@@ -432,10 +432,10 @@ The ``bold'' math version is selected with the commands
 
 
 \newpage
-\section{Abbreviation}\
+\section*{Abbreviation}\
 \label{sec:abbrv}
 
-This section shows examples of the use of \LaTeX commands in conjunction with the items that are in the \verb| abbreviation.tex | and in the \verb| glossary.tex | files.  Please see List.~\ref{lst:abbrv}. \textbf{To lessen the \LaTeX \ parsing time, it is suggested that you use} \verb| \acr{ } | \textbf{only for the first occurrence of the word to be abbreviated.}
+This section shows examples of the use of \LaTeX commands in conjunction with the items that are in the \verb| abbreviation.tex | and in the \verb| glossary.tex | files.  Please see List.~\ref{lst:abbrv}. \textbf{To lessen the \LaTeX \ compilation time, it is suggested that you use} \verb| \acr{ } | \textbf{only for the first occurrence of the word to be abbreviated.}
 
 Again please see List.~\ref{lst:abbrv}. Here is an example of first use: \acr{ac}. Next use: \acr{ac}. Full: \gls{ac}.  Here's an acronym referenced using \verb| \acr |: \acr{html}.  And here it is again: \acr{html}. If you are used to the \texttt{glossaries} package, note the difference in using \verb| \gls |: \gls{html}. And again (no difference): \gls{html}. Here are some more entries:
 
@@ -523,7 +523,7 @@ Again please see List.~\ref{lst:abbrv}. Here is an example of first use: \acr{ac
 
 
 \newpage
-\section{Glossary}
+\section*{Glossary}
 \label{sec:glos}
 
 This section shows examples of the use of \verb| \gls{ } | commands in conjunction with the items that are in the \verb| glossary.tex | and \verb| notation.tex | files.  Note that entries in  \verb| notation.tex |  are prefixed with ``\verb| not: |'' label (see List.~\ref{lst:glos}).
@@ -585,7 +585,7 @@ frame=single]
 
 
 \newpage
-\section{Figure}
+\section*{Figure}
 
 This section shows several ways of placing figures.  PDF\LaTeX \ compatible files are PDF, PNG, and JPG.  Please see the \verb| figure | subdirectory.
 
@@ -748,7 +748,7 @@ frame=single]
 
 
 \newpage
-\section{Table}
+\section*{Table}
 
 This section shows an example of placing a table (a long one). Table~\ref{tab:triple_grid} are the triples. 
 
@@ -963,7 +963,7 @@ frame=single,]
 
 
 \newpage
-\section{Algorithm or Pseudocode Listing}
+\section*{Algorithm or Pseudocode Listing}
 
 Table~\ref{tab:calcxn} shows an example pseudocode.  Note that if the pseudocode exceeds one page, it can mean that its implementation is not modular.  List.~\ref{lst:algo} shows the corresponding \LaTeX \ code. 
 
@@ -1069,7 +1069,7 @@ frame=single]
 
 
 \newpage
-\section{Program/Code Listing}
+\section*{Program/Code Listing}
 
 List.~\ref{lst:fib_c} is a program listing of a C code for computing Fibonacci numbers by calling the actual code. Please see the \verb| code | subdirectory.
 
@@ -1101,7 +1101,7 @@ List.~\ref{lst:fib_c} is a program listing of a C code for computing Fibonacci n
 
 
 \newpage
-\section{Referencing}
+\section*{Referencing}
 \label{sec:ref}
 
 Referencing chapters: This appendix is in Appendix~\ref{ch:usage_examples}, which is about examples in using various \LaTeX \ commands.
@@ -1116,7 +1116,7 @@ language=TeX,
 frame=single]
 Referencing sections: This section is Sec.~\ref{sec:ref}, which shows how to refer to the locations of various labels that have been placed in the \LaTeX \ files. List.~\ref{lst:refsec} shows the corresponding \LaTeX \ code.  
 \end{lstlisting}
-\graytx{\blindtext}
+\textcolor[rgb]{0.75,0.75,0.75}{\blindtext}
 \cleardoublepage
 
 
@@ -1124,7 +1124,7 @@ Referencing sections: This section is Sec.~\ref{sec:ref}, which shows how to ref
 
 
 
-\subsection{A subsection}
+\subsection*{A subsection}
 \label{sec:subsec}
 
 Referencing subsections: This section is Sec.~\ref{sec:subsec}, which shows how to refer to a subsection. List.~\ref{lst:refsub} shows the corresponding \LaTeX \ code. 
@@ -1137,14 +1137,14 @@ language=TeX,
 frame=single]
 Referencing subsections: This section is Sec.~\ref{sec:subsec}, which shows how to refer to a subsection. List.~\ref{lst:refsub} shows the corresponding \LaTeX \ code. 
 \end{lstlisting} 
-\graytx{\blindtext}
+\textcolor[rgb]{0.75,0.75,0.75}{\blindtext}
 \cleardoublepage
 
 
 
 
 
-\subsubsection{A sub-subsection}
+\subsubsection*{A sub-subsection}
 \label{sec:subsubsec}
 
 
@@ -1159,7 +1159,7 @@ frame=single]
 Referencing sub-subsections: This section is Sec.~\ref{sec:subsubsec}, which shows how to refer to a sub-subsection. List.~\ref{lst:refsubsub} shows the corresponding \LaTeX \ code. 
 \end{lstlisting}
 
-\graytx{\blindtext}
+\textcolor[rgb]{0.75,0.75,0.75}{\blindtext}
 \cleardoublepage
 
 
@@ -1167,16 +1167,16 @@ Referencing sub-subsections: This section is Sec.~\ref{sec:subsubsec}, which sho
 
 
 \newpage
-\section{Citing}
+\section*{Citing}
 \label{sec:cit}
 
-Citing bibliography content is done using BibTeX. It requires the creation of a BibTeX file~(.bib extension name), and then added in the argument of \verb| \bibliography{ } |. For each .bib file, separate them by a comma in the argument of \verb| \bibliography{ } | without the extension name. Building your BibTeX file~(references.bib) can be done easily with a tool called JabRef~(\url{www.jabref.org}).
+Citing bibliography content is done using BibTeX. It requires the creation of a BibTeX file~(.bib extension name), and then added in the argument of \verb| \bibliography{ } |. For each .bib file, separate them by a comma in the argument \verb| \bibliography{ } | without the extension name. Building your BibTeX file~(references.bib) can be done easily with a tool called JabRef~(\url{www.jabref.org}).
 
 The following subsections are examples of citations.
 
-%\begin{multicols}{2}
+\begin{multicols}{2}
 
-\subsection{Books}
+\subsection*{Books}
 \begin{itemize}
      \item \cite{chicago-82}
      \item \cite{aristotle:rhetoric}
@@ -1226,19 +1226,21 @@ The following subsections are examples of citations.
 
 
 
-\subsection{Booklets}
+\subsection*{Booklets}
 \begin{itemize}
      \item \cite{booklet-full}
   \end{itemize}
 
 
-\subsection{Proceedings}
+\subsection*{Proceedings}
 \begin{itemize}
      \item \cite{proceedings-full}
+     \item \cite{proceedings-minimal}
+     \item \cite{whole-proceedings}
 \end{itemize}
 
 
-\subsection{In books}
+\subsection*{In books}
 \begin{itemize}
      \item \cite{brandt}
      \item \cite{bs-2570-inbook}
@@ -1270,7 +1272,7 @@ The following subsections are examples of citations.
 
 
 
-\subsection{In proceedings}
+\subsection*{In proceedings}
 \begin{itemize}
      \item \cite{chave-64}
      \item \cite{chomsky-73}
@@ -1284,7 +1286,7 @@ The following subsections are examples of citations.
 
 
 
-\subsection{Journals}
+\subsection*{Journals}
 
 \begin{itemize}
      \item \cite{article-crossref}
@@ -1328,7 +1330,7 @@ The following subsections are examples of citations.
 
 
 
-\subsection{Theses/dissertations}
+\subsection*{Theses/dissertations}
 \begin{itemize}
      \item \cite{croft-78}
      \item \cite{maguire-76}
@@ -1340,7 +1342,7 @@ The following subsections are examples of citations.
 \end{itemize}
 
 
-\subsection{Technical Reports and Others}
+\subsection*{Technical Reports and Others}
 \begin{itemize}
      \item \cite{brunswick-85}
      \item \cite{bs-6371}
@@ -1360,11 +1362,13 @@ The following subsections are examples of citations.
 \end{itemize}
 
 
-\subsection{Miscellaneous}
+\subsection*{Miscellaneous}
 \begin{itemize}
      \item \cite{almendro}
      \item \cite{baez/online}
      \item \cite{chiu}
+     \item \cite{geer}
+     \item \cite{hunt-76}
      \item \cite{itzhaki}
      \item \cite{kowalik}
      \item \cite{laufenberg}
@@ -1374,11 +1378,13 @@ The following subsections are examples of citations.
      \item \cite{padhye}
      \item \cite{sorace}
      \item \cite{wassenberg}
+     \item \cite{matuz:doody}
      \item \cite{misc-minimal}
+     \item \cite{jcg}
 \end{itemize}
 
 
-%\end{multicols}
+\end{multicols}
 
 \cleardoublepage
 
@@ -1391,7 +1397,7 @@ The following subsections are examples of citations.
 
 
 \newpage
-\section{Index}
+\section*{Index}
 
 For key words or topics that are expected (or the user would like) to appear in the Index, use \verb| index{key} |, where  \verb| key | is an example keyword to appear in the Index. For example, Fredholm integral and Fourier operator of the following paragraph are in the Index. 
 
@@ -1413,7 +1419,7 @@ If we make a very large matrix with complex exponentials in the rows (i.e., cosi
 
 
 \newpage
-\section{Adding Relevant PDF Pages}
+\section*{Adding Relevant PDF Pages}
 
 Examples of such PDF pages are Standards, Datasheets, Specification Sheets, Application Notes, etc.  Selected PDF pages can be added (see List.~\ref{lst:pdfpages}), but note that the options must be tweaked.  See the manual of \verb| pdfpages | for other options. 
 

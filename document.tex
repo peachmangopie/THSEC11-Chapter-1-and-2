@@ -2,33 +2,29 @@
 \input{./format/preamble.ltx} 
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-% as needed, comment the following lines by prefixing the percent sign (%) at the start of the line
+% as needed, comment the following lines by prefixing the percent sign at the start of the line
 
-%\Drafttrue % comment to disable putting some guides in the draft form of the document
-
-% \PutLineNumberstrue % comment to disable line numbers and certain  preparation guides 
+%\PutLineNumberstrue % comment to disable line numbers and certain  preparation guides 
 
 \Figurestrue % comment to disable the rendering figures
 
-%\GroupIDtrue % comment to disable group ID
+\GroupIDtrue % comment to disable group ID
 
-%\ResultDiscusstrue % comment to disable results and discussions
+\ResultDiscusstrue % comment to disable results and discussions
 
-%\Conctrue % comment to disable conclusions
+\Conctrue % comment to disable conclusions
 
-%\Finishedtrue % comment to disable manuscript for final defense or binding/submission
+\Finishedtrue % comment to disable manuscript for final hard binding
 
-%\ApprovalSheetSignedtrue % comment to disable inclusion of the signed approval sheet
+%\Gradtrue % comment to disable graduate school format
 
-% \Gradtrue % comment to disable graduate school format
+%\PhDtrue % comment to disable PhD dissertation format
 
-% \PhDtrue % comment to disable PhD dissertation format
+\PubListtrue % comment to disable publication list
 
-% \PubListtrue % comment to disable publication list
+\Vitatrue % comment to disable author(s) vita
 
-%\Vitatrue % comment to disable author(s) vita
-
-%\Indextrue % comment to disable index 
+\Indextrue % comment to disable index 
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 % document IDs
@@ -52,8 +48,8 @@
 %\newcommand{\degreeAbbrv}{MS-ECE}
 %\newcommand{\degreeAbbrv}{PhD-ECE}
 
-\newcommand{\documentAdviserTitle}{Engr.} 
-\newcommand{\documentAdviser}{Maria Antonette C. Roque}
+\newcommand{\documentAdviserTitle}{Dr.} 
+\newcommand{\documentAdviser}{Francisco D. Baltasar}
 
 \newcommand{\examinerChairTitle}{Dr.} 
 \newcommand{\examinerChair}{Amado Z. Hernandez}
@@ -72,44 +68,33 @@
 \newcommand{\examinerDTitle}{Dr.} 
 \newcommand{\examinerD}{Apolinario V. Valenzuela}
 
-% College signatories for graduate theses/dissertations
-\newcommand{\RASDTitle}{Dr.} 
-\newcommand{\RASDName}{Isabella S. Garcia}
-
 \newcommand{\deanTitle}{Dr.} 
 \newcommand{\deanName}{Diego U. Lopez}
 
 \newcommand{\groupID}{ESG-04} % group ID is for undergraduates as of this formatting
 
-\newcommand{\numberOfAuthors}{4} % adapt the number of names below accordingly and sort the sunames in alphabetically ascending manner, like in the following example
+\newcommand{\numberOfAuthors}{5} % adapt the number of names below accordingly and sort the sunames in alphabetically ascending manner, like in the following example
 
-\defineAuthor{surname1}{Guevarra}
-\defineAuthor{firstname1}{Alnair M.}
+\defineAuthor{surname1}{dela Cruz}
+\defineAuthor{firstname1}{Juan Z.}
 
-\defineAuthor{surname2}{Hernandez}
-\defineAuthor{firstname2}{Roy Stephen A.}
+\defineAuthor{surname2}{Franco}
+\defineAuthor{firstname2}{Nat Y.}
 
-\defineAuthor{surname3}{Lagman}
-\defineAuthor{firstname3}{Maria Josefa M.}
+\defineAuthor{surname3}{Garcia}
+\defineAuthor{firstname3}{Sebastian X.}
 
-\defineAuthor{surname4}{Villanueva}
-\defineAuthor{firstname4}{Andre [insert MI]}
+\defineAuthor{surname4}{Martinez}
+\defineAuthor{firstname4}{Isabella W.}
 
 \defineAuthor{surname5}{Rianzares}
 \defineAuthor{firstname5}{Max V.}
 
-\newcommand{\documentTitle}{INSERT TITLE HERE
-} % put tilde (~) between words to indicate non-breaking adjacent words
+\newcommand{\documentTitle}{Electrical, Electromagnetic, and Optical Characterization of the InP/InGaAs~Alloy~System} % put tilde (~) between words to indicate non-breaking adjacent words
 
 \newcommand{\keywords}{alloy system, characterization, InP, InGaAs}
 
-\newcommand{\finalDefenseDate}{\usdate\today} % replace ''\usdate\today'' by your final defense date; you may need to use non-breaking space with the use of tildes (~); if so, do not remove the tildes in order to not break the date
-
-\ifGrad
-	\newcommand{\scannedApprovalSheetFileName}{./figure/Signed_Thesis_Approval_Sheet_Graduate.pdf} % filename of the signed approval sheet (for graduate)
-\else	
-	\newcommand{\scannedApprovalSheetFileName}{./figure/Signed_Thesis_Approval_Sheet_Undergraduate.pdf} % filename of the signed approval sheet (for undergraduate)
-\fi
+\newcommand{\approvalDate}{\usdate\today} % put here the date when all examiners have given their approval; do not remove the tildes in order to not break the date; the submission deadline can also be placed as the date
 
 \hyphenation{op-tical net-works semi-conduc-tor evi-dent re-la-tive re-si-den-tial po-la-ri-za-tion so-lu-tion/s} % for correcting bad hyphenation
 
@@ -119,9 +104,7 @@
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 % for placing user-defined-ambles
 
-\DeclareMathAlphabet{\mathitbf}{OML}{cmm}{b}{it} % for math italic bold, but can also use \mathbfit
-\newcommand{\redtx}[1]{\textcolor[rgb]{0.65,0.16,0}{#1}} % for formatting text to have a red color
-\newcommand{\graytx}[1]{\textcolor[rgb]{0.75,0.75,0.75}{#1}} % for formatting text to have a gray color
+\DeclareMathAlphabet{\mathitbf}{OML}{cmm}{b}{it} %for math italic bold 
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 % \includeonly{} is for specifying which files to include; if you only want to work on one or few chapters, you can only include those chapters, which will speed up the document build; advantage: fast if you have a large number of images in your results chapter, which you do not need when you are working on other chapters; you can still reference all the figures in the omitted chapter, as long as you have previously LaTeX-built the entire document
@@ -133,17 +116,15 @@
 \includeonly{% just comment those portions that you do not want to be included in the parsing
 introduction,
 literature_review,
-%theoretical_considerations,
-%design_considerations,
-%methodology,
-%results_and_discussions,
-%conclusions,
-%answers_to_questions,
-%revisions_to_the_proposal,
-%revisions_to_the_final,
-%usage_examples,
-%publication,
-%vita,
+theoretical_considerations,
+design_considerations,
+methodology,
+results_and_discussion,
+conclusions,
+answers_to_questions,
+usage_examples,
+publication,
+vita,
 }
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
@@ -168,7 +149,6 @@ literature_review,
 \cleardoublepage
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-\begin{comment}
 \phantomsection
 \addcontentsline{toc}{chapter}{Abbreviations}
 {
@@ -176,9 +156,8 @@ literature_review,
 	\thispagestyle{plain}
 }	
 \cleardoublepage
-\end{comment}
+
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-\begin{comment}
 \phantomsection
 \addcontentsline{toc}{chapter}{Notation}
 {
@@ -190,9 +169,8 @@ literature_review,
 	\thispagestyle{plain}
 }
 \cleardoublepage
-\end{comment}
+
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-\begin{comment}
 \phantomsection
 \addcontentsline{toc}{chapter}{Glossary}
 {
@@ -200,7 +178,7 @@ literature_review,
 	\thispagestyle{plain}
 }
 \cleardoublepage
-\end{comment}
+
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 \lstlistoflistings
 \cleardoublepage
@@ -230,7 +208,6 @@ literature_review,
 \cleardoublepage
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-\begin{comment}
 \chapter{Theoretical Considerations}
 %\chaptermark{Theoretical Considerations} % uncomment this and put a shorter version of the chapter title for the TOC and chapter markings (i.e., header or footer)
 \label{ch:theorycon}
@@ -241,9 +218,8 @@ literature_review,
 \include{theoretical_considerations}
 \stopcontents[chapters]
 \cleardoublepage
-\end{comment}
+
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-\begin{comment}
 \chapter{Design Considerations} 
 \label{ch:designcon} 
 \startcontents[chapters]
@@ -253,9 +229,8 @@ literature_review,
 \include{design_considerations}
 \stopcontents[chapters]
 \cleardoublepage
-\end{comment}
+
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-\begin{comment}
 \chapter{Methodology} 
 \label{ch:method} 
 \startcontents[chapters]
@@ -265,16 +240,16 @@ literature_review,
 \include{methodology}
 \stopcontents[chapters]
 \cleardoublepage
-\end{comment}
+
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 \ifResultDiscuss 
-	\chapter{Results and Discussions} 
+	\chapter{Results and Discussion} 
 	\label{ch:result_discuss} 
 	\startcontents[chapters]
 	\begin{SingleSpace}	
 		\Mprintcontents 
 	\end{SingleSpace}
-	\include{results_and_discussions}
+	\include{results_and_discussion}
 	\stopcontents[chapters]
 	\cleardoublepage
 \fi
@@ -294,40 +269,22 @@ literature_review,
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 \renewcommand{\UrlFont}{\normalfont}
-%\bibliographystyle{IEEEtr} % for IEEE referencing format
-\bibliographystyle{apacite} % for APA referencing format
+\bibliographystyle{IEEEtr} % for IEEE referencing format
+%\bibliographystyle{apalike} % for APA referencing format
 \begin{SingleSpace}
- {\small \bibliography{references}}
- \begin{comment}
-\cite{barsukov2013battery}
-\cite{bouzid2017boosted}
-\cite{corves2016new}
-\cite{jashnani2013sizing}
-\cite{kalyani2018energy}
-\cite{li2014circuits}
-\cite{marques2017advanced}
-\cite{mostafa2017wireless}
-\cite{muharam2017design}
-\cite{rajendran2018development}
-\cite{shaheed2015flying}
-\cite{shiau2009design}
-\cite{shiau2009design}
-\cite{sydorenko2012flying}
-\cite{wei2017system}
-\cite{zhang2018experimental}
-\end{comment}
-	%\vfill
-	%\LaTeX-comment this and the following texts after you have implemented them. See the following references for helpful guides for the bibliography and script editing in general.  Note that the links might be unavailable, but the names can be searched in the Web. 	
-	
-	%\begin{enumerate}
-	%	\item IEEE Citation Reference: \url{www.ieee.org/documents/ieeecitationref.pdf}
+  {\small \bibliography{references}}
+	\vfill
+	\LaTeX-comment this and the following texts after you have implemented them. See the following references for helpful guides for the bibliography and script editing in general.  Note that the links might be unavailable, but the names can be searched in the Web.
 		
-	%	\item IEEE Editorial Style manual: \url{www.ieee.org/documents/style_manual.pdf} 
+	\begin{enumerate}
+		\item IEEE Citation Reference: \url{www.ieee.org/documents/ieeecitationref.pdf}
 		
-	%	\item IEEE Abbreviations for Transactions, Journals, Letters, and Magazines: \url{www.ieee.org/documents/trans_journal_names.pdf}
-	%\end{enumerate}
+		\item IEEE Editorial Style manual: \url{www.ieee.org/documents/style_manual.pdf} 
+		
+		\item IEEE Abbreviations for Transactions, Journals, Letters, and Magazines: \url{www.ieee.org/documents/trans_journal_names.pdf}
+	\end{enumerate}
 	
-%\noindent Also in your BibTeX file, enclose letters or words that should all be in uppercase in curly brackets. Example: {IBM}, {P}hilippines, e{X}tensible {M}arkup {L}anguage.
+\noindent Also in your BibTeX file, enclose letters or words that should all be in uppercase in curly brackets. Example: {IBM}, {P}hilippines, e{X}tensible {M}arkup {L}anguage.
 
 \end{SingleSpace}
 \vfill
@@ -342,50 +299,21 @@ Produced: \usdate\today, \currenttime \\
 \renewcommand{\thechapter}{\Alph{chapter}}
 \renewcommand{\thesection}{\thechapter\arabic{section}}
 \appto\appendix{\renewcommand\thechapter{\AlphAlph{\value{chapter}}}} % for increasing appendix chapters beyond Z, i.e. AA, AB, etc.
-
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-%\chapter{Student Research Ethics Clearance}
-%\includepdf[pages={1},%
-%offset=3.5mm -10mm,%
-%scale=0.75,%
-%pagecommand={},]
-%{./figure/STUDENT_RESEARCH_ETHICS_CLEARANCE.pdf}
-%\cleardoublepage
-
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-%\chapter{Answers to Questions to this \documentType}
+\chapter{Answers to Questions to this \documentType}
 %\startcontents[chapters]
 %\Mprintcontents 
-%\include{answers_to_questions}
+\include{answers_to_questions}
 %\stopcontents[chapters]
-%\cleardoublepage
+\cleardoublepage
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-%\chapter{Revisions to the Proposal} 
-%\label{ch:revisions_to_the_proposal}
-%\startcontents[chapters]
-%\Mprintcontents  
-%\include{revisions_to_the_proposal}
-%\stopcontents[chapters]
-%\cleardoublepage
-
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-%\chapter{Revisions to the Final} 
-%\label{ch:revisions_to_the_final}
-%\startcontents[chapters]
-%\Mprintcontents  
-%\include{revisions_to_the_final}
-%\stopcontents[chapters]
-%\cleardoublepage
-
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-%\chapter{Usage Examples} 
-%\label{ch:usage_examples}
-%\startcontents[chapters]
-%\Mprintcontents  
-%\include{usage_examples}
-%\stopcontents[chapters]
-%\cleardoublepage
+\chapter{Usage Examples} 
+\label{ch:usage_examples}
+% \startcontents[chapters]
+% \Mprintcontents  
+\include{usage_examples}
+% \stopcontents[chapters]
+\cleardoublepage
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 \ifPubList

@@ -1,6 +1,6 @@
 DLSUdtp is a LaTeX document format for authors of De La Salle University (DLSU) dissertations, theses, proposals, or projects.
 
-For a list of changes, please read the file _CHANGELOG.txt.  The shortened web link to the template is https://goo.gl/9YTTs2 
+For a full list of changes, please read the file CHANGELOG.txt.
 
 Best wishes for your dissertation, thesis, proposal, or project documentation endeavors.
 
@@ -29,7 +29,7 @@ references.bib                 - The file where the bibliography entries (in Bib
 
 document.tex                   - The main file, where many author details and settings are placed
 
-document_guide.pdf             - A kind of a user guide, especially the appendices. This is a minimum working example of document.tex with some useful appendices.
+document_guide.pdf             - A kind of user guide, especially the appendices. This is a minimum working example of document.tex and parsed with other_appendices.tex
   
 document.pdf                   - pdfLaTeX-built final output PDF file.
 
@@ -59,11 +59,7 @@ other_appendices.tex           - The file where appendices other than the usage 
 
 publications.tex               - The file where the related publications of the author(s) are to be placed.
 
-results_and_discussions.tex    - The file where the results, analyses, and their discussions are to be placed.
-
-revisions_to_the_final.tex     - The file where the revisions to the final defense document are placed based on the comments of the panel of examiners.
-
-revisions_to_the_proposal.tex  - The file where the revisions to the proposal were done based on the comments of the panel of examiners.
+results_and_discussion.tex     - The file where the results, analyses, and their discussions are to be placed.
 
 theoretical_considerations.tex - The file where the conceptual and theoretical considerations are to be placed.
 

@@ -2,7 +2,7 @@
 % this document format relies on the memoir class
 \documentclass[12pt, letterpaper, oneside, openright, onecolumn, final]{memoir}
 
-\newcommand{\DLSUdtpVersion}{2017.04.08}
+\newcommand{\DLSUdtpVersion}{2016.08.05}
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 % the following are for typesetting math symbols, equations, etc.
@@ -21,10 +21,6 @@
 \usepackage{array} % for array environments to provide better appearance and additional user controls, especially in equation arrays
 
 \usepackage{xintexpr} % for evaluating simple math expressions with with infix operators
-
-%\usepackage{natbib} % for implementsibg both author-year and numbered references, as well as much detailed of support for other bibliography use
-
-\usepackage{breakcites} % for breaking long citations
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%% 
 % the following are for typesetting figures, tables, arrays
@@ -130,20 +126,16 @@
   \ToCrule}
 \makeatother
 
-\usepackage[]{hyperref} % for hyperlinking
+\usepackage{hyperref} % for hyperlinking
 
 \usepackage{url} % for providing better support for handling and breaking URLs
 
 \usepackage{pdfpages} % for including multipage PDF documents, must be placed after the color package 
 
-\usepackage{soul} % for enabling highlight feature through \hl{ } command
-
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 % the following is for programming-language related formatting and imlementation 
 
 \usepackage{algorithmic} % for providing an environment for describing algorithms
-
-\usepackage{apacite}
 
 \usepackage{tikz} % for producing vector graphics from a geometric/algebraic description 
 
@@ -235,8 +227,6 @@
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 % for defining conditions in turning on and off certain portions of the document
 
-\newif\ifDraft % for putting some guides if document is still in draft form
-
 \newif\ifPutLineNumbers % for putting line numbers
 
 \newif\ifFigures % for rendering of figures
@@ -247,9 +237,7 @@
 
 \newif\ifConc % for putting conclusions
 
-\newif\ifFinished % for final manuscript for final defense
-
-\newif\ifApprovalSheetSigned % for inclusion of the signed approval sheet
+\newif\ifFinished % for final manuscript
 
 \newif\ifGrad % for graduate school format
 
