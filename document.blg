@@ -1,24 +1,16 @@
-This is 8-bit Big BibTeX version 0.99d
-Implementation:  Microsoft(R) C/C++ for Win32
-Release version: 3.71 (18 mar 2013)
-
-The 8-bit codepage and sorting file: 88591lat.csf
-The top-level auxiliary file: document.aux
-A level-1 auxilliary file: introduction.aux
-A level-1 auxilliary file: literature_review.aux
-A level-1 auxilliary file: theoretical_considerations.aux
-A level-1 auxilliary file: design_considerations.aux
-A level-1 auxilliary file: methodology.aux
-A level-1 auxilliary file: results_and_discussion.aux
-A level-1 auxilliary file: conclusions.aux
+This is BibTeX, Version 0.99dThe top-level auxiliary file: document.aux
+A level-1 auxiliary file: introduction.aux
+A level-1 auxiliary file: literature_review.aux
+A level-1 auxiliary file: theoretical_considerations.aux
+A level-1 auxiliary file: design_considerations.aux
+A level-1 auxiliary file: methodology.aux
+A level-1 auxiliary file: results_and_discussion.aux
+A level-1 auxiliary file: conclusions.aux
 The style file: IEEEtr.bst
-A level-1 auxilliary file: answers_to_questions.aux
-A level-1 auxilliary file: usage_examples.aux
-A level-1 auxilliary file: publication.aux
-A level-1 auxilliary file: vita.aux
-Reallocated glb_str_ptr (elt_size=4) to 10 items from 0.
-Reallocated global_strs (elt_size=1001) to 10 items from 0.
-Reallocated glb_str_end (elt_size=4) to 10 items from 0.
+A level-1 auxiliary file: answers_to_questions.aux
+A level-1 auxiliary file: usage_examples.aux
+A level-1 auxiliary file: publication.aux
+A level-1 auxiliary file: vita.aux
 Database file #1: references.bib
 Warning--entry type for "almendro" isn't style-file defined
 --line 130 of file references.bib
@@ -113,12 +105,4 @@ Warning--empty publisher in wright-63
 Warning--empty journal in bertram
 Warning--empty journal in herrmann
 Warning--empty institution in winget-67
-
-Here's how much of BibTeX's memory you used:
- Cites:               154 out of 750
- Fields:             3531 out of 5000
- Hash table:         4527 out of 5000
- Strings:            1266 out of 4000
- Free string pool:  20469 out of 65000
- Wizard functions:   1876 out of 3000
 (There was 1 error message)
