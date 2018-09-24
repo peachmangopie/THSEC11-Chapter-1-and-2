@@ -23,28 +23,30 @@
 \contentsline {subsection}{\numberline {1.6.3}Delimitations}{8}{subsection.1.6.3}
 \contentsline {section}{\numberline {1.7}Description and Methodology}{8}{section.1.7}
 \contentsline {section}{\numberline {1.8}Overview}{10}{section.1.8}
-\contentsline {chapter}{\chapternumberline {2}\MakeTextUppercase {Literature Review}}{11}{chapter.2}
-\contentsline {section}{\numberline {2.1}Existing Work}{12}{section.2.1}
-\contentsline {section}{\numberline {2.2}Lacking in the Approaches}{14}{section.2.2}
-\contentsline {section}{\numberline {2.3}Summary}{16}{section.2.3}
-\contentsline {chapter}{\chapternumberline {3}\MakeTextUppercase {Theoretical Considerations}}{17}{chapter.3}
-\contentsline {section}{\numberline {3.1}Summary}{20}{section.3.1}
-\contentsline {chapter}{\chapternumberline {4}\MakeTextUppercase {Design Considerations}}{21}{chapter.4}
-\contentsline {section}{\numberline {4.1}Summary}{24}{section.4.1}
-\contentsline {chapter}{\chapternumberline {5}\MakeTextUppercase {Methodology}}{25}{chapter.5}
-\contentsline {section}{\numberline {5.1}Implementation}{26}{section.5.1}
-\contentsline {section}{\numberline {5.2}Evaluation}{28}{section.5.2}
-\contentsline {section}{\numberline {5.3}Summary}{30}{section.5.3}
-\contentsline {chapter}{\chapternumberline {6}\MakeTextUppercase {Results and Discussion}}{31}{chapter.6}
-\contentsline {section}{\numberline {6.1}Summary}{33}{section.6.1}
-\contentsline {chapter}{\chapternumberline {7}\MakeTextUppercase {Conclusions, Recommendations, and Future Directives}}{34}{chapter.7}
-\contentsline {section}{\numberline {7.1}Concluding Remarks}{35}{section.7.1}
-\contentsline {section}{\numberline {7.2}Contributions}{35}{section.7.2}
-\contentsline {section}{\numberline {7.3}Recommendations}{35}{section.7.3}
-\contentsline {section}{\numberline {7.4}Future Prospects}{37}{section.7.4}
-\contentsline {chapter}{References}{38}{chapter*.19}
-\contentsline {appendix}{\chapternumberline {A}\MakeTextUppercase {Answers to Questions to this Thesis}}{47}{appendix.A}
-\contentsline {appendix}{\chapternumberline {B}\MakeTextUppercase {Usage Examples}}{56}{appendix.B}
-\contentsline {appendix}{\chapternumberline {C}\MakeTextUppercase {Publication List and Award}}{95}{appendix.C}
-\contentsline {appendix}{\chapternumberline {D}\MakeTextUppercase {Vita}}{96}{appendix.D}
+\contentsline {subsection}{\numberline {1.8.1}Gantt Chart}{10}{subsection.1.8.1}
+\contentsline {subsection}{\numberline {1.8.2}Estimated Work Schedule and Budget}{10}{subsection.1.8.2}
+\contentsline {chapter}{\chapternumberline {2}\MakeTextUppercase {Literature Review}}{13}{chapter.2}
+\contentsline {section}{\numberline {2.1}Existing Work}{14}{section.2.1}
+\contentsline {section}{\numberline {2.2}Lacking in the Approaches}{16}{section.2.2}
+\contentsline {section}{\numberline {2.3}Summary}{18}{section.2.3}
+\contentsline {chapter}{\chapternumberline {3}\MakeTextUppercase {Theoretical Considerations}}{19}{chapter.3}
+\contentsline {section}{\numberline {3.1}Summary}{22}{section.3.1}
+\contentsline {chapter}{\chapternumberline {4}\MakeTextUppercase {Design Considerations}}{23}{chapter.4}
+\contentsline {section}{\numberline {4.1}Summary}{26}{section.4.1}
+\contentsline {chapter}{\chapternumberline {5}\MakeTextUppercase {Methodology}}{27}{chapter.5}
+\contentsline {section}{\numberline {5.1}Implementation}{28}{section.5.1}
+\contentsline {section}{\numberline {5.2}Evaluation}{30}{section.5.2}
+\contentsline {section}{\numberline {5.3}Summary}{32}{section.5.3}
+\contentsline {chapter}{\chapternumberline {6}\MakeTextUppercase {Results and Discussion}}{33}{chapter.6}
+\contentsline {section}{\numberline {6.1}Summary}{35}{section.6.1}
+\contentsline {chapter}{\chapternumberline {7}\MakeTextUppercase {Conclusions, Recommendations, and Future Directives}}{36}{chapter.7}
+\contentsline {section}{\numberline {7.1}Concluding Remarks}{37}{section.7.1}
+\contentsline {section}{\numberline {7.2}Contributions}{37}{section.7.2}
+\contentsline {section}{\numberline {7.3}Recommendations}{37}{section.7.3}
+\contentsline {section}{\numberline {7.4}Future Prospects}{39}{section.7.4}
+\contentsline {chapter}{References}{40}{chapter*.25}
+\contentsline {appendix}{\chapternumberline {A}\MakeTextUppercase {Answers to Questions to this Thesis}}{49}{appendix.A}
+\contentsline {appendix}{\chapternumberline {B}\MakeTextUppercase {Usage Examples}}{58}{appendix.B}
+\contentsline {appendix}{\chapternumberline {C}\MakeTextUppercase {Publication List and Award}}{97}{appendix.C}
+\contentsline {appendix}{\chapternumberline {D}\MakeTextUppercase {Vita}}{98}{appendix.D}
 \contentsfinish 

@@ -120,28 +120,60 @@ Visual data will be gathered using RGB-D camera. The data gathered will be used 
 The head pose is estimated using the kinect sensor and a head coordinate system is generated. Using the pupil center estimation algorithm, the 2D position of the pupil center will be taken and then translated later to 3D provided by the RGB-D camera, kinect sensor. Calibration will then take place by detecting the eyeball center. After the pupil center and eyeball center locations have been known, the gaze direction can be estimated.
 
 Using MATLAB and SIMULINK, an algorithm will be made for the evaluation whether the driver is drowsy or distracted and alarm system will sound to alert the driver. It will also be used to interface the materials such as the Microsoft Kinect, microcontroller, and the RGB-D Camera with the laptop and create a standalone microcontroller based device. 
+
+Figure shown below shows the flowchart of how the eye behavior of the driver will be evalauted before the driver is warned from either being drowsy or distracted while driving
 \begin{center}
-\includegraphics[scale=0.7]{EyeFlowchart}
+\begin{figure}[ht]
+	\centering
+	\includegraphics[scale=0.7]{EyeFlowchart}
+	\caption{Eye Evaluation Flowchart}
+\end{figure}
+
+
 \end{center}
-
-\ifFinished
-\else
-
-\section{Estimated Work Schedule and Budget}
-
-Gantt chart or project network diagram is to be part of this section.
-
-\textcolor[rgb]{0.75,0.75,0.75}{\blindtext}
-
-\ifPhD
-\section{Publication Plan}
-\textcolor[rgb]{0.75,0.75,0.75}{\blindtext}
-\fi
-
-\fi
 
 
 \section{Overview}
 
-Provide here a brief summary and what the reader should expect from each succeeding chapter.  Show how each chapter is connected with each other.
+\subsection{Gantt Chart}
+The following figures shown below is the individual gantt chart of the researchers:
 
+\begin{figure}[!htb]
+	\centering
+	\includegraphics[scale=0.22]{gantt1}
+	\caption{Gantt Chart of Guevarra}
+\end{figure}
+\begin{figure}[!htb]
+	\centering
+	\includegraphics[scale=0.495]{gantt2}
+	\caption{Gantt Chart of Hernandez}
+\end{figure}
+\begin{figure}[!htb]
+	\centering
+	\includegraphics[scale=0.6]{gantt3}
+	\caption{Gantt Chart of Lagman}
+\end{figure}
+\begin{figure}[!htb]
+	\centering
+	\includegraphics[scale=0.6]{gantt4}
+	\caption{Gantt Chart of Villanueva}
+\end{figure}
+
+\subsection{Estimated Work Schedule and Budget}
+\begin{table}[!htb]
+	\caption{Price List of Materials to be Used}
+	\centering
+	\begin{tabular}{|c|c|}
+		\hline
+		Materials & Estimated Price(in PHP) \\
+		\hline
+		Kinect Sensor & 13.9k \\
+		\hline
+		Microcontroller & 21.2k \\
+		\hline
+		Laptop & Already Available \\
+		\hline
+		Total Price & 35.1k \\
+		\hline
+	\end{tabular}
+\end{table}
