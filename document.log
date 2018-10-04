@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (MiKTeX 2.9.6350 64-bit) (preloaded format=pdflatex 2017.8.3)  25 SEP 2018 13:39
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (MiKTeX 2.9.6350 64-bit) (preloaded format=pdflatex 2017.8.3)  4 OCT 2018 17:40
 entering extended mode
 **./document.tex
 (document.tex
@@ -1862,7 +1862,7 @@ File: figure/../format/dlsu_thesis_paper_letterhead.pdf Graphic file (type pdf)
 
 <use figure/../format/dlsu_thesis_paper_letterhead.pdf>
 Package pdftex.def Info: figure/../format/dlsu_thesis_paper_letterhead.pdf used
- on input line 94.
+ on input line 95.
 (pdftex.def)             Requested size: 614.31223pt x 794.99231pt.
  [7]
 Missing character: There is no â in font ptmr7t!
@@ -2204,7 +2204,7 @@ Package rerunfilecheck Info: File `document.out' has not changed.
 Here is how much of TeX's memory you used:
  34110 strings out of 493323
  576136 string characters out of 3139031
- 804493 words of memory out of 3000000
+ 805493 words of memory out of 3000000
  36698 multiletter control sequences out of 15000+200000
  33370 words of font info for 166 fonts, out of 3000000 for 9000
  1149 hyphenation exceptions out of 8191
@@ -2214,7 +2214,7 @@ KTeX 2.9/fonts/type1/public/amsfonts/symbols/msam10.pfb><C:/Program Files/MiKTe
 X 2.9/fonts/type1/urw/helvetic/uhvb8a.pfb><C:/Program Files/MiKTeX 2.9/fonts/ty
 pe1/urw/times/utmb8a.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/urw/times/utm
 r8a.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/urw/times/utmri8a.pfb>
-Output written on document.pdf (34 pages, 375569 bytes).
+Output written on document.pdf (34 pages, 375466 bytes).
 PDF statistics:
  447 PDF objects out of 1000 (max. 8388607)
  106 named destinations out of 1000 (max. 500000)
