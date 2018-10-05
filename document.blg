@@ -1,8 +1,33 @@
-This is BibTeX, Version 0.99dThe top-level auxiliary file: document.aux
-A level-1 auxiliary file: introduction.aux
-A level-1 auxiliary file: literature_review.aux
+This is 8-bit Big BibTeX version 0.99d
+Implementation:  Microsoft(R) C/C++ for Win32
+Release version: 3.71 (18 mar 2013)
+
+The 8-bit codepage and sorting file: 88591lat.csf
+The top-level auxiliary file: document.aux
+A level-1 auxilliary file: introduction.aux
+A level-1 auxilliary file: literature_review.aux
 The style file: apacite.bst
+I found no \citation commands---while reading file document.aux
+Reallocated glb_str_ptr (elt_size=4) to 10 items from 0.
+Reallocated global_strs (elt_size=1001) to 10 items from 0.
+Reallocated glb_str_end (elt_size=4) to 10 items from 0.
+Reallocated glb_str_ptr (elt_size=4) to 20 items from 10.
+Reallocated global_strs (elt_size=1001) to 20 items from 10.
+Reallocated glb_str_end (elt_size=4) to 20 items from 10.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated wiz_functions (elt_size=4) to 6000 items from 3000.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated wiz_functions (elt_size=4) to 9000 items from 6000.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
 Database file #1: references.bib
 apacite.bst [2013/07/21 v6.03 APA bibliography style]
-Warning--No journal in venugopalreal
-(There was 1 warning)
+
+Here's how much of BibTeX's memory you used:
+ Cites:                 0 out of 750
+ Fields:             5000 out of 5000
+ Hash table:         4342 out of 5000
+ Strings:            1268 out of 4000
+ Free string pool:  10672 out of 65000
+ Wizard functions:   6951 out of 9000
+(There was 1 error message)
