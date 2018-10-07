@@ -1,4 +1,5 @@
 \addvspace {10pt}
+<<<<<<< HEAD
 \contentsline {figure}{\numberline {1.1}{\ignorespaces Eye Evaluation Flowchart\relax }}{9}{figure.caption.18}
 \contentsline {figure}{\numberline {1.2}{\ignorespaces Gantt Chart of Guevarra\relax }}{10}{figure.caption.19}
 \contentsline {figure}{\numberline {1.3}{\ignorespaces Gantt Chart of Hernandez\relax }}{11}{figure.caption.20}
@@ -24,5 +25,12 @@
 \contentsline {subfigure}{\numberline {(c)}{\ignorespaces A sub-figure in the lower-left corner.}}{75}{figure.caption.67}
 \contentsline {subfigure}{\numberline {(d)}{\ignorespaces A sub-figure in the lower-right corner}}{75}{figure.caption.67}
 \addvspace {10pt}
+=======
+\contentsline {figure}{\numberline {1.1}{\ignorespaces Eye Evaluation Flowchart\relax }}{9}{figure.caption.7}
+\contentsline {figure}{\numberline {1.2}{\ignorespaces Gantt Chart of Guevarra\relax }}{10}{figure.caption.8}
+\contentsline {figure}{\numberline {1.3}{\ignorespaces Gantt Chart of Hernandez\relax }}{11}{figure.caption.9}
+\contentsline {figure}{\numberline {1.4}{\ignorespaces Gantt Chart of Lagman\relax }}{11}{figure.caption.10}
+\contentsline {figure}{\numberline {1.5}{\ignorespaces Gantt Chart of Villanueva\relax }}{12}{figure.caption.11}
+>>>>>>> parent of 7982160... no.5
 \addvspace {10pt}
 \contentsfinish 

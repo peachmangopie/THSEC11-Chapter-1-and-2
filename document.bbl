@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 \begin{thebibliography}{100}
 
 \bibitem{whole-collection}
@@ -698,5 +699,8 @@ J.~Wassenberg and P.~Sanders, ``Faster radix sort via virtual memory and
 
 \bibitem{jcg}
 ``Computers and graphics,'' 2011.
+=======
+\begin{thebibliography}{}
+>>>>>>> parent of 7982160... no.5
 
 \end{thebibliography}

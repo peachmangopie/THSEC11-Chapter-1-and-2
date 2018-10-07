@@ -2,6 +2,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 This is pdfTeX, Version 3.14159265-2.6-1.40.18 (MiKTeX 2.9.6350 64-bit) (preloaded format=pdflatex 2017.8.3)  4 OCT 2018 17:45
 =======
 This is pdfTeX, Version 3.14159265-2.6-1.40.19 (MiKTeX 2.9.6730 64-bit) (preloaded format=pdflatex 2018.7.26)  25 SEP 2018 00:51
@@ -15,6 +16,9 @@ This is pdfTeX, Version 3.14159265-2.6-1.40.19 (MiKTeX 2.9.6730 64-bit) (preload
 =======
 This is pdfTeX, Version 3.14159265-2.6-1.40.19 (MiKTeX 2.9.6730 64-bit) (preloaded format=pdflatex 2018.7.26)  25 SEP 2018 00:02
 >>>>>>> parent of f999796... Chapter 2 + Format
+=======
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (MiKTeX 2.9.6730 64-bit) (preloaded format=pdflatex 2018.7.26)  25 SEP 2018 00:51
+>>>>>>> parent of 7982160... no.5
 entering extended mode
 **./document.tex
 (document.tex
@@ -516,6 +520,18 @@ Package: xinttools 2018/06/17 1.3c Expandable and non-expandable utilities (JFB
 \XINT_toks=\toks28
 )
 Package: xintexpr 2018/06/17 1.3c Expandable expression parser (JFB)
+<<<<<<< HEAD
+=======
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\apacite\apacite.sty"
+Package: apacite 2013/07/21 v6.03 APA citation
+\c@BibCnt=\count158
+\bibleftmargin=\skip188
+\bibindent=\skip189
+\bibparsep=\skip190
+\bibitemsep=\skip191
+\biblabelsep=\skip192
+>>>>>>> parent of 7982160... no.5
 )
 ("C:\Program Files\MiKTeX 2.9\tex\latex\graphics\graphicx.sty"
 Package: graphicx 2017/06/01 v1.1a Enhanced LaTeX Graphics (DPC,SPQR)
@@ -539,6 +555,7 @@ File: pdftex.def 2018/01/08 v1.0l Graphics/color driver for pdftex
 )
 ("C:\Program Files\MiKTeX 2.9\tex\latex\tools\multicol.sty"
 Package: multicol 2018/04/20 v1.8s multicolumn formatting (FMi)
+<<<<<<< HEAD
 \c@tracingmulticols=\count158
 \mult@box=\box31
 \multicol@leftmargin=\dimen158
@@ -547,6 +564,16 @@ Package: multicol 2018/04/20 v1.8s multicolumn formatting (FMi)
 \doublecol@number=\count161
 \multicoltolerance=\count162
 \multicolpretolerance=\count163
+=======
+\c@tracingmulticols=\count159
+\mult@box=\box31
+\multicol@leftmargin=\dimen158
+\c@unbalance=\count160
+\c@collectmore=\count161
+\doublecol@number=\count162
+\multicoltolerance=\count163
+\multicolpretolerance=\count164
+>>>>>>> parent of 7982160... no.5
 \full@width=\dimen159
 \page@free=\dimen160
 \premulticols=\dimen161
@@ -577,13 +604,19 @@ Package: multicol 2018/04/20 v1.8s multicolumn formatting (FMi)
 \@tempa=\box52
 \@tempa=\box53
 \@tempa=\box54
+<<<<<<< HEAD
 \c@columnbadness=\count164
 \c@finalcolumnbadness=\count165
+=======
+\c@columnbadness=\count165
+\c@finalcolumnbadness=\count166
+>>>>>>> parent of 7982160... no.5
 \last@try=\dimen164
 \multicolovershoot=\dimen165
 \multicolundershoot=\dimen166
 \mult@nat@firstbox=\box55
 \colbreak@box=\box56
+<<<<<<< HEAD
 \mc@col@check@num=\count166
 )
 ("C:\Program Files\MiKTeX 2.9\tex\latex\multirow\multirow.sty"
@@ -591,6 +624,15 @@ Package: multirow 2016/11/25 v2.2 Span multiple rows of a table
 \multirow@colwidth=\skip190
 \multirow@cntb=\count167
 \multirow@dima=\skip191
+=======
+\mc@col@check@num=\count167
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\multirow\multirow.sty"
+Package: multirow 2016/11/25 v2.2 Span multiple rows of a table
+\multirow@colwidth=\skip256
+\multirow@cntb=\count168
+\multirow@dima=\skip257
+>>>>>>> parent of 7982160... no.5
 \bigstrutjot=\dimen167
 )
 ("C:\Program Files\MiKTeX 2.9\tex\latex\graphics\rotating.sty"
@@ -599,9 +641,15 @@ Package: rotating 2016/08/11 v2.16d rotated objects in LaTeX
 ("C:\Program Files\MiKTeX 2.9\tex\latex\base\ifthen.sty"
 Package: ifthen 2014/09/29 v1.1c Standard LaTeX ifthen package (DPC)
 )
+<<<<<<< HEAD
 \c@r@tfl@t=\count168
 \rotFPtop=\skip192
 \rotFPbot=\skip193
+=======
+\c@r@tfl@t=\count169
+\rotFPtop=\skip258
+\rotFPbot=\skip259
+>>>>>>> parent of 7982160... no.5
 \rot@float@box=\box57
 \rot@mess@toks=\toks29
 )
@@ -615,8 +663,13 @@ Package pdflscape Info: Auto-detected driver: pdftex on input line 81.
 )
 ("C:\Program Files\MiKTeX 2.9\tex\latex\mdwtools\mdwtab.sty"
 Package: mdwtab 1998/04/28 1.9 Table typesetting with style
+<<<<<<< HEAD
 \tab@state=\count169
 \tab@columns=\count170
+=======
+\tab@state=\count170
+\tab@columns=\count171
+>>>>>>> parent of 7982160... no.5
 \tab@preamble=\toks30
 \tab@shortline=\toks31
 \extrarowheight=\dimen168
@@ -637,26 +690,46 @@ Package: ltablex 2014/08/13 v1.1 Modified tabularx
 
 ("C:\Program Files\MiKTeX 2.9\tex\latex\tools\longtable.sty"
 Package: longtable 2014/10/28 v4.11 Multi-page Table package (DPC)
+<<<<<<< HEAD
 \LTleft=\skip257
 \LTright=\skip258
 \LTpre=\skip259
 \LTpost=\skip260
 \LTchunksize=\count171
+=======
+\LTleft=\skip262
+\LTright=\skip263
+\LTpre=\skip264
+\LTpost=\skip265
+\LTchunksize=\count172
+>>>>>>> parent of 7982160... no.5
 \LTcapwidth=\dimen177
 \LT@head=\box59
 \LT@firsthead=\box60
 \LT@foot=\box61
 \LT@lastfoot=\box62
+<<<<<<< HEAD
 \LT@cols=\count172
 \LT@rows=\count173
 \c@LT@tables=\count174
 \c@LT@chunks=\count175
+=======
+\LT@cols=\count173
+\LT@rows=\count174
+\c@LT@tables=\count175
+\c@LT@chunks=\count176
+>>>>>>> parent of 7982160... no.5
 \LT@p@ftn=\toks32
 ))
 ("C:\Program Files\MiKTeX 2.9\tex\latex\eqparbox\eqparbox.sty"
 Package: eqparbox 2017/09/03 v4.1 Create equal-widthed boxes
+<<<<<<< HEAD
 \eqp@tempdima=\skip261
 \eqp@tempdimb=\skip262
+=======
+\eqp@tempdima=\skip266
+\eqp@tempdimb=\skip267
+>>>>>>> parent of 7982160... no.5
 \eqp@tabular@box=\box63
 \eqp@list@box=\box64
 \eqp@list@indent=\skip263
@@ -688,7 +761,11 @@ Package caption3 Info: TeX engine: e-TeX on input line 64.
 \caption@parindent=\dimen183
 \caption@hangindent=\dimen184
 )
+<<<<<<< HEAD
 \c@ContinuedFloat=\count176
+=======
+\c@ContinuedFloat=\count177
+>>>>>>> parent of 7982160... no.5
 Package caption Info: longtable package is loaded.
 
 ("C:\Program Files\MiKTeX 2.9\tex\latex\caption\ltcaption.sty"
@@ -703,18 +780,30 @@ Package: excludeonly 2003/03/14 v1.0 eponymous command opposite to \includeonly
 ("C:\Program Files\MiKTeX 2.9\tex\latex\microtype\microtype.sty"
 Package: microtype 2018/01/14 v2.7a Micro-typographical refinements (RS)
 \MT@toks=\toks33
+<<<<<<< HEAD
 \MT@count=\count177
 LaTeX Info: Redefining \textls on input line 793.
 \MT@outer@kern=\dimen185
 LaTeX Info: Redefining \textmicrotypecontext on input line 1339.
 \MT@listname@count=\count178
+=======
+\MT@count=\count178
+LaTeX Info: Redefining \textls on input line 793.
+\MT@outer@kern=\dimen185
+LaTeX Info: Redefining \textmicrotypecontext on input line 1339.
+\MT@listname@count=\count179
+>>>>>>> parent of 7982160... no.5
 
 ("C:\Program Files\MiKTeX 2.9\tex\latex\microtype\microtype-pdftex.def"
 File: microtype-pdftex.def 2018/01/14 v2.7a Definitions specific to pdftex (RS)
 
 LaTeX Info: Redefining \lsstyle on input line 913.
 LaTeX Info: Redefining \lslig on input line 913.
+<<<<<<< HEAD
 \MT@outer@space=\skip264
+=======
+\MT@outer@space=\skip269
+>>>>>>> parent of 7982160... no.5
 )
 Package microtype Info: Loading configuration file microtype.cfg.
 
@@ -732,6 +821,7 @@ Package: blindtext 2012/01/06 V2.0 blindtext-Package
 ("C:\Program Files\MiKTeX 2.9\tex\latex\tools\xspace.sty"
 Package: xspace 2014/10/28 v1.13 Space after command names (DPC,MH)
 )
+<<<<<<< HEAD
 \c@blindtext=\count179
 \c@Blindtext=\count180
 \c@blind@countparstart=\count181
@@ -750,6 +840,26 @@ Package: xspace 2014/10/28 v1.13 Space after command names (DPC,MH)
 \c@blind@randommax=\count194
 \c@blind@pangramcount=\count266
 \c@blind@pangrammax=\count267
+=======
+\c@blindtext=\count180
+\c@Blindtext=\count181
+\c@blind@countparstart=\count182
+\blind@countxx=\count183
+\blindtext@numBlindtext=\count184
+\blind@countyy=\count185
+\c@blindlist=\count186
+\c@blindlistlevel=\count187
+\c@blindlist@level=\count188
+\blind@listitem=\count189
+\c@blind@listcount=\count190
+\c@blind@levelcount=\count191
+\blind@mathformula=\count192
+\blind@Mathformula=\count193
+\c@blind@randomcount=\count194
+\c@blind@randommax=\count266
+\c@blind@pangramcount=\count267
+\c@blind@pangrammax=\count268
+>>>>>>> parent of 7982160... no.5
 )
 ("C:\Program Files\MiKTeX 2.9\tex\latex\tools\indentfirst.sty"
 Package: indentfirst 1995/11/23 v1.03 Indent first paragraph (DPC)
@@ -762,7 +872,11 @@ Package: datetime 2015/03/20 v2.60 Date Time Package
 
 ("C:\Program Files\MiKTeX 2.9\tex\latex\etoolbox\etoolbox.sty"
 Package: etoolbox 2018/02/11 v2.5e e-TeX tools for LaTeX (JAW)
+<<<<<<< HEAD
 \etb@tempcnta=\count268
+=======
+\etb@tempcnta=\count269
+>>>>>>> parent of 7982160... no.5
 )
 ("C:\Program Files\MiKTeX 2.9\tex\latex\fmtcount\fmtcount.sty"
 Package: fmtcount 2017/12/24 v3.05
@@ -775,7 +889,11 @@ Package: xkeyval 2014/12/03 v2.7a package option processing (HA)
 \XKV@toks=\toks34
 \XKV@tempa@toks=\toks35
 )
+<<<<<<< HEAD
 \XKV@depth=\count269
+=======
+\XKV@depth=\count270
+>>>>>>> parent of 7982160... no.5
 File: xkeyval.tex 2014/12/03 v2.7a key=value parser (HA)
 ))
 ("C:\Program Files\MiKTeX 2.9\tex\latex\fmtcount\fcprefix.sty"
@@ -783,6 +901,7 @@ Package: fcprefix 2012/09/28
 
 ("C:\Program Files\MiKTeX 2.9\tex\latex\fmtcount\fcnumparser.sty"
 Package: fcnumparser 2017/06/15
+<<<<<<< HEAD
 \fc@digit@counter=\count270
 ))
 \c@padzeroesN=\count271
@@ -794,6 +913,19 @@ Package: fcnumparser 2017/06/15
 \@tmpstrctr=\count277
 \@DT@loopN=\count278
 \@DT@X=\count279
+=======
+\fc@digit@counter=\count271
+))
+\c@padzeroesN=\count272
+\fc@tmpcatcode=\count273
+\@DT@modctr=\count274
+\@ordinalctr=\count275
+\@orgargctr=\count276
+\@strctr=\count277
+\@tmpstrctr=\count278
+\@DT@loopN=\count279
+\@DT@X=\count280
+>>>>>>> parent of 7982160... no.5
 
 
 Package fmtcount Warning: \ordinal already defined use \FCordinal instead. on i
@@ -802,6 +934,7 @@ nput line 484.
 ) ("C:\Program Files\MiKTeX 2.9\tex\latex\datetime\datetime-defaults.sty"
 Package: datetime-defaults 2013/09/10
 )
+<<<<<<< HEAD
 \@day=\count280
 \@month=\count281
 \@year=\count282
@@ -819,6 +952,25 @@ put line 308.
 \@dtctr=\count292
 \dayofyear=\count293
 \dayofweek=\count294
+=======
+\@day=\count281
+\@month=\count282
+\@year=\count283
+\c@HOUR=\count284
+\c@HOURXII=\count285
+\c@MINUTE=\count286
+\c@TOHOUR=\count287
+\c@TOMINUTE=\count288
+\c@SECOND=\count289
+\currenthour=\count290
+\currentminute=\count291
+\currentsecond=\count292
+Package datetime Info: No datetime.cfg file found, using default settings on in
+put line 308.
+\@dtctr=\count293
+\dayofyear=\count294
+\dayofweek=\count295
+>>>>>>> parent of 7982160... no.5
 LaTeX Info: Redefining \today on input line 736.
 \dt@a=\toks36
 \dt@b=\toks37
@@ -905,15 +1057,24 @@ Package: hycolor 2016/05/16 v1.8 Color options for hyperref/bookmark (HO)
 Package: auxhook 2016/05/16 v1.4 Hooks for auxiliary files (HO)
 )
 \@linkdim=\dimen187
+<<<<<<< HEAD
 \Hy@linkcounter=\count295
 \Hy@pagecounter=\count296
+=======
+\Hy@linkcounter=\count296
+\Hy@pagecounter=\count297
+>>>>>>> parent of 7982160... no.5
 
 ("C:\Program Files\MiKTeX 2.9\tex\latex\hyperref\pd1enc.def"
 File: pd1enc.def 2018/02/06 v6.86b Hyperref: PDFDocEncoding definition (HO)
 Now handling font encoding PD1 ...
 ... no UTF-8 mapping file for font encoding PD1
 )
+<<<<<<< HEAD
 \Hy@SavedSpaceFactor=\count297
+=======
+\Hy@SavedSpaceFactor=\count298
+>>>>>>> parent of 7982160... no.5
 
 ("C:\Program Files\MiKTeX 2.9\tex\latex\00miktex\hyperref.cfg"
 File: hyperref.cfg 2002/06/06 v1.2 hyperref configuration of TeXLive
@@ -926,7 +1087,11 @@ Package hyperref Info: Plain pages OFF on input line 4524.
 Package hyperref Info: Backreferencing OFF on input line 4529.
 Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
 Package hyperref Info: Bookmarks ON on input line 4762.
+<<<<<<< HEAD
 \c@Hy@tempcnt=\count298
+=======
+\c@Hy@tempcnt=\count299
+>>>>>>> parent of 7982160... no.5
 
 ("C:\Program Files\MiKTeX 2.9\tex\latex\url\url.sty"
 \Urlmuskip=\muskip11
@@ -934,7 +1099,11 @@ Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
 )
 LaTeX Info: Redefining \url on input line 5115.
 \XeTeXLinkMargin=\dimen188
+<<<<<<< HEAD
 \Fld@menulength=\count299
+=======
+\Fld@menulength=\count300
+>>>>>>> parent of 7982160... no.5
 \Field@Width=\dimen189
 \Fld@charsize=\dimen190
 Package hyperref Info: Hyper figures OFF on input line 6369.
@@ -946,22 +1115,38 @@ Package hyperref Info: Link coloring with OCG OFF on input line 6394.
 Package hyperref Info: PDF/A mode OFF on input line 6399.
 LaTeX Info: Redefining \ref on input line 6439.
 LaTeX Info: Redefining \pageref on input line 6443.
+<<<<<<< HEAD
 \Hy@abspage=\count300
 \c@Item=\count301
 \c@Hfootnote=\count302
+=======
+\Hy@abspage=\count301
+\c@Item=\count302
+\c@Hfootnote=\count303
+>>>>>>> parent of 7982160... no.5
 )
 ("C:\Program Files\MiKTeX 2.9\tex\latex\memoir\memhfixc.sty"
 Package: memhfixc 2013/05/30 v1.17 nameref/hyperref package fixes for memoir cl
 ass
+<<<<<<< HEAD
 \c@memhycontfloat=\count303
 \c@Hpagenote=\count304
+=======
+\c@memhycontfloat=\count304
+\c@Hpagenote=\count305
+>>>>>>> parent of 7982160... no.5
 )
 Package hyperref Info: Driver (autodetected): hpdftex.
 
 ("C:\Program Files\MiKTeX 2.9\tex\latex\hyperref\hpdftex.def"
 File: hpdftex.def 2018/02/06 v6.86b Hyperref driver for pdfTeX
+<<<<<<< HEAD
 \Fld@listcount=\count305
 \c@bookmark@seq@number=\count306
+=======
+\Fld@listcount=\count306
+\c@bookmark@seq@number=\count307
+>>>>>>> parent of 7982160... no.5
 
 ("C:\Program Files\MiKTeX 2.9\tex\latex\oberdiek\rerunfilecheck.sty"
 Package: rerunfilecheck 2016/05/16 v1.8 Rerun checks for auxiliary files (HO)
@@ -975,16 +1160,26 @@ Package: pdfpages 2017/10/31 v0.5l Insert pages of external PDF documents (AM)
 
 ("C:\Program Files\MiKTeX 2.9\tex\latex\tools\calc.sty"
 Package: calc 2017/05/25 v4.3 Infix arithmetic (KKT,FJ)
+<<<<<<< HEAD
 \calc@Acount=\count307
 \calc@Bcount=\count308
+=======
+\calc@Acount=\count308
+\calc@Bcount=\count309
+>>>>>>> parent of 7982160... no.5
 \calc@Adimen=\dimen191
 \calc@Bdimen=\dimen192
 \calc@Askip=\skip266
 \calc@Bskip=\skip267
 LaTeX Info: Redefining \setlength on input line 80.
 LaTeX Info: Redefining \addtolength on input line 81.
+<<<<<<< HEAD
 \calc@Ccount=\count309
 \calc@Cskip=\skip268
+=======
+\calc@Ccount=\count310
+\calc@Cskip=\skip273
+>>>>>>> parent of 7982160... no.5
 )
 ("C:\Program Files\MiKTeX 2.9\tex\latex\eso-pic\eso-pic.sty"
 Package: eso-pic 2018/04/12 v2.0h eso-pic (RN)
@@ -998,17 +1193,30 @@ File: pppdftex.def 2017/10/31 v0.5l Pdfpages driver for pdfTeX (AM)
 \AM@pagebox=\box65
 \AM@global@opts=\toks38
 \AM@toc@title=\toks39
+<<<<<<< HEAD
 \c@AM@survey=\count310
+=======
+\c@AM@survey=\count311
+>>>>>>> parent of 7982160... no.5
 \AM@templatesizebox=\box66
 )
 ("C:\Program Files\MiKTeX 2.9\tex\latex\algorithms\algorithmic.sty"
 Package: algorithmic 2009/08/24 v0.1 Document Style `algorithmic'
+<<<<<<< HEAD
 \c@ALC@unique=\count311
 \c@ALC@line=\count312
 \c@ALC@rem=\count313
 \c@ALC@depth=\count314
 \ALC@tlm=\skip269
 \algorithmicindent=\skip270
+=======
+\c@ALC@unique=\count312
+\c@ALC@line=\count313
+\c@ALC@rem=\count314
+\c@ALC@depth=\count315
+\ALC@tlm=\skip274
+\algorithmicindent=\skip275
+>>>>>>> parent of 7982160... no.5
 )
 ("C:\Program Files\MiKTeX 2.9\tex\latex\pgf\frontendlayer\tikz.sty"
 ("C:\Program Files\MiKTeX 2.9\tex\latex\pgf\basiclayer\pgf.sty"
@@ -1052,10 +1260,17 @@ x"
 \pgf@yc=\dimen265
 \w@pgf@writea=\write5
 \r@pgf@reada=\read2
+<<<<<<< HEAD
 \c@pgf@counta=\count315
 \c@pgf@countb=\count316
 \c@pgf@countc=\count317
 \c@pgf@countd=\count318
+=======
+\c@pgf@counta=\count316
+\c@pgf@countb=\count317
+\c@pgf@countc=\count318
+\c@pgf@countd=\count319
+>>>>>>> parent of 7982160... no.5
 \t@pgf@toka=\toks44
 \t@pgf@tokb=\toks45
 \t@pgf@tokc=\toks46
@@ -1074,8 +1289,13 @@ File: pgfsys-common-pdf.def 2013/10/10  (rcs-revision 1.13)
 ("C:\Program Files\MiKTeX 2.9\tex\generic\pgf\systemlayer\pgfsyssoftpath.code.t
 ex"
 File: pgfsyssoftpath.code.tex 2013/09/09  (rcs-revision 1.9)
+<<<<<<< HEAD
 \pgfsyssoftpath@smallbuffer@items=\count319
 \pgfsyssoftpath@bigbuffer@items=\count320
+=======
+\pgfsyssoftpath@smallbuffer@items=\count320
+\pgfsyssoftpath@bigbuffer@items=\count321
+>>>>>>> parent of 7982160... no.5
 )
 ("C:\Program Files\MiKTeX 2.9\tex\generic\pgf\systemlayer\pgfsysprotocol.code.t
 ex"
@@ -1087,7 +1307,11 @@ Package: pgfcore 2010/04/11 v3.0.1a (rcs-revision 1.7)
 ("C:\Program Files\MiKTeX 2.9\tex\generic\pgf\math\pgfmathutil.code.tex")
 ("C:\Program Files\MiKTeX 2.9\tex\generic\pgf\math\pgfmathparser.code.tex"
 \pgfmath@dimen=\dimen266
+<<<<<<< HEAD
 \pgfmath@count=\count321
+=======
+\pgfmath@count=\count322
+>>>>>>> parent of 7982160... no.5
 \pgfmath@box=\box68
 \pgfmath@toks=\toks47
 \pgfmath@stack@operand=\toks48
@@ -1111,7 +1335,11 @@ ex")
 ("C:\Program Files\MiKTeX 2.9\tex\generic\pgf\math\pgfmathfunctions.integerarit
 hmetics.code.tex")))
 ("C:\Program Files\MiKTeX 2.9\tex\generic\pgf\math\pgfmathfloat.code.tex"
+<<<<<<< HEAD
 \c@pgfmathroundto@lastzeros=\count322
+=======
+\c@pgfmathroundto@lastzeros=\count323
+>>>>>>> parent of 7982160... no.5
 ))
 ("C:\Program Files\MiKTeX 2.9\tex\generic\pgf\basiclayer\pgfcorepoints.code.tex
 "
@@ -1149,7 +1377,11 @@ File: pgfcorescopes.code.tex 2015/05/08  (rcs-revision 1.46)
 \pgfpic=\box69
 \pgf@hbox=\box70
 \pgf@layerbox@main=\box71
+<<<<<<< HEAD
 \pgf@picture@serial@count=\count323
+=======
+\pgf@picture@serial@count=\count324
+>>>>>>> parent of 7982160... no.5
 )
 ("C:\Program Files\MiKTeX 2.9\tex\generic\pgf\basiclayer\pgfcoregraphicstate.co
 de.tex"
@@ -1182,7 +1414,11 @@ File: pgfcorearrows.code.tex 2015/05/14  (rcs-revision 1.43)
 ("C:\Program Files\MiKTeX 2.9\tex\generic\pgf\basiclayer\pgfcoreshade.code.tex"
 File: pgfcoreshade.code.tex 2013/07/15  (rcs-revision 1.15)
 \pgf@max=\dimen290
+<<<<<<< HEAD
 \pgf@sys@shading@range@num=\count324
+=======
+\pgf@sys@shading@range@num=\count325
+>>>>>>> parent of 7982160... no.5
 ) ("C:\Program Files\MiKTeX 2.9\tex\generic\pgf\basiclayer\pgfcoreimage.code.te
 x"
 File: pgfcoreimage.code.tex 2013/07/15  (rcs-revision 1.18)
@@ -1239,7 +1475,11 @@ Package: tikz 2015/08/07 v3.0.1a (rcs-revision 1.151)
 ("C:\Program Files\MiKTeX 2.9\tex\generic\pgf\libraries\pgflibraryplothandlers.
 code.tex"
 File: pgflibraryplothandlers.code.tex 2013/08/31 v3.0.1a (rcs-revision 1.20)
+<<<<<<< HEAD
 \pgf@plot@mark@count=\count325
+=======
+\pgf@plot@mark@count=\count326
+>>>>>>> parent of 7982160... no.5
 \pgfplotmarksize=\dimen295
 )
 \tikz@lastx=\dimen296
@@ -1252,6 +1492,7 @@ File: pgflibraryplothandlers.code.tex 2013/08/31 v3.0.1a (rcs-revision 1.20)
 \tikz@figbox@bg=\box75
 \tikz@tempbox=\box76
 \tikz@tempbox@bg=\box77
+<<<<<<< HEAD
 \tikztreelevel=\count326
 \tikznumberofchildren=\count327
 \tikznumberofcurrentchild=\count328
@@ -1264,6 +1505,20 @@ File: pgfmodulematrix.code.tex 2013/09/17  (rcs-revision 1.8)
 \pgf@matrix@numberofcolumns=\count332
 )
 \tikz@expandcount=\count333
+=======
+\tikztreelevel=\count327
+\tikznumberofchildren=\count328
+\tikznumberofcurrentchild=\count329
+\tikz@fig@count=\count330
+
+("C:\Program Files\MiKTeX 2.9\tex\generic\pgf\modules\pgfmodulematrix.code.tex"
+File: pgfmodulematrix.code.tex 2013/09/17  (rcs-revision 1.8)
+\pgfmatrixcurrentrow=\count331
+\pgfmatrixcurrentcolumn=\count332
+\pgf@matrix@numberofcolumns=\count333
+)
+\tikz@expandcount=\count334
+>>>>>>> parent of 7982160... no.5
 
 ("C:\Program Files\MiKTeX 2.9\tex\generic\pgf\frontendlayer\tikz\libraries\tikz
 librarytopaths.code.tex"
@@ -1273,6 +1528,7 @@ File: tikzlibrarytopaths.code.tex 2008/06/17 v3.0.1a (rcs-revision 1.2)
 Package: alphalph 2016/05/16 v2.5 Convert numbers to letters (HO)
 )
 ("C:\Program Files\MiKTeX 2.9\tex\latex\listings\listings.sty"
+<<<<<<< HEAD
 \lst@mode=\count334
 \lst@gtempboxa=\box78
 \lst@token=\toks52
@@ -1284,22 +1540,47 @@ Package: alphalph 2016/05/16 v2.5 Convert numbers to letters (HO)
 \lst@width=\dimen304
 \lst@newlines=\count338
 \lst@lineno=\count339
+=======
+\lst@mode=\count335
+\lst@gtempboxa=\box78
+\lst@token=\toks52
+\lst@length=\count336
+\lst@currlwidth=\dimen302
+\lst@column=\count337
+\lst@pos=\count338
+\lst@lostspace=\dimen303
+\lst@width=\dimen304
+\lst@newlines=\count339
+\lst@lineno=\count340
+>>>>>>> parent of 7982160... no.5
 \lst@maxwidth=\dimen305
 
 ("C:\Program Files\MiKTeX 2.9\tex\latex\listings\lstmisc.sty"
 File: lstmisc.sty 2015/06/04 1.6 (Carsten Heinz)
+<<<<<<< HEAD
 \c@lstnumber=\count340
 \lst@skipnumbers=\count341
+=======
+\c@lstnumber=\count341
+\lst@skipnumbers=\count342
+>>>>>>> parent of 7982160... no.5
 \lst@framebox=\box79
 )
 ("C:\Program Files\MiKTeX 2.9\tex\latex\listings\listings.cfg"
 File: listings.cfg 2015/06/04 1.6 listings configuration
 ))
 Package: listings 2015/06/04 1.6 (Carsten Heinz)
+<<<<<<< HEAD
 \c@subfigure=\count342
 \cftbeforesubfigureskip=\skip271
 \cftsubfigureindent=\skip272
 \cftsubfigurenumwidth=\skip273
+=======
+\c@subfigure=\count343
+\cftbeforesubfigureskip=\skip276
+\cftsubfigureindent=\skip277
+\cftsubfigurenumwidth=\skip278
+>>>>>>> parent of 7982160... no.5
 )
 (format/postamble.ltx
 \document@idxfile=\write6
@@ -1318,7 +1599,11 @@ Package: xfor 2009/02/05 v1.05 (NLCT)
 )
 ("C:\Program Files\MiKTeX 2.9\tex\latex\substr\substr.sty"
 Package: substr 2009/10/20 v1.2 Handle substrings
+<<<<<<< HEAD
 \c@su@anzahl=\count343
+=======
+\c@su@anzahl=\count344
+>>>>>>> parent of 7982160... no.5
 )
 ("C:\Program Files\MiKTeX 2.9\tex\latex\datatool\datatool-base.sty"
 Package: datatool-base 2018/04/16 v2.30 (NLCT)
@@ -1332,6 +1617,7 @@ Package: fp 1995/04/02
 `Fixed Point Package', Version 0.8, April 2, 1995 (C) Michael Mehlich
 ("C:\Program Files\MiKTeX 2.9\tex\latex\fp\defpattern.sty"
 Package: defpattern 1994/10/12
+<<<<<<< HEAD
 \actioncount=\count344
 )
 ("C:\Program Files\MiKTeX 2.9\tex\latex\fp\fp-basic.sty"
@@ -1345,6 +1631,21 @@ Package: fp-basic 1996/05/13
 \FP@regb=\count351
 \FP@regs=\count352
 \FP@times=\count353
+=======
+\actioncount=\count345
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\fp\fp-basic.sty"
+Package: fp-basic 1996/05/13
+\FP@xs=\count346
+\FP@xia=\count347
+\FP@xib=\count348
+\FP@xfa=\count349
+\FP@xfb=\count350
+\FP@rega=\count351
+\FP@regb=\count352
+\FP@regs=\count353
+\FP@times=\count354
+>>>>>>> parent of 7982160... no.5
 )
 ("C:\Program Files\MiKTeX 2.9\tex\latex\fp\fp-addons.sty"
 Package: fp-addons 1995/03/15
@@ -1363,7 +1664,11 @@ Package: fp-pas 1994/08/29
 )
 ("C:\Program Files\MiKTeX 2.9\tex\latex\fp\fp-random.sty"
 Package: fp-random 1995/02/23
+<<<<<<< HEAD
 \FPseed=\count354
+=======
+\FPseed=\count355
+>>>>>>> parent of 7982160... no.5
 )
 ("C:\Program Files\MiKTeX 2.9\tex\latex\fp\fp-eqn.sty"
 Package: fp-eqn 1995/04/03
@@ -1375,6 +1680,7 @@ Package: fp-upn 1996/10/21
 Package: fp-eval 1995/04/03
 )))
 \@dtl@toks=\toks53
+<<<<<<< HEAD
 \@dtl@tmpcount=\count355
 \dtl@tmplength=\skip274
 \dtl@sortresult=\count356
@@ -1386,12 +1692,26 @@ Package: fp-eval 1995/04/03
 )
 \dtlcolumnnum=\count362
 \dtlrownum=\count363
+=======
+\@dtl@tmpcount=\count356
+\dtl@tmplength=\skip279
+\dtl@sortresult=\count357
+\@dtl@numgrpsepcount=\count358
+\@dtl@datatype=\count359
+\dtl@codeA=\count360
+\dtl@codeB=\count361
+\@dtl@foreach@level=\count362
+)
+\dtlcolumnnum=\count363
+\dtlrownum=\count364
+>>>>>>> parent of 7982160... no.5
 \@dtl@before=\toks54
 \@dtl@after=\toks55
 \@dtl@colhead=\toks56
 \dtlcurrentrow=\toks57
 \dtlbeforerow=\toks58
 \dtlafterrow=\toks59
+<<<<<<< HEAD
 \dtlforeachlevel=\count364
 \c@DTLrowi=\count365
 \c@DTLrowii=\count366
@@ -1400,6 +1720,16 @@ Package: fp-eval 1995/04/03
 \dtl@rowi=\count369
 \dtl@rowii=\count370
 \dtl@rowiii=\count371
+=======
+\dtlforeachlevel=\count365
+\c@DTLrowi=\count366
+\c@DTLrowii=\count367
+\c@DTLrowiii=\count368
+\c@DTLrow=\count369
+\dtl@rowi=\count370
+\dtl@rowii=\count371
+\dtl@rowiii=\count372
+>>>>>>> parent of 7982160... no.5
 \@dtl@curi=\toks60
 \@dtl@previ=\toks61
 \@dtl@nexti=\toks62
@@ -1409,7 +1739,11 @@ Package: fp-eval 1995/04/03
 \@dtl@curiii=\toks66
 \@dtl@previii=\toks67
 \@dtl@nextiii=\toks68
+<<<<<<< HEAD
 \@dtl@elements=\count372
+=======
+\@dtl@elements=\count373
+>>>>>>> parent of 7982160... no.5
 \@dtl@list=\toks69
 \@dtl@rowa=\toks70
 \@dtl@rowb=\toks71
@@ -1417,8 +1751,13 @@ Package: fp-eval 1995/04/03
 \@dtl@toksB=\toks73
 \@dtl@write=\write7
 \@dtl@read=\read3
+<<<<<<< HEAD
 \dtl@entrycr=\count373
 \dtl@omitlines=\count374
+=======
+\dtl@entrycr=\count374
+\dtl@omitlines=\count375
+>>>>>>> parent of 7982160... no.5
 )
 ("C:\Program Files\MiKTeX 2.9\tex\latex\mfirstuc\mfirstuc.sty"
 Package: mfirstuc 2017/11/14 v2.06 (NLCT)
@@ -1431,6 +1770,7 @@ Package: afterpage 2014/10/28 v1.08 After-Page Package (DPC)
 \AP@partial=\box80
 \AP@footins=\box81
 )
+<<<<<<< HEAD
 \c@DTLgidxChildCount=\count375
 \datagidxsymbolwidth=\skip275
 \datagidxlocationwidth=\skip276
@@ -1457,6 +1797,34 @@ Package: afterpage 2014/10/28 v1.08 After-Page Package (DPC)
 \dtlkeys@glossary=\toks84
 \dtlrows@glossary=\count385
 \dtlcols@glossary=\count386
+=======
+\c@DTLgidxChildCount=\count376
+\datagidxsymbolwidth=\skip280
+\datagidxlocationwidth=\skip281
+\dtldb@datagidx=\toks77
+\dtlkeys@datagidx=\toks78
+\dtlrows@datagidx=\count377
+\dtlcols@datagidx=\count378
+\datagidxindent=\skip282
+\datagidxnamewidth=\skip283
+\datagidxdescwidth=\skip284
+\datagidx@anchorcount=\count379
+\datagidx@count=\count380
+\datagidx@level=\count381
+)
+\dtldb@abbreviation=\toks79
+\dtlkeys@abbreviation=\toks80
+\dtlrows@abbreviation=\count382
+\dtlcols@abbreviation=\count383
+\dtldb@notation=\toks81
+\dtlkeys@notation=\toks82
+\dtlrows@notation=\count384
+\dtlcols@notation=\count385
+\dtldb@glossary=\toks83
+\dtlkeys@glossary=\toks84
+\dtlrows@glossary=\count386
+\dtlcols@glossary=\count387
+>>>>>>> parent of 7982160... no.5
 
 (abbreviation.tex) (notation.tex) (glossary.tex)
 Package hyperref Info: Option `breaklinks' set `true' on input line 58.
@@ -1476,9 +1844,15 @@ Package: wallpaper 2005/01/18, v1.01 easy wallpaper formatting (MHFW)
 )
 ("C:\Program Files\MiKTeX 2.9\tex\latex\geometry\geometry.sty"
 Package: geometry 2018/04/16 v5.8 Page Geometry
+<<<<<<< HEAD
 \Gm@cnth=\count387
 \Gm@cntv=\count388
 \c@Gm@tempcnt=\count389
+=======
+\Gm@cnth=\count388
+\Gm@cntv=\count389
+\c@Gm@tempcnt=\count390
+>>>>>>> parent of 7982160... no.5
 \Gm@bindingoffset=\dimen306
 \Gm@wd@mp=\dimen307
 \Gm@odd@mp=\dimen308
@@ -1516,6 +1890,7 @@ LaTeX Font Info:    Try loading font information for OT1+ptm on input line 131.
 ("C:\Program Files\MiKTeX 2.9\tex\latex\psnfss\ot1ptm.fd"
 File: ot1ptm.fd 2001/06/04 font definitions for OT1/ptm.
 )
+<<<<<<< HEAD
 ("C:\Program Files\MiKTeX 2.9\tex\context\base\supp-pdf.mkii"
 [Loading MPS to PDF converter (version 2006.09.02).]
 \scratchcounter=\count390
@@ -1528,6 +1903,27 @@ File: ot1ptm.fd 2001/06/04 font definitions for OT1/ptm.
 \MPscratchDim=\dimen315
 \MPnumerator=\count394
 \makeMPintoPDFobject=\count395
+=======
+\c@maskedRefs=\count391
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\apacite\english.apc"
+File: english.apc 2013/07/21 v6.03 apacite language file
+LaTeX Info: Redefining \BPBI on input line 129.
+LaTeX Info: Redefining \BHBI on input line 130.
+)
+("C:\Program Files\MiKTeX 2.9\tex\context\base\supp-pdf.mkii"
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count392
+\scratchdimen=\dimen314
+\scratchbox=\box82
+\nofMPsegments=\count393
+\nofMParguments=\count394
+\everyMPshowfont=\toks86
+\MPscratchCnt=\count395
+\MPscratchDim=\dimen315
+\MPnumerator=\count396
+\makeMPintoPDFobject=\count397
+>>>>>>> parent of 7982160... no.5
 \everyMPtoPDFconversion=\toks87
 ) ("C:\Program Files\MiKTeX 2.9\tex\latex\oberdiek\epstopdf-base.sty"
 Package: epstopdf-base 2016/05/15 v2.6 Base part for package epstopdf
@@ -1572,7 +1968,11 @@ Package: nameref 2016/05/21 v2.44 Cross-referencing by name of section
 ("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\gettitlestring.sty"
 Package: gettitlestring 2016/05/16 v1.5 Cleanup title references (HO)
 )
+<<<<<<< HEAD
 \c@section@level=\count396
+=======
+\c@section@level=\count398
+>>>>>>> parent of 7982160... no.5
 )
 Redoing nameref's sectioning
 Redoing nameref's label
@@ -1585,7 +1985,11 @@ LaTeX Info: Redefining \nameref on input line 131.
 \openout8 = `document.out'.
 
  ABD: EveryShipout initializing macros
+<<<<<<< HEAD
 \c@lstlisting=\count397
+=======
+\c@lstlisting=\count399
+>>>>>>> parent of 7982160... no.5
 
 *geometry* driver: auto-detecting
 *geometry* detected driver: pdftex
@@ -1646,7 +2050,11 @@ Underfull \hbox (badness 10000) in paragraph at lines 107--111
 
  []
 
+<<<<<<< HEAD
 <figure/../format/dlsu_thesis_paper_letterhead.pdf, id=219, 614.295pt x 794.97p
+=======
+<figure/../format/dlsu_thesis_paper_letterhead.pdf, id=147, 614.295pt x 794.97p
+>>>>>>> parent of 7982160... no.5
 t>
 File: figure/../format/dlsu_thesis_paper_letterhead.pdf Graphic file (type pdf)
 
@@ -1656,6 +2064,7 @@ d on input line 124.
 (pdftex.def)             Requested size: 614.31223pt x 794.99231pt.
 [2
 
+<<<<<<< HEAD
  <./figure/../format/dlsu_thesis_paper_letterhead.pdf>]) (format/approval.ltx
 Underfull \hbox (badness 10000) in paragraph at lines 88--90
 
@@ -1665,6 +2074,25 @@ Underfull \hbox (badness 10000) in paragraph at lines 88--90
 Underfull \hbox (badness 10000) in paragraph at lines 97--101
 
  []
+=======
+ <./figure/../format/dlsu_thesis_paper_letterhead.pdf>]) (format/approval.ltx) 
+(format/aaa.ltx (abstract.tex
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <24.88> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 1.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <20.74> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 1.
+LaTeX Font Info:    Try loading font information for OT1+phv on input line 1.
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\psnfss\ot1phv.fd"
+File: ot1phv.fd 2001/06/04 scalable font definitions for OT1/phv.
+)
+LaTeX Font Info:    Font shape `OT1/phv/bx/n' in size <20.74> not available
+(Font)              Font shape `OT1/phv/b/n' tried instead on input line 1.
+Package microtype Info: Loading generic protrusion settings for font family
+(microtype)             `phv' (encoding: OT1).
+(microtype)             For optimal results, create family-specific settings.
+(microtype)             See the microtype manual for details.
+>>>>>>> parent of 7982160... no.5
 
 ("C:\Program Files\MiKTeX 2.9\tex\latex\microtype\mt-cmr.cfg"
 File: mt-cmr.cfg 2013/05/19 v2.2 microtype config. file: Computer Modern Roman 
@@ -1697,6 +2125,7 @@ Overfull \hbox (11.17546pt too wide) in paragraph at lines 113--119
 
 File: figure/../format/dlsu_thesis_paper_letterhead.pdf Graphic file (type pdf)
 
+<<<<<<< HEAD
 <use figure/../format/dlsu_thesis_paper_letterhead.pdf>
 Package pdftex.def Info: figure/../format/dlsu_thesis_paper_letterhead.pdf  use
 d on input line 134.
@@ -1723,6 +2152,11 @@ File: figure/../format/dlsu_thesis_paper_letterhead.pdf Graphic file (type pdf)
 <use figure/../format/dlsu_thesis_paper_letterhead.pdf>
 Package pdftex.def Info: figure/../format/dlsu_thesis_paper_letterhead.pdf  use
 d on input line 28.
+=======
+<use figure/../format/dlsu_thesis_paper_letterhead.pdf>
+Package pdftex.def Info: figure/../format/dlsu_thesis_paper_letterhead.pdf  use
+d on input line 51.
+>>>>>>> parent of 7982160... no.5
 (pdftex.def)             Requested size: 614.31223pt x 794.99231pt.
 [4
 
@@ -1730,6 +2164,7 @@ d on input line 28.
 ] (acknowledgment.tex)
 File: figure/../format/dlsu_thesis_paper_letterhead.pdf Graphic file (type pdf)
 
+<<<<<<< HEAD
 <use figure/../format/dlsu_thesis_paper_letterhead.pdf>
 Package pdftex.def Info: figure/../format/dlsu_thesis_paper_letterhead.pdf  use
 d on input line 38.
@@ -1753,6 +2188,15 @@ File: figure/../format/dlsu_thesis_paper_letterhead.pdf Graphic file (type pdf)
 <use figure/../format/dlsu_thesis_paper_letterhead.pdf>
 Package pdftex.def Info: figure/../format/dlsu_thesis_paper_letterhead.pdf  use
 d on input line 28.
+=======
+]))
+(document.toc
+File: figure/../format/dlsu_thesis_paper_letterhead.pdf Graphic file (type pdf)
+
+<use figure/../format/dlsu_thesis_paper_letterhead.pdf>
+Package pdftex.def Info: figure/../format/dlsu_thesis_paper_letterhead.pdf  use
+d on input line 32.
+>>>>>>> parent of 7982160... no.5
 (pdftex.def)             Requested size: 614.31223pt x 794.99231pt.
  [7
 
@@ -1791,6 +2235,7 @@ d on input line 145.
 
 File: figure/../format/dlsu_thesis_paper_letterhead.pdf Graphic file (type pdf)
 
+<<<<<<< HEAD
 <use figure/../format/dlsu_thesis_paper_letterhead.pdf>
 Package pdftex.def Info: figure/../format/dlsu_thesis_paper_letterhead.pdf  use
 d on input line 149.
@@ -1803,6 +2248,11 @@ File: figure/../format/dlsu_thesis_paper_letterhead.pdf Graphic file (type pdf)
 <use figure/../format/dlsu_thesis_paper_letterhead.pdf>
 Package pdftex.def Info: figure/../format/dlsu_thesis_paper_letterhead.pdf  use
 d on input line 158.
+=======
+<use figure/../format/dlsu_thesis_paper_letterhead.pdf>
+Package pdftex.def Info: figure/../format/dlsu_thesis_paper_letterhead.pdf  use
+d on input line 149.
+>>>>>>> parent of 7982160... no.5
 (pdftex.def)             Requested size: 614.31223pt x 794.99231pt.
  [11
 
@@ -1818,6 +2268,7 @@ d on input line 171.
 
 
 ]
+<<<<<<< HEAD
 Underfull \hbox (badness 10000) in paragraph at lines 177--177
 
  []
@@ -1850,6 +2301,11 @@ d on input line 184.
 
 ]
 \c@ttl@toc@chapters=\count398
+=======
+Excluding 'comment' comment. Excluding 'comment' comment.
+Excluding 'comment' comment.
+\c@ttl@toc@chapters=\count400
+>>>>>>> parent of 7982160... no.5
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <14.4> not available
 (Font)              Font shape `OT1/ptm/b/n' tried instead on input line 193.
 LaTeX Font Info:    Font shape `OT1/phv/bx/n' in size <14.4> not available
@@ -1859,7 +2315,11 @@ File: figure/../format/dlsu_thesis_paper_letterhead.pdf Graphic file (type pdf)
 
 <use figure/../format/dlsu_thesis_paper_letterhead.pdf>
 Package pdftex.def Info: figure/../format/dlsu_thesis_paper_letterhead.pdf  use
+<<<<<<< HEAD
 d on input line 195.
+=======
+d on input line 198.
+>>>>>>> parent of 7982160... no.5
 (pdftex.def)             Requested size: 614.31223pt x 794.99231pt.
  [1
 
@@ -1892,9 +2352,16 @@ File: figure/../format/dlsu_thesis_paper_letterhead.pdf Graphic file (type pdf)
 Package pdftex.def Info: figure/../format/dlsu_thesis_paper_letterhead.pdf  use
 d on input line 28.
 (pdftex.def)             Requested size: 614.31223pt x 794.99231pt.
+<<<<<<< HEAD
  [4]
 File: figure/../format/dlsu_thesis_paper_letterhead.pdf Graphic file (type pdf)
 
+=======
+
+[4]
+File: figure/../format/dlsu_thesis_paper_letterhead.pdf Graphic file (type pdf)
+
+>>>>>>> parent of 7982160... no.5
 <use figure/../format/dlsu_thesis_paper_letterhead.pdf>
 Package pdftex.def Info: figure/../format/dlsu_thesis_paper_letterhead.pdf  use
 d on input line 53.
@@ -1902,6 +2369,7 @@ d on input line 53.
 <<<<<<< HEAD
 <<<<<<< HEAD
  [5]
+<<<<<<< HEAD
 <<<<<<< HEAD
 Missing character: There is no â in font ptmr7t!
 Missing character: There is no € in font ptmr7t!
@@ -1927,6 +2395,10 @@ Missing character: There is no ™ in font ptmr7t!
 >>>>>>> parent of f999796... Chapter 2 + Format
 File: figure/../format/dlsu_thesis_paper_letterhead.pdf Graphic file (type pdf)
 
+=======
+File: figure/../format/dlsu_thesis_paper_letterhead.pdf Graphic file (type pdf)
+
+>>>>>>> parent of 7982160... no.5
 <use figure/../format/dlsu_thesis_paper_letterhead.pdf>
 Package pdftex.def Info: figure/../format/dlsu_thesis_paper_letterhead.pdf  use
 d on input line 69.
@@ -1935,6 +2407,7 @@ d on input line 69.
 File: figure/../format/dlsu_thesis_paper_letterhead.pdf Graphic file (type pdf)
 
 <use figure/../format/dlsu_thesis_paper_letterhead.pdf>
+<<<<<<< HEAD
 <<<<<<< HEAD
 Package pdftex.def Info: figure/../format/dlsu_thesis_paper_letterhead.pdf used
 <<<<<<< HEAD
@@ -1946,6 +2419,10 @@ d on input line 94.
 =======
  on input line 94.
 >>>>>>> parent of 36e9a97... edit no.5 specific
+=======
+Package pdftex.def Info: figure/../format/dlsu_thesis_paper_letterhead.pdf  use
+d on input line 94.
+>>>>>>> parent of 7982160... no.5
 (pdftex.def)             Requested size: 614.31223pt x 794.99231pt.
  [7]
 File: figure/../format/dlsu_thesis_paper_letterhead.pdf Graphic file (type pdf)
@@ -1955,7 +2432,11 @@ Package pdftex.def Info: figure/../format/dlsu_thesis_paper_letterhead.pdf  use
 d on input line 119.
 (pdftex.def)             Requested size: 614.31223pt x 794.99231pt.
  [8]
+<<<<<<< HEAD
 <figure/EyeFlowchart.jpeg, id=533, 562.35094pt x 307.1475pt>
+=======
+<figure/EyeFlowchart.jpeg, id=289, 562.35094pt x 307.1475pt>
+>>>>>>> parent of 7982160... no.5
 File: figure/EyeFlowchart.jpeg Graphic file (type jpg)
 <use figure/EyeFlowchart.jpeg>
 Package pdftex.def Info: figure/EyeFlowchart.jpeg  used on input line 128.
@@ -1967,22 +2448,44 @@ Package pdftex.def Info: figure/../format/dlsu_thesis_paper_letterhead.pdf  use
 d on input line 133.
 (pdftex.def)             Requested size: 614.31223pt x 794.99231pt.
  [9 <./figure/EyeFlowchart.jpeg>]
+<<<<<<< HEAD
 <figure/gantt1.png, id=538, 1594.95876pt x 750.805pt>
+=======
+<figure/gantt1.png, id=294, 1594.95876pt x 750.805pt>
+>>>>>>> parent of 7982160... no.5
 File: figure/gantt1.png Graphic file (type png)
 <use figure/gantt1.png>
 Package pdftex.def Info: figure/gantt1.png  used on input line 143.
 (pdftex.def)             Requested size: 350.89201pt x 165.1776pt.
+<<<<<<< HEAD
 <figure/gantt2.png, id=539, 697.10437pt x 389.95688pt>
+=======
+<figure/gantt2.png, id=295, 697.10437pt x 389.95688pt>
+>>>>>>> parent of 7982160... no.5
 File: figure/gantt2.png Graphic file (type png)
 <use figure/gantt2.png>
 Package pdftex.def Info: figure/gantt2.png  used on input line 148.
 (pdftex.def)             Requested size: 345.06241pt x 193.02626pt.
+<<<<<<< HEAD
 <figure/gantt3.pdf, id=540, 590.205pt x 357.13426pt>
 File: figure/gantt3.pdf Graphic file (type pdf)
 <use figure/gantt3.pdf>
 Package pdftex.def Info: figure/gantt3.pdf  used on input line 153.
 (pdftex.def)             Requested size: 354.12573pt x 214.28221pt.
 <figure/gantt4.png, id=541, 697.10437pt x 389.95688pt>
+=======
+<figure/gantt3.png, id=296, 957.5775pt x 531.48563pt>
+File: figure/gantt3.png Graphic file (type png)
+<use figure/gantt3.png>
+Package pdftex.def Info: figure/gantt3.png  used on input line 153.
+(pdftex.def)             Requested size: 430.9059pt x 239.16632pt.
+
+Overfull \hbox (1.5538pt too wide) in paragraph at lines 153--154
+ [][] 
+ []
+
+<figure/gantt4.png, id=297, 697.10437pt x 389.95688pt>
+>>>>>>> parent of 7982160... no.5
 File: figure/gantt4.png Graphic file (type png)
 <use figure/gantt4.png>
 Package pdftex.def Info: figure/gantt4.png  used on input line 158.
@@ -1992,13 +2495,18 @@ File: figure/../format/dlsu_thesis_paper_letterhead.pdf Graphic file (type pdf)
 
 <use figure/../format/dlsu_thesis_paper_letterhead.pdf>
 Package pdftex.def Info: figure/../format/dlsu_thesis_paper_letterhead.pdf  use
+<<<<<<< HEAD
 d on input line 195.
+=======
+d on input line 198.
+>>>>>>> parent of 7982160... no.5
 (pdftex.def)             Requested size: 614.31223pt x 794.99231pt.
  [10 <./figure/gantt1.png>]
 File: figure/../format/dlsu_thesis_paper_letterhead.pdf Graphic file (type pdf)
 
 <use figure/../format/dlsu_thesis_paper_letterhead.pdf>
 Package pdftex.def Info: figure/../format/dlsu_thesis_paper_letterhead.pdf  use
+<<<<<<< HEAD
 d on input line 195.
 (pdftex.def)             Requested size: 614.31223pt x 794.99231pt.
 
@@ -2011,11 +2519,28 @@ d on input line 195.
 (pdftex.def)             Requested size: 614.31223pt x 794.99231pt.
  [12 <./figure/gantt4.png>]
 (document.ptc)
+=======
+d on input line 198.
+(pdftex.def)             Requested size: 614.31223pt x 794.99231pt.
+ [11 <./figure/gantt2.png> <./figure/gantt3.png>]
 File: figure/../format/dlsu_thesis_paper_letterhead.pdf Graphic file (type pdf)
 
 <use figure/../format/dlsu_thesis_paper_letterhead.pdf>
 Package pdftex.def Info: figure/../format/dlsu_thesis_paper_letterhead.pdf  use
+d on input line 198.
+(pdftex.def)             Requested size: 614.31223pt x 794.99231pt.
+
+[12 <./figure/gantt4.png>] (document.ptc)
+>>>>>>> parent of 7982160... no.5
+File: figure/../format/dlsu_thesis_paper_letterhead.pdf Graphic file (type pdf)
+
+<use figure/../format/dlsu_thesis_paper_letterhead.pdf>
+Package pdftex.def Info: figure/../format/dlsu_thesis_paper_letterhead.pdf  use
+<<<<<<< HEAD
 d on input line 206.
+=======
+d on input line 209.
+>>>>>>> parent of 7982160... no.5
 (pdftex.def)             Requested size: 614.31223pt x 794.99231pt.
  [13
 
@@ -2025,13 +2550,31 @@ d on input line 206.
 \openout2 = `literature_review.aux'.
 
  (literature_review.tex
+<<<<<<< HEAD
+=======
+Underfull \hbox (badness 10000) in paragraph at lines 4--6
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 7--9
+
+ []
+
+>>>>>>> parent of 7982160... no.5
 File: figure/../format/dlsu_thesis_paper_letterhead.pdf Graphic file (type pdf)
 
 <use figure/../format/dlsu_thesis_paper_letterhead.pdf>
 Package pdftex.def Info: figure/../format/dlsu_thesis_paper_letterhead.pdf  use
+<<<<<<< HEAD
 d on input line 5.
 (pdftex.def)             Requested size: 614.31223pt x 794.99231pt.
  [14
+=======
+d on input line 9.
+(pdftex.def)             Requested size: 614.31223pt x 794.99231pt.
+[14
+>>>>>>> parent of 7982160... no.5
 
 ]
 File: figure/../format/dlsu_thesis_paper_letterhead.pdf Graphic file (type pdf)
@@ -2052,28 +2595,55 @@ File: figure/../format/dlsu_thesis_paper_letterhead.pdf Graphic file (type pdf)
 
 <use figure/../format/dlsu_thesis_paper_letterhead.pdf>
 Package pdftex.def Info: figure/../format/dlsu_thesis_paper_letterhead.pdf  use
+<<<<<<< HEAD
 d on input line 19.
 (pdftex.def)             Requested size: 614.31223pt x 794.99231pt.
  [16]
+=======
+d on input line 15.
+(pdftex.def)             Requested size: 614.31223pt x 794.99231pt.
+[15]
+Underfull \hbox (badness 10000) in paragraph at lines 16--18
+
+ []
+
+>>>>>>> parent of 7982160... no.5
 File: figure/../format/dlsu_thesis_paper_letterhead.pdf Graphic file (type pdf)
 
 <use figure/../format/dlsu_thesis_paper_letterhead.pdf>
 Package pdftex.def Info: figure/../format/dlsu_thesis_paper_letterhead.pdf  use
+<<<<<<< HEAD
 d on input line 19.
 (pdftex.def)             Requested size: 614.31223pt x 794.99231pt.
  [17])
+=======
+d on input line 18.
+(pdftex.def)             Requested size: 614.31223pt x 794.99231pt.
+[16]
+Underfull \hbox (badness 10000) in paragraph at lines 22--24
+
+ []
+
+>>>>>>> parent of 7982160... no.5
 File: figure/../format/dlsu_thesis_paper_letterhead.pdf Graphic file (type pdf)
 
 <use figure/../format/dlsu_thesis_paper_letterhead.pdf>
 Package pdftex.def Info: figure/../format/dlsu_thesis_paper_letterhead.pdf  use
+<<<<<<< HEAD
 d on input line 206.
 (pdftex.def)             Requested size: 614.31223pt x 794.99231pt.
  [18]
 (document.ptc)
+=======
+d on input line 24.
+(pdftex.def)             Requested size: 614.31223pt x 794.99231pt.
+[17]
+>>>>>>> parent of 7982160... no.5
 File: figure/../format/dlsu_thesis_paper_letterhead.pdf Graphic file (type pdf)
 
 <use figure/../format/dlsu_thesis_paper_letterhead.pdf>
 Package pdftex.def Info: figure/../format/dlsu_thesis_paper_letterhead.pdf  use
+<<<<<<< HEAD
 d on input line 218.
 (pdftex.def)             Requested size: 614.31223pt x 794.99231pt.
  [19
@@ -2083,6 +2653,12 @@ d on input line 218.
 
 =======
 
+=======
+d on input line 26.
+(pdftex.def)             Requested size: 614.31223pt x 794.99231pt.
+ [18]
+Underfull \hbox (badness 10000) in paragraph at lines 28--30
+>>>>>>> parent of 7982160... no.5
 
 
 >>>>>>> parent of f999796... Chapter 2 + Format
@@ -2094,6 +2670,7 @@ File: figure/../format/dlsu_thesis_paper_letterhead.pdf Graphic file (type pdf)
 
 <use figure/../format/dlsu_thesis_paper_letterhead.pdf>
 Package pdftex.def Info: figure/../format/dlsu_thesis_paper_letterhead.pdf  use
+<<<<<<< HEAD
 d on input line 5.
 (pdftex.def)             Requested size: 614.31223pt x 794.99231pt.
  [20
@@ -2118,14 +2695,37 @@ Package pdftex.def Info: figure/../format/dlsu_thesis_paper_letterhead.pdf  use
 d on input line 218.
 (pdftex.def)             Requested size: 614.31223pt x 794.99231pt.
  [22 <./figure/example_gray_box.pdf>] (document.ptc)
+=======
+d on input line 30.
+(pdftex.def)             Requested size: 614.31223pt x 794.99231pt.
+[19]
 File: figure/../format/dlsu_thesis_paper_letterhead.pdf Graphic file (type pdf)
 
 <use figure/../format/dlsu_thesis_paper_letterhead.pdf>
 Package pdftex.def Info: figure/../format/dlsu_thesis_paper_letterhead.pdf  use
+d on input line 32.
+(pdftex.def)             Requested size: 614.31223pt x 794.99231pt.
+ [20]
+Underfull \hbox (badness 10000) in paragraph at lines 34--36
+
+ []
+
+>>>>>>> parent of 7982160... no.5
+File: figure/../format/dlsu_thesis_paper_letterhead.pdf Graphic file (type pdf)
+
+<use figure/../format/dlsu_thesis_paper_letterhead.pdf>
+Package pdftex.def Info: figure/../format/dlsu_thesis_paper_letterhead.pdf  use
+<<<<<<< HEAD
 d on input line 229.
 (pdftex.def)             Requested size: 614.31223pt x 794.99231pt.
  [23
 <<<<<<< HEAD
+=======
+d on input line 38.
+(pdftex.def)             Requested size: 614.31223pt x 794.99231pt.
+[21]
+Underfull \hbox (badness 10000) in paragraph at lines 42--44
+>>>>>>> parent of 7982160... no.5
 
 
 
@@ -2142,6 +2742,7 @@ File: figure/../format/dlsu_thesis_paper_letterhead.pdf Graphic file (type pdf)
 
 <use figure/../format/dlsu_thesis_paper_letterhead.pdf>
 Package pdftex.def Info: figure/../format/dlsu_thesis_paper_letterhead.pdf  use
+<<<<<<< HEAD
 d on input line 7.
 (pdftex.def)             Requested size: 614.31223pt x 794.99231pt.
  [24
@@ -2170,10 +2771,24 @@ d on input line 240.
 (pdftex.def)             Requested size: 614.31223pt x 794.99231pt.
  [27
 <<<<<<< HEAD
+=======
+d on input line 47.
+(pdftex.def)             Requested size: 614.31223pt x 794.99231pt.
+[22]
+File: figure/../format/dlsu_thesis_paper_letterhead.pdf Graphic file (type pdf)
+
+<use figure/../format/dlsu_thesis_paper_letterhead.pdf>
+Package pdftex.def Info: figure/../format/dlsu_thesis_paper_letterhead.pdf  use
+d on input line 51.
+(pdftex.def)             Requested size: 614.31223pt x 794.99231pt.
+ [23]
+Underfull \hbox (badness 10000) in paragraph at lines 53--55
+>>>>>>> parent of 7982160... no.5
 
 =======
 >>>>>>> parent of f999796... Chapter 2 + Format
 
+<<<<<<< HEAD
 
 ]
 \openout2 = `methodology.aux'.
@@ -2234,8 +2849,61 @@ d on input line 252.
 (pdftex.def)             Requested size: 614.31223pt x 794.99231pt.
  [33
 
+=======
+)
+File: figure/../format/dlsu_thesis_paper_letterhead.pdf Graphic file (type pdf)
+
+<use figure/../format/dlsu_thesis_paper_letterhead.pdf>
+Package pdftex.def Info: figure/../format/dlsu_thesis_paper_letterhead.pdf  use
+d on input line 209.
+(pdftex.def)             Requested size: 614.31223pt x 794.99231pt.
+ [24] Excluding 'comment' comment. Excluding 'comment' comment.
+Excluding 'comment' comment. (document.bbl
+
+LaTeX Warning: Empty `thebibliography' environment on input line 3.
+
+)
+>>>>>>> parent of 7982160... no.5
+
+LaTeX Warning: Citation `krafka2016eye' undefined on input line 288.
 
 
+LaTeX Warning: Citation `mavely2017eye' undefined on input line 289.
+
+
+LaTeX Warning: Citation `mazhar2015real' undefined on input line 290.
+
+
+LaTeX Warning: Citation `nguyen2009eye' undefined on input line 291.
+
+
+LaTeX Warning: Citation `puasuaricua2015pupil' undefined on input line 292.
+
+
+LaTeX Warning: Citation `punde2017study' undefined on input line 293.
+
+
+LaTeX Warning: Citation `singh2011eye' undefined on input line 294.
+
+
+LaTeX Warning: Citation `venugopalreal' undefined on input line 295.
+
+
+LaTeX Warning: Citation `xiong2014eye' undefined on input line 296.
+
+
+LaTeX Warning: Citation `zhang2015personality' undefined on input line 297.
+
+
+LaTeX Warning: Citation `ahmad2015drowsy' undefined on input line 298.
+
+
+LaTeX Warning: Citation `kumar2014detection' undefined on input line 299.
+
+
+LaTeX Warning: Citation `ma2014eye' undefined on input line 300.
+
+<<<<<<< HEAD
 ]
 \openout2 = `results_and_discussion.aux'.
 
@@ -3464,4 +4132,90 @@ PDF statistics:
  2383 PDF objects out of 2487 (max. 8388607)
  1043 named destinations out of 1200 (max. 500000)
  63472 words of extra memory for PDF output out of 74296 (max. 10000000)
+=======
+Excluding 'comment' comment.
+File: figure/../format/dlsu_thesis_paper_letterhead.pdf Graphic file (type pdf)
+
+<use figure/../format/dlsu_thesis_paper_letterhead.pdf>
+Package pdftex.def Info: figure/../format/dlsu_thesis_paper_letterhead.pdf  use
+d on input line 322.
+(pdftex.def)             Requested size: 614.31223pt x 794.99231pt.
+ [25
+
+
+] Excluding 'comment' comment.
+\tf@ptc=\write12
+\openout12 = `document.ptc'.
+
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 365.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 365.
+ (document.aux
+(introduction.aux) (literature_review.aux))
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 365.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 365.
+Package rerunfilecheck Info: File `document.out' has not changed.
+(rerunfilecheck)             Checksum: DB6B5B19360477C18961B9FFA97E0BED;2331.
+
+
+LaTeX Warning: There were undefined references.
+
+ ) 
+Here is how much of TeX's memory you used:
+ 34164 strings out of 492973
+ 578921 string characters out of 3135935
+ 805075 words of memory out of 3000000
+ 37105 multiletter control sequences out of 15000+200000
+ 32133 words of font info for 154 fonts, out of 3000000 for 9000
+ 1149 hyphenation exceptions out of 8191
+ 62i,15n,82p,1669b,516s stack positions out of 5000i,500n,10000p,200000b,50000s
+pdfTeX warning (dest): name{cite.ma2014eye} has been referenced but does not 
+exist, replaced by a fixed one
+
+pdfTeX warning (dest): name{cite.kumar2014detection} has been referenced but do
+es not exist, replaced by a fixed one
+
+pdfTeX warning (dest): name{cite.ahmad2015drowsy} has been referenced but does 
+not exist, replaced by a fixed one
+
+pdfTeX warning (dest): name{cite.zhang2015personality} has been referenced but 
+does not exist, replaced by a fixed one
+
+pdfTeX warning (dest): name{cite.xiong2014eye} has been referenced but does not
+ exist, replaced by a fixed one
+
+pdfTeX warning (dest): name{cite.venugopalreal} has been referenced but does no
+t exist, replaced by a fixed one
+
+pdfTeX warning (dest): name{cite.singh2011eye} has been referenced but does not
+ exist, replaced by a fixed one
+
+pdfTeX warning (dest): name{cite.punde2017study} has been referenced but does n
+ot exist, replaced by a fixed one
+
+pdfTeX warning (dest): name{cite.puasuaricua2015pupil} has been referenced but 
+does not exist, replaced by a fixed one
+
+pdfTeX warning (dest): name{cite.nguyen2009eye} has been referenced but does no
+t exist, replaced by a fixed one
+
+pdfTeX warning (dest): name{cite.mazhar2015real} has been referenced but does n
+ot exist, replaced by a fixed one
+
+pdfTeX warning (dest): name{cite.mavely2017eye} has been referenced but does no
+t exist, replaced by a fixed one
+
+pdfTeX warning (dest): name{cite.krafka2016eye} has been referenced but does no
+t exist, replaced by a fixed one
+
+{C:/Program Files/MiKTeX 2.9/fonts/enc/dvips/base/8r.enc}<C:/Program Files/MiKT
+eX 2.9/fonts/type1/public/amsfonts/symbols/msam10.pfb><C:/Program Files/MiKTeX 
+2.9/fonts/type1/urw/helvetic/uhvb8a.pfb><C:/Program Files/MiKTeX 2.9/fonts/type
+1/urw/times/utmb8a.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/urw/times/utmr8
+a.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/urw/times/utmri8a.pfb>
+Output written on document.pdf (32 pages, 363059 bytes).
+PDF statistics:
+ 457 PDF objects out of 1000 (max. 8388607)
+ 103 named destinations out of 1000 (max. 500000)
+ 23864 words of extra memory for PDF output out of 24883 (max. 10000000)
+>>>>>>> parent of 7982160... no.5
 
