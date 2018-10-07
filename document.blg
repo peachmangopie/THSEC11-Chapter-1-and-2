@@ -2,7 +2,8 @@ This is BibTeX, Version 0.99dThe top-level auxiliary file: document.aux
 A level-1 auxiliary file: introduction.aux
 A level-1 auxiliary file: literature_review.aux
 The style file: apacite.bst
-I found no \citation commands---while reading file document.aux
 Database file #1: references.bib
 apacite.bst [2013/07/21 v6.03 APA bibliography style]
-(There was 1 error message)
+Warning--No journal in tamayo2009occurrence
+Warning--No journal in venugopalreal
+(There were 2 warnings)
