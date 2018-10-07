@@ -1,6 +1,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 This is pdfTeX, Version 3.14159265-2.6-1.40.18 (MiKTeX 2.9.6350 64-bit) (preloaded format=pdflatex 2017.8.3)  4 OCT 2018 17:45
 =======
 This is pdfTeX, Version 3.14159265-2.6-1.40.19 (MiKTeX 2.9.6730 64-bit) (preloaded format=pdflatex 2018.7.26)  25 SEP 2018 00:51
@@ -8,6 +9,9 @@ This is pdfTeX, Version 3.14159265-2.6-1.40.19 (MiKTeX 2.9.6730 64-bit) (preload
 =======
 This is pdfTeX, Version 3.14159265-2.6-1.40.18 (MiKTeX 2.9.6350 64-bit) (preloaded format=pdflatex 2017.8.3)  25 SEP 2018 13:39
 >>>>>>> parent of 36e9a97... edit no.5 specific
+=======
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (MiKTeX 2.9.6730 64-bit) (preloaded format=pdflatex 2018.7.26)  25 SEP 2018 00:02
+>>>>>>> parent of f999796... Chapter 2 + Format
 =======
 This is pdfTeX, Version 3.14159265-2.6-1.40.19 (MiKTeX 2.9.6730 64-bit) (preloaded format=pdflatex 2018.7.26)  25 SEP 2018 00:02
 >>>>>>> parent of f999796... Chapter 2 + Format
@@ -1896,6 +1900,7 @@ Package pdftex.def Info: figure/../format/dlsu_thesis_paper_letterhead.pdf  use
 d on input line 53.
 (pdftex.def)             Requested size: 614.31223pt x 794.99231pt.
 <<<<<<< HEAD
+<<<<<<< HEAD
  [5]
 <<<<<<< HEAD
 Missing character: There is no â in font ptmr7t!
@@ -1912,6 +1917,10 @@ Missing character: There is no € in font ptmr7t!
 Missing character: There is no ™ in font ptmr7t!
 =======
 >>>>>>> parent of 7982160... no.5
+=======
+
+[5]
+>>>>>>> parent of f999796... Chapter 2 + Format
 =======
 
 [5]
@@ -2068,9 +2077,15 @@ Package pdftex.def Info: figure/../format/dlsu_thesis_paper_letterhead.pdf  use
 d on input line 218.
 (pdftex.def)             Requested size: 614.31223pt x 794.99231pt.
  [19
+<<<<<<< HEAD
 
 
 
+=======
+
+
+
+>>>>>>> parent of f999796... Chapter 2 + Format
 ]
 \openout2 = `theoretical_considerations.aux'.
 
@@ -2110,9 +2125,15 @@ Package pdftex.def Info: figure/../format/dlsu_thesis_paper_letterhead.pdf  use
 d on input line 229.
 (pdftex.def)             Requested size: 614.31223pt x 794.99231pt.
  [23
+<<<<<<< HEAD
 
 
 
+=======
+
+
+
+>>>>>>> parent of f999796... Chapter 2 + Format
 ]
 \openout2 = `design_considerations.aux'.
 
@@ -2148,15 +2169,27 @@ Package pdftex.def Info: figure/../format/dlsu_thesis_paper_letterhead.pdf  use
 d on input line 240.
 (pdftex.def)             Requested size: 614.31223pt x 794.99231pt.
  [27
+<<<<<<< HEAD
+
+=======
+>>>>>>> parent of f999796... Chapter 2 + Format
 
 
+]
+\openout2 = `methodology.aux'.
 
+<<<<<<< HEAD
+ (methodology.tex
+File: figure/../format/dlsu_thesis_paper_letterhead.pdf Graphic file (type pdf)
+
+=======
 ]
 \openout2 = `methodology.aux'.
 
  (methodology.tex
 File: figure/../format/dlsu_thesis_paper_letterhead.pdf Graphic file (type pdf)
 
+>>>>>>> parent of f999796... Chapter 2 + Format
 <use figure/../format/dlsu_thesis_paper_letterhead.pdf>
 Package pdftex.def Info: figure/../format/dlsu_thesis_paper_letterhead.pdf  use
 d on input line 14.
@@ -2350,6 +2383,7 @@ eve
 File: figure/../format/dlsu_thesis_paper_letterhead.pdf Graphic file (type pdf)
 
 <<<<<<< HEAD
+<<<<<<< HEAD
  ) 
 Here is how much of TeX's memory you used:
 <<<<<<< HEAD
@@ -2378,6 +2412,8 @@ Output written on document.pdf (34 pages, 374709 bytes).
 pdfTeX warning (dest): name{cite.ma2014eye} has been referenced but does not 
 exist, replaced by a fixed one
 =======
+=======
+>>>>>>> parent of f999796... Chapter 2 + Format
 <use figure/../format/dlsu_thesis_paper_letterhead.pdf>
 Package pdftex.def Info: figure/../format/dlsu_thesis_paper_letterhead.pdf  use
 d on input line 23.
@@ -2647,6 +2683,7 @@ d on input line 517.
 
 ]
 File: figure/../format/dlsu_thesis_paper_letterhead.pdf Graphic file (type pdf)
+<<<<<<< HEAD
 >>>>>>> parent of f999796... Chapter 2 + Format
 
 <use figure/../format/dlsu_thesis_paper_letterhead.pdf>
@@ -2875,6 +2912,265 @@ d on input line 1223.
  [88
 
 ]
+=======
+
+<use figure/../format/dlsu_thesis_paper_letterhead.pdf>
+Package pdftex.def Info: figure/../format/dlsu_thesis_paper_letterhead.pdf  use
+d on input line 518.
+(pdftex.def)             Requested size: 614.31223pt x 794.99231pt.
+ [68]
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+File: figure/../format/dlsu_thesis_paper_letterhead.pdf Graphic file (type pdf)
+
+<use figure/../format/dlsu_thesis_paper_letterhead.pdf>
+Package pdftex.def Info: figure/../format/dlsu_thesis_paper_letterhead.pdf  use
+d on input line 574.
+(pdftex.def)             Requested size: 614.31223pt x 794.99231pt.
+[69
+
+]
+File: figure/../format/dlsu_thesis_paper_letterhead.pdf Graphic file (type pdf)
+
+<use figure/../format/dlsu_thesis_paper_letterhead.pdf>
+Package pdftex.def Info: figure/../format/dlsu_thesis_paper_letterhead.pdf  use
+d on input line 574.
+(pdftex.def)             Requested size: 614.31223pt x 794.99231pt.
+ [70]
+File: figure/example_gray_box.pdf Graphic file (type pdf)
+<use figure/example_gray_box.pdf>
+Package pdftex.def Info: figure/example_gray_box.pdf  used on input line 594.
+(pdftex.def)             Requested size: 214.67604pt x 214.6806pt.
+>>>>>>> parent of f999796... Chapter 2 + Format
+File: figure/../format/dlsu_thesis_paper_letterhead.pdf Graphic file (type pdf)
+
+<use figure/../format/dlsu_thesis_paper_letterhead.pdf>
+Package pdftex.def Info: figure/../format/dlsu_thesis_paper_letterhead.pdf  use
+<<<<<<< HEAD
+d on input line 1295.
+(pdftex.def)             Requested size: 614.31223pt x 794.99231pt.
+ [89]
+File: figure/../format/dlsu_thesis_paper_letterhead.pdf Graphic file (type pdf)
+
+<use figure/../format/dlsu_thesis_paper_letterhead.pdf>
+Package pdftex.def Info: figure/../format/dlsu_thesis_paper_letterhead.pdf  use
+d on input line 1355.
+(pdftex.def)             Requested size: 614.31223pt x 794.99231pt.
+ [90]
+
+LaTeX Warning: Citation `geer' on page 91 undefined on input line 1370.
+
+=======
+d on input line 598.
+(pdftex.def)             Requested size: 614.31223pt x 794.99231pt.
+ [71
+
+]
+File: figure/../format/dlsu_thesis_paper_letterhead.pdf Graphic file (type pdf)
+
+<use figure/../format/dlsu_thesis_paper_letterhead.pdf>
+Package pdftex.def Info: figure/../format/dlsu_thesis_paper_letterhead.pdf  use
+d on input line 620.
+(pdftex.def)             Requested size: 614.31223pt x 794.99231pt.
+ [72
+
+]
+File: figure/example_gray_box.pdf Graphic file (type pdf)
+<use figure/example_gray_box.pdf>
+Package pdftex.def Info: figure/example_gray_box.pdf  used on input line 631.
+(pdftex.def)             Requested size: 150.27585pt x 150.27951pt.
+File: figure/example_gray_box.pdf Graphic file (type pdf)
+<use figure/example_gray_box.pdf>
+Package pdftex.def Info: figure/example_gray_box.pdf  used on input line 636.
+(pdftex.def)             Requested size: 150.27585pt x 150.27951pt.
+File: figure/example_gray_box.pdf Graphic file (type pdf)
+<use figure/example_gray_box.pdf>
+Package pdftex.def Info: figure/example_gray_box.pdf  used on input line 641.
+(pdftex.def)             Requested size: 150.27585pt x 150.27951pt.
+>>>>>>> parent of f999796... Chapter 2 + Format
+File: figure/../format/dlsu_thesis_paper_letterhead.pdf Graphic file (type pdf)
+
+<use figure/../format/dlsu_thesis_paper_letterhead.pdf>
+Package pdftex.def Info: figure/../format/dlsu_thesis_paper_letterhead.pdf  use
+<<<<<<< HEAD
+d on input line 1389.
+(pdftex.def)             Requested size: 614.31223pt x 794.99231pt.
+[91]
+File: figure/../format/dlsu_thesis_paper_letterhead.pdf Graphic file (type pdf)
+
+<use figure/../format/dlsu_thesis_paper_letterhead.pdf>
+Package pdftex.def Info: figure/../format/dlsu_thesis_paper_letterhead.pdf  use
+d on input line 1416.
+(pdftex.def)             Requested size: 614.31223pt x 794.99231pt.
+ [92
+
+]
+=======
+d on input line 645.
+(pdftex.def)             Requested size: 614.31223pt x 794.99231pt.
+ [73]
+File: figure/../format/dlsu_thesis_paper_letterhead.pdf Graphic file (type pdf)
+
+<use figure/../format/dlsu_thesis_paper_letterhead.pdf>
+Package pdftex.def Info: figure/../format/dlsu_thesis_paper_letterhead.pdf  use
+d on input line 676.
+(pdftex.def)             Requested size: 614.31223pt x 794.99231pt.
+ [74
+
+
+]
+File: figure/example_gray_box.pdf Graphic file (type pdf)
+<use figure/example_gray_box.pdf>
+Package pdftex.def Info: figure/example_gray_box.pdf  used on input line 689.
+(pdftex.def)             Requested size: 193.20712pt x 193.21254pt.
+File: figure/example_gray_box.pdf Graphic file (type pdf)
+<use figure/example_gray_box.pdf>
+Package pdftex.def Info: figure/example_gray_box.pdf  used on input line 694.
+(pdftex.def)             Requested size: 193.20712pt x 193.21254pt.
+File: figure/example_gray_box.pdf Graphic file (type pdf)
+<use figure/example_gray_box.pdf>
+Package pdftex.def Info: figure/example_gray_box.pdf  used on input line 699.
+(pdftex.def)             Requested size: 193.20712pt x 193.21254pt.
+File: figure/example_gray_box.pdf Graphic file (type pdf)
+<use figure/example_gray_box.pdf>
+Package pdftex.def Info: figure/example_gray_box.pdf  used on input line 704.
+(pdftex.def)             Requested size: 193.20712pt x 193.21254pt.
+File: figure/../format/dlsu_thesis_paper_letterhead.pdf Graphic file (type pdf)
+
+<use figure/../format/dlsu_thesis_paper_letterhead.pdf>
+Package pdftex.def Info: figure/../format/dlsu_thesis_paper_letterhead.pdf  use
+d on input line 708.
+(pdftex.def)             Requested size: 614.31223pt x 794.99231pt.
+ [75
+
+]
+File: figure/../format/dlsu_thesis_paper_letterhead.pdf Graphic file (type pdf)
+
+<use figure/../format/dlsu_thesis_paper_letterhead.pdf>
+Package pdftex.def Info: figure/../format/dlsu_thesis_paper_letterhead.pdf  use
+d on input line 744.
+(pdftex.def)             Requested size: 614.31223pt x 794.99231pt.
+ [76
+
+]
+Underfull \vbox (badness 10000) detected at line 843
+ []
+
+File: figure/../format/dlsu_thesis_paper_letterhead.pdf Graphic file (type pdf)
+
+<use figure/../format/dlsu_thesis_paper_letterhead.pdf>
+Package pdftex.def Info: figure/../format/dlsu_thesis_paper_letterhead.pdf  use
+d on input line 843.
+(pdftex.def)             Requested size: 614.31223pt x 794.99231pt.
+[77
+
+]
+File: figure/../format/dlsu_thesis_paper_letterhead.pdf Graphic file (type pdf)
+
+<use figure/../format/dlsu_thesis_paper_letterhead.pdf>
+Package pdftex.def Info: figure/../format/dlsu_thesis_paper_letterhead.pdf  use
+d on input line 846.
+(pdftex.def)             Requested size: 614.31223pt x 794.99231pt.
+ [78]
+File: figure/../format/dlsu_thesis_paper_letterhead.pdf Graphic file (type pdf)
+
+<use figure/../format/dlsu_thesis_paper_letterhead.pdf>
+Package pdftex.def Info: figure/../format/dlsu_thesis_paper_letterhead.pdf  use
+d on input line 907.
+(pdftex.def)             Requested size: 614.31223pt x 794.99231pt.
+ [79
+
+]
+File: figure/../format/dlsu_thesis_paper_letterhead.pdf Graphic file (type pdf)
+
+<use figure/../format/dlsu_thesis_paper_letterhead.pdf>
+Package pdftex.def Info: figure/../format/dlsu_thesis_paper_letterhead.pdf  use
+d on input line 956.
+(pdftex.def)             Requested size: 614.31223pt x 794.99231pt.
+ [80]
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <10> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 977.
+LaTeX Font Info:    Font shape `OMS/ptm/m/n' in size <10> not available
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 1004.
+
+File: figure/../format/dlsu_thesis_paper_letterhead.pdf Graphic file (type pdf)
+
+<use figure/../format/dlsu_thesis_paper_letterhead.pdf>
+Package pdftex.def Info: figure/../format/dlsu_thesis_paper_letterhead.pdf  use
+d on input line 1012.
+(pdftex.def)             Requested size: 614.31223pt x 794.99231pt.
+ [81
+
+]
+File: figure/../format/dlsu_thesis_paper_letterhead.pdf Graphic file (type pdf)
+
+<use figure/../format/dlsu_thesis_paper_letterhead.pdf>
+Package pdftex.def Info: figure/../format/dlsu_thesis_paper_letterhead.pdf  use
+d on input line 1066.
+(pdftex.def)             Requested size: 614.31223pt x 794.99231pt.
+ [82
+
+]
+("C:\Program Files\MiKTeX 2.9\tex\latex\listings\lstlang1.sty"
+File: lstlang1.sty 2015/06/04 1.6 listings language file
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\listings\lstmisc.sty"
+File: lstmisc.sty 2015/06/04 1.6 (Carsten Heinz)
+) (code/fibo.c)
+File: figure/../format/dlsu_thesis_paper_letterhead.pdf Graphic file (type pdf)
+
+<use figure/../format/dlsu_thesis_paper_letterhead.pdf>
+Package pdftex.def Info: figure/../format/dlsu_thesis_paper_letterhead.pdf  use
+d on input line 1092.
+(pdftex.def)             Requested size: 614.31223pt x 794.99231pt.
+
+[83
+
+]
+File: figure/../format/dlsu_thesis_paper_letterhead.pdf Graphic file (type pdf)
+
+<use figure/../format/dlsu_thesis_paper_letterhead.pdf>
+Package pdftex.def Info: figure/../format/dlsu_thesis_paper_letterhead.pdf  use
+d on input line 1093.
+(pdftex.def)             Requested size: 614.31223pt x 794.99231pt.
+ [84]
+File: figure/../format/dlsu_thesis_paper_letterhead.pdf Graphic file (type pdf)
+
+<use figure/../format/dlsu_thesis_paper_letterhead.pdf>
+Package pdftex.def Info: figure/../format/dlsu_thesis_paper_letterhead.pdf  use
+d on input line 1120.
+(pdftex.def)             Requested size: 614.31223pt x 794.99231pt.
+ [85
+
+]
+File: figure/../format/dlsu_thesis_paper_letterhead.pdf Graphic file (type pdf)
+
+<use figure/../format/dlsu_thesis_paper_letterhead.pdf>
+Package pdftex.def Info: figure/../format/dlsu_thesis_paper_letterhead.pdf  use
+d on input line 1141.
+(pdftex.def)             Requested size: 614.31223pt x 794.99231pt.
+ [86
+
+]
+File: figure/../format/dlsu_thesis_paper_letterhead.pdf Graphic file (type pdf)
+
+<use figure/../format/dlsu_thesis_paper_letterhead.pdf>
+Package pdftex.def Info: figure/../format/dlsu_thesis_paper_letterhead.pdf  use
+d on input line 1163.
+(pdftex.def)             Requested size: 614.31223pt x 794.99231pt.
+ [87
+
+]
+File: figure/../format/dlsu_thesis_paper_letterhead.pdf Graphic file (type pdf)
+
+<use figure/../format/dlsu_thesis_paper_letterhead.pdf>
+Package pdftex.def Info: figure/../format/dlsu_thesis_paper_letterhead.pdf  use
+d on input line 1223.
+(pdftex.def)             Requested size: 614.31223pt x 794.99231pt.
+ [88
+
+]
 File: figure/../format/dlsu_thesis_paper_letterhead.pdf Graphic file (type pdf)
 
 <use figure/../format/dlsu_thesis_paper_letterhead.pdf>
@@ -2908,6 +3204,7 @@ d on input line 1416.
  [92
 
 ]
+>>>>>>> parent of f999796... Chapter 2 + Format
 File: figure/../format/dlsu_thesis_paper_letterhead.pdf Graphic file (type pdf)
 
 <use figure/../format/dlsu_thesis_paper_letterhead.pdf>
@@ -3144,6 +3441,7 @@ iKTeX 2.9/fonts/type1/public/amsfonts/symbols/msam10.pfb><C:/Program Files/MiKT
 eX 2.9/fonts/type1/public/amsfonts/symbols/msbm10.pfb><C:/Program Files/MiKTeX 
 2.9/fonts/type1/urw/helvetic/uhvb8a.pfb><C:/Program Files/MiKTeX 2.9/fonts/type
 <<<<<<< HEAD
+<<<<<<< HEAD
 1/urw/times/utmb8a.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/urw/times/utmr8
 a.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/urw/times/utmri8a.pfb>
 Output written on document.pdf (32 pages, 363059 bytes).
@@ -3152,10 +3450,15 @@ Output written on document.pdf (32 pages, 363059 bytes).
 Output written on document.pdf (34 pages, 375569 bytes).
 >>>>>>> parent of 36e9a97... edit no.5 specific
 =======
+=======
+>>>>>>> parent of f999796... Chapter 2 + Format
 1/urw/helvetic/uhvr8a.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/urw/times/ut
 mb8a.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/urw/times/utmr8a.pfb><C:/Prog
 ram Files/MiKTeX 2.9/fonts/type1/urw/times/utmri8a.pfb>
 Output written on document.pdf (113 pages, 1173975 bytes).
+<<<<<<< HEAD
+>>>>>>> parent of f999796... Chapter 2 + Format
+=======
 >>>>>>> parent of f999796... Chapter 2 + Format
 PDF statistics:
  2383 PDF objects out of 2487 (max. 8388607)
