@@ -3,13 +3,13 @@
 
 Understanding human behavior has been one of the most prevalent topic in implementing different applications. One of these human behaviors include Eye Gaze Estimation, where eye tracking technology is used to be able to determine the direction of the gaze of the eyes. Studying this human behavior can have extended applications such as research on psychology, study on the behavior of people with disabilities, analyzing behaviors of drivers, security monitoring, and human-computer interfaces.
 
-There are researches already being conducted in order to minimize the number of devices and models used to implement eye gaze estimation. However, current methods are still requiring to have additional devices to be used. Eye gaze estimation could be done using an RGB-D camera wherein informations such as the depth or distance and the texture could be obtained, where these information are integrated and obtained just by using a kinect.
+There are researches already being conducted in order to minimize the number of devices and models used to implement eye gaze estimation. However, current methods are still requiring to have additional devices to be used. Eye gaze estimation could be done using an RGB-D camera wherein informations such as the depth or distance and the texture could be obtained, where these information are integrated and obtained just by using a kinect 
 
 RGB-D camera capture and shows colored images as well as its depth which helps in 3-D representations and modelling. These cameras augment the usual images with its depth information. The augmentation happens in per-pixel basis. The RGB-D camera to be used in this study will be the Microsoft Kinect. This camera is useful because it is included in the line of motion sensing devices made by a reputable technological company. It makes use of natural user interface to capture images.
 
-One way of determining whether an automobile driver is feeling drowsy or distracted is by observing the eye behaviour. According to Verwey, W.B., and Zaidel, D. M., one of the significant eye metrics that determines whether a driver is feeling drowsy is the frequency of eye closure exceeding one second whereas shorter ones are considered as blinks. The researchers intend to do the same thing with regards to evaluating driver drowsiness by observing the eyes, if either one or both of the eyes are closed. Eye gaze estimation is used for evaluating whether the driver is distracted or not.
+One way of determining whether an automobile driver is feeling drowsy or distracted is by observing the eye behaviour. One of the significant eye metrics that determines whether a driver is feeling drowsy is the frequency of eye closure exceeding one second whereas shorter ones are considered as blinks (Verwey \& Smith, 2000). The researchers intend to do the same thing with regards to evaluating driver drowsiness by observing the eyes, if either one or both of the eyes are closed. Eye gaze estimation is used for evaluating whether the driver is distracted or not.
 
-The paper presents the use of Kinect as the RGB-D camera to track eye gazing by using the algorithm from the thesis Eye-Model-Based Gaze Estimation by RGB-D Camera by Jianfeng, L. and Shigang, L. The Kinect sensor is able to acquire the pose and 3D position of the head whereas the problem to be solved is detecting the pupil center of by obtaining it from the 3D eye model. The basis research showed promising results with little error in the algorithm of pupil centering. In addition, the researchers will be implementing the application of driver drowsiness detection that will alert the driver whenever they are positive of drowsiness.
+The paper presents the use of Kinect as the RGB-D camera to track eye gazing by using the algorithm from the thesis Eye-Model-Based Gaze Estimation by RGB-D Camera (Jianfeng \& Shigang, 2014). The Kinect sensor is able to acquire the pose and 3D position of the head whereas the problem to be solved is detecting the pupil center of by obtaining it from the 3D eye model. The basis research showed promising results with little error in the algorithm of pupil centering. In addition, the researchers will be implementing the application of driver drowsiness detection that will alert the driver whenever they are positive of drowsiness.
 
 \section{Prior Studies}
 
@@ -31,7 +31,6 @@ Also the size of the kinect might be a hindrance to the view of the driver and m
 
 \section{Objectives}
 
-The main objective of the proposed thesis is to implement eye tracking technology for detecting driver’s awareness. The general and specific objectives are as follows:
 
 \subsection{General Objective(s)}
 To use a RGB-D camera for capturing the image in need of image processing for detecting eyes and driver’s awareness.
@@ -53,9 +52,9 @@ To create a standalone microcontroller based eye tracking device for detecting d
 	
 	\item To make use of microsoft kinect as the RGB-D camera
 	
-	\item smoke weed everyday
+	\item To achieve at least 80\% of accuracy with regards to detection of driver’s awareness
 	
-	\item To create an alarm system when the device detected that the driver is unaware of his surroundings or is feeling drowsy
+
 	
 \end{enumerate}
 
@@ -132,7 +131,14 @@ Figure shown below shows the flowchart of how the eye behavior of the driver wil
 
 \end{center}
 
-
+\begin{center}
+	\begin{figure}[ht]
+		\centering
+		\includegraphics[scale=0.45]{BlockDiagram}
+		\caption{Proposed Block Diagram of Driver Monitoring System}
+	\end{figure}
+\end{center}
+\newpage
 \section{Overview}
 
 \subsection{Gantt Chart}
@@ -140,17 +146,17 @@ The following figures shown below is the individual gantt chart of the researche
 
 \begin{figure}[!htb]
 	\centering
-	\includegraphics[scale=0.22]{gantt1}
+	\includegraphics[scale=0.25]{gantt1}
 	\caption{Gantt Chart of Guevarra}
 \end{figure}
 \begin{figure}[!htb]
 	\centering
-	\includegraphics[scale=0.495]{gantt2}
+	\includegraphics[scale=0.6]{gantt2}
 	\caption{Gantt Chart of Hernandez}
 \end{figure}
 \begin{figure}[!htb]
 	\centering
-	\includegraphics[scale=0.6]{gantt3}
+	\includegraphics[scale=0.45]{gantt3}
 	\caption{Gantt Chart of Lagman}
 \end{figure}
 \begin{figure}[!htb]
@@ -158,7 +164,8 @@ The following figures shown below is the individual gantt chart of the researche
 	\includegraphics[scale=0.6]{gantt4}
 	\caption{Gantt Chart of Villanueva}
 \end{figure}
-
+\newpage
+\newpage
 \subsection{Estimated Work Schedule and Budget}
 \begin{table}[!htb]
 	\caption{Price List of Materials to be Used}
