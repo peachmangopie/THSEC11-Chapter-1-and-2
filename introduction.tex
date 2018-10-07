@@ -1,15 +1,15 @@
 \section{Background of the Study}
 
 
-Understanding human behavior has been one of the most prevalent topic in implementing different applications. One of these human behaviors include Eye Gaze Estimation, where eye tracking technology is used to be able to determine the direction of the gaze of the eyes. Studying this human behavior can have extended applications such as research on psychology, study on the behavior of people with disabilities, analyzing behaviors of drivers, security monitoring, and human-computer interfaces.
+Understanding human eye behavior has been one of the most prevalent topics in implementing different applications. One of these include Eye Gaze Estimation, where eye tracking technology is used to be able to determine the direction of the gaze of the eyes. Studying eye behavior can have extended applications such as research on psychology, study on the behavior of people with disabilities, analyzing behaviors of drivers, security monitoring, and human-computer interfaces.
 
-There are researches already being conducted in order to minimize the number of devices and models used to implement eye gaze estimation. However, current methods are still requiring to have additional devices to be used. Eye gaze estimation could be done using an RGB-D camera wherein informations such as the depth or distance and the texture could be obtained, where these information are integrated and obtained just by using a kinect 
+There are researches already being conducted in order to minimize the number of devices and models used to implement eye gaze estimation. However, current methods still require additional devices to be used. Eye gaze estimation could be done using an RGB-D camera wherein informations such as the depth or distance and texture could be obtained, where these information are integrated and obtained just by using a kinect.
 
-RGB-D camera capture and shows colored images as well as its depth which helps in 3-D representations and modelling. These cameras augment the usual images with its depth information. The augmentation happens in per-pixel basis. The RGB-D camera to be used in this study will be the Microsoft Kinect. This camera is useful because it is included in the line of motion sensing devices made by a reputable technological company. It makes use of natural user interface to capture images.
+RGB-D camera capture shows colored images as well as its depth which helps in 3-D representations and modelling. These cameras augment the usual images with its depth information. The augmentation happens in per-pixel basis. The RGB-D camera to be used in this study will be the Microsoft Kinect. This camera is useful because it is included in the line of motion sensing devices made by a reputable technological company. It makes use of natural user interface to capture images.
 
 One way of determining whether an automobile driver is feeling drowsy or distracted is by observing the eye behaviour. One of the significant eye metrics that determines whether a driver is feeling drowsy is the frequency of eye closure exceeding one second whereas shorter ones are considered as blinks (Verwey \& Smith, 2000). The researchers intend to do the same thing with regards to evaluating driver drowsiness by observing the eyes, if either one or both of the eyes are closed. Eye gaze estimation is used for evaluating whether the driver is distracted or not.
 
-The paper presents the use of Kinect as the RGB-D camera to track eye gazing by using the algorithm from the thesis Eye-Model-Based Gaze Estimation by RGB-D Camera (Jianfeng \& Shigang, 2014). The Kinect sensor is able to acquire the pose and 3D position of the head whereas the problem to be solved is detecting the pupil center of by obtaining it from the 3D eye model. The basis research showed promising results with little error in the algorithm of pupil centering. In addition, the researchers will be implementing the application of driver drowsiness detection that will alert the driver whenever they are positive of drowsiness.
+One past study presents the use of Kinect as the RGB-D camera to track eye gazing by using the algorithm from the thesis Eye-Model-Based Gaze Estimation by RGB-D Camera (Jianfeng \& Shigang, 2014). The Kinect sensor is able to acquire the pose and 3D position of the head whereas the problem to be solved is detecting the pupil center of by obtaining it from the 3D eye model. The basis research showed promising results with little error in the algorithm of pupil centering. In addition, the researchers will be implementing the application of driver drowsiness detection that will alert the driver whenever they are positive of drowsiness.
 
 \section{Prior Studies}
 
@@ -22,11 +22,11 @@ The data used in these researches came from a large database known as GazeCaptur
 
 \section{Problem Statement}
 
-The ideal scenario in using an eye tracking device for driver awareness is to use a laptop for processing the image because it is faster and the device would be able to alert the driver in time before an accident assuming the driver became aware of the alert and was able to prevent the accident from happening.
 
+Road accidents has become one of the most prevalent cause of death in the Philippines wherein 26\% of it was caused by driver’s errors (Tamayo, A., 2009). Driver error includes driver’s awareness, the proposed thesis aims to create a device that would alert the driver in time to help in prevention of such accidents.
 The use of laptops for implementation of the eye tracking device in automobiles might be impractical due to its size. The researchers propose the use of microcontrollers to solve this problem. Although the use of microcontrollers would limit the robustness of the device. Microcontrollers have lower memories than a laptop therefore there would be less codes that can be embedded and the execution of codes are slower. The researchers would look for the optimal setup both in hardware and the software so that it would still be usable and could be improved for further researches.
-
 Also the size of the kinect might be a hindrance to the view of the driver and might violate the RA 10913, which is the Anti-Distracted Driving Act. The solution to this is to place the kinect in a place where it can be mounted in accordance to the Anti-Distracted Driving Act.
+
 
 
 \section{Objectives}
@@ -118,7 +118,23 @@ Visual data will be gathered using RGB-D camera. The data gathered will be used 
 
 The head pose is estimated using the kinect sensor and a head coordinate system is generated. Using the pupil center estimation algorithm, the 2D position of the pupil center will be taken and then translated later to 3D provided by the RGB-D camera, kinect sensor. Calibration will then take place by detecting the eyeball center. After the pupil center and eyeball center locations have been known, the gaze direction can be estimated.
 
-Using MATLAB and SIMULINK, an algorithm will be made for the evaluation whether the driver is drowsy or distracted and alarm system will sound to alert the driver. It will also be used to interface the materials such as the Microsoft Kinect, microcontroller, and the RGB-D Camera with the laptop and create a standalone microcontroller based device. 
+\begin{table}[!ht]
+	\caption{Evaluation of level of Drowsiness}
+	\begin{center}
+	\begin{tabular}{|c|c|}
+		\hline
+		\textbf{Level of Drowsiness} & \textbf{Description}                                                                                             \\ \hline
+		Awake                        & \begin{tabular}[c]{@{}c@{}}Normal blink interval (3-4s)\\ Normal blink duration (100-400ms)\end{tabular}         \\ \hline
+		Low Alertness                & \begin{tabular}[c]{@{}c@{}}Shorter blink interval (less than 3s)\\ Normal blink duration(100-400ms)\end{tabular} \\ \hline
+		Drowsy                       & Long blink duration (400ms-1s)                                                                                   \\ \hline
+		Sleepy                       & \begin{tabular}[c]{@{}c@{}}Very long blink duration\\  and/or single sleep events\\ (more than 1s)\end{tabular}  \\ \hline
+		
+	\end{tabular}
+	\end{center}
+	\end{table}
+
+Using MATLAB and SIMULINK, an algorithm will be made for the evaluation whether the driver is drowsy or distracted. The driver drowsiness is evaluated into four levels such as Awake, Low Alertness, Drowsy, and Sleepy. Distractedness is detected if the pupil of the eyes is not found at the center of the eye. Thus, indicating that the driver is not looking at the road. Each level of drowsiness will have an indicator and if the driver is evaluated as sleepy or distracted an alarm will sound off to warn the driver. 
+
 
 Figure shown below shows the flowchart of how the eye behavior of the driver will be evalauted before the driver is warned from either being drowsy or distracted while driving
 \begin{center}
