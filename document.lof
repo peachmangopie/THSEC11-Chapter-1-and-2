@@ -1,8 +1,28 @@
 \addvspace {10pt}
-\contentsline {figure}{\numberline {1.1}{\ignorespaces Eye Evaluation Flowchart\relax }}{9}{figure.caption.7}
-\contentsline {figure}{\numberline {1.2}{\ignorespaces Gantt Chart of Guevarra\relax }}{10}{figure.caption.8}
-\contentsline {figure}{\numberline {1.3}{\ignorespaces Gantt Chart of Hernandez\relax }}{11}{figure.caption.9}
-\contentsline {figure}{\numberline {1.4}{\ignorespaces Gantt Chart of Lagman\relax }}{11}{figure.caption.10}
-\contentsline {figure}{\numberline {1.5}{\ignorespaces Gantt Chart of Villanueva\relax }}{12}{figure.caption.11}
+\contentsline {figure}{\numberline {1.1}{\ignorespaces Eye Evaluation Flowchart\relax }}{9}{figure.caption.18}
+\contentsline {figure}{\numberline {1.2}{\ignorespaces Gantt Chart of Guevarra\relax }}{10}{figure.caption.19}
+\contentsline {figure}{\numberline {1.3}{\ignorespaces Gantt Chart of Hernandez\relax }}{11}{figure.caption.20}
+\contentsline {figure}{\numberline {1.4}{\ignorespaces Gantt Chart of Lagman\relax }}{11}{figure.caption.21}
+\contentsline {figure}{\numberline {1.5}{\ignorespaces Gantt Chart of Villanueva\relax }}{12}{figure.caption.22}
+\addvspace {10pt}
+\addvspace {10pt}
+\contentsline {figure}{\numberline {3.1}{\ignorespaces A quadrilateral image example.\relax }}{22}{figure.caption.24}
+\addvspace {10pt}
+\addvspace {10pt}
+\addvspace {10pt}
+\addvspace {10pt}
+\addvspace {10pt}
+\addvspace {10pt}
+\contentsline {figure}{\numberline {B.1}{\ignorespaces A quadrilateral image example.\relax }}{71}{figure.caption.63}
+\contentsline {figure}{\numberline {B.2}{\ignorespaces Figures on top of each other. See List.\nobreakspace {}\ref {lst:figsontop} for the corresponding \LaTeX \ code. \relax }}{73}{figure.caption.65}
+\contentsline {subfigure}{\numberline {(a)}{\ignorespaces A sub-figure in the top row.}}{73}{figure.caption.65}
+\contentsline {subfigure}{\numberline {(b)}{\ignorespaces A sub-figure in the middle row.}}{73}{figure.caption.65}
+\contentsline {subfigure}{\numberline {(c)}{\ignorespaces A sub-figure in the bottom row.}}{73}{figure.caption.65}
+\contentsline {figure}{\numberline {B.3}{\ignorespaces Four figures in each corner. See List.\nobreakspace {}\ref {lst:fourfigs} for the corresponding \LaTeX \ code.\relax }}{75}{figure.caption.67}
+\contentsline {subfigure}{\numberline {(a)}{\ignorespaces A sub-figure in the upper-left corner.}}{75}{figure.caption.67}
+\contentsline {subfigure}{\numberline {(b)}{\ignorespaces A sub-figure in the upper-right corner.}}{75}{figure.caption.67}
+\contentsline {subfigure}{\numberline {(c)}{\ignorespaces A sub-figure in the lower-left corner.}}{75}{figure.caption.67}
+\contentsline {subfigure}{\numberline {(d)}{\ignorespaces A sub-figure in the lower-right corner}}{75}{figure.caption.67}
+\addvspace {10pt}
 \addvspace {10pt}
 \contentsfinish 

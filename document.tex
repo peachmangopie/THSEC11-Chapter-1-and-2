@@ -8,23 +8,23 @@
 
 \Figurestrue % comment to disable the rendering figures
 
-%\GroupIDtrue % comment to disable group ID
+\GroupIDtrue % comment to disable group ID
 
-%\ResultDiscusstrue % comment to disable results and discussions
+\ResultDiscusstrue % comment to disable results and discussions
 
-%\Conctrue % comment to disable conclusions
+\Conctrue % comment to disable conclusions
 
-%\Finishedtrue % comment to disable manuscript for final hard binding
+\Finishedtrue % comment to disable manuscript for final hard binding
 
 %\Gradtrue % comment to disable graduate school format
 
 %\PhDtrue % comment to disable PhD dissertation format
 
-%\PubListtrue % comment to disable publication list
+\PubListtrue % comment to disable publication list
 
-%\Vitatrue % comment to disable author(s) vita
+\Vitatrue % comment to disable author(s) vita
 
-%\Indextrue % comment to disable index 
+\Indextrue % comment to disable index 
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 % document IDs
@@ -48,8 +48,8 @@
 %\newcommand{\degreeAbbrv}{MS-ECE}
 %\newcommand{\degreeAbbrv}{PhD-ECE}
 
-\newcommand{\documentAdviserTitle}{Engr.} 
-\newcommand{\documentAdviser}{Maria Antonette C. Roque}
+\newcommand{\documentAdviserTitle}{Dr.} 
+\newcommand{\documentAdviser}{Francisco D. Baltasar}
 
 \newcommand{\examinerChairTitle}{Dr.} 
 \newcommand{\examinerChair}{Amado Z. Hernandez}
@@ -73,24 +73,24 @@
 
 \newcommand{\groupID}{ESG-04} % group ID is for undergraduates as of this formatting
 
-\newcommand{\numberOfAuthors}{4} % adapt the number of names below accordingly and sort the sunames in alphabetically ascending manner, like in the following example
+\newcommand{\numberOfAuthors}{5} % adapt the number of names below accordingly and sort the sunames in alphabetically ascending manner, like in the following example
 
-\defineAuthor{surname1}{Guevarra}
-\defineAuthor{firstname1}{Alnair M.}
+\defineAuthor{surname1}{dela Cruz}
+\defineAuthor{firstname1}{Juan Z.}
 
-\defineAuthor{surname2}{Hernandez}
-\defineAuthor{firstname2}{Roy Stephen A.}
+\defineAuthor{surname2}{Franco}
+\defineAuthor{firstname2}{Nat Y.}
 
-\defineAuthor{surname3}{Lagman}
-\defineAuthor{firstname3}{Maria Josefa M.}
+\defineAuthor{surname3}{Garcia}
+\defineAuthor{firstname3}{Sebastian X.}
 
-\defineAuthor{surname4}{Villanueva}
-\defineAuthor{firstname4}{Andre P.}
+\defineAuthor{surname4}{Martinez}
+\defineAuthor{firstname4}{Isabella W.}
 
 \defineAuthor{surname5}{Rianzares}
 \defineAuthor{firstname5}{Max V.}
 
-\newcommand{\documentTitle}{Microcontroller based eye tracker using RGB-D camera for detection of driver awareness} % put tilde (~) between words to indicate non-breaking adjacent words
+\newcommand{\documentTitle}{Electrical, Electromagnetic, and Optical Characterization of the InP/InGaAs~Alloy~System} % put tilde (~) between words to indicate non-breaking adjacent words
 
 \newcommand{\keywords}{alloy system, characterization, InP, InGaAs}
 
@@ -116,15 +116,15 @@
 \includeonly{% just comment those portions that you do not want to be included in the parsing
 introduction,
 literature_review,
-%theoretical_considerations,
-%design_considerations,
-%methodology,
-%results_and_discussion,
-%conclusions,
-%answers_to_questions,
-%usage_examples,
-%publication,
-%vita,
+theoretical_considerations,
+design_considerations,
+methodology,
+results_and_discussion,
+conclusions,
+answers_to_questions,
+usage_examples,
+publication,
+vita,
 }
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
@@ -149,7 +149,6 @@ literature_review,
 \cleardoublepage
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-\begin{comment}
 \phantomsection
 \addcontentsline{toc}{chapter}{Abbreviations}
 {
@@ -157,9 +156,8 @@ literature_review,
 	\thispagestyle{plain}
 }	
 \cleardoublepage
-\end{comment}
+
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-\begin{comment}
 \phantomsection
 \addcontentsline{toc}{chapter}{Notation}
 {
@@ -171,9 +169,8 @@ literature_review,
 	\thispagestyle{plain}
 }
 \cleardoublepage
-\end{comment}
+
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-\begin{comment}
 \phantomsection
 \addcontentsline{toc}{chapter}{Glossary}
 {
@@ -181,9 +178,9 @@ literature_review,
 	\thispagestyle{plain}
 }
 \cleardoublepage
-\end{comment}
+
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-%\lstlistoflistings
+\lstlistoflistings
 \cleardoublepage
 \end{SingleSpace}
 
@@ -211,7 +208,6 @@ literature_review,
 \cleardoublepage
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-\begin{comment}
 \chapter{Theoretical Considerations}
 %\chaptermark{Theoretical Considerations} % uncomment this and put a shorter version of the chapter title for the TOC and chapter markings (i.e., header or footer)
 \label{ch:theorycon}
@@ -222,10 +218,9 @@ literature_review,
 \include{theoretical_considerations}
 \stopcontents[chapters]
 \cleardoublepage
-\end{comment}
+
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-\begin{comment}
-%\chapter{Design Considerations} 
+\chapter{Design Considerations} 
 \label{ch:designcon} 
 \startcontents[chapters]
 \begin{SingleSpace}	
@@ -234,10 +229,8 @@ literature_review,
 \include{design_considerations}
 \stopcontents[chapters]
 \cleardoublepage
-\end{comment}
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-\begin{comment}
 \chapter{Methodology} 
 \label{ch:method} 
 \startcontents[chapters]
@@ -247,10 +240,8 @@ literature_review,
 \include{methodology}
 \stopcontents[chapters]
 \cleardoublepage
-\end{comment}
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-
 \ifResultDiscuss 
 	\chapter{Results and Discussion} 
 	\label{ch:result_discuss} 
@@ -278,29 +269,10 @@ literature_review,
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 \renewcommand{\UrlFont}{\normalfont}
-%\bibliographystyle{IEEEtr} % for IEEE referencing format
-\bibliographystyle{apacite} % for APA referencing format
+\bibliographystyle{IEEEtr} % for IEEE referencing format
+%\bibliographystyle{apalike} % for APA referencing format
 \begin{SingleSpace}
-
   {\small \bibliography{references}}
-  %Roy, pakitanggal ng comment kung ayaw lumabas yung references tapos compile, after mo icompile ibalik mo sa comment tapos compile ulit medyo may bug kasi eh
-  
-  \cite{krafka2016eye}
-  \cite{mavely2017eye}
-  \cite{mazhar2015real}
-  \cite{nguyen2009eye}
-  \cite{puasuaricua2015pupil}
-  \cite{punde2017study}
-  \cite{singh2011eye}
-  \cite{venugopalreal}
-  \cite{xiong2014eye}
-  \cite{zhang2015personality}
-  \cite{ahmad2015drowsy}
-  \cite{kumar2014detection}
-  \cite{ma2014eye}
-
-  
-  \begin{comment}
 	\vfill
 	\LaTeX-comment this and the following texts after you have implemented them. See the following references for helpful guides for the bibliography and script editing in general.  Note that the links might be unavailable, but the names can be searched in the Web.
 		
@@ -313,7 +285,7 @@ literature_review,
 	\end{enumerate}
 	
 \noindent Also in your BibTeX file, enclose letters or words that should all be in uppercase in curly brackets. Example: {IBM}, {P}hilippines, e{X}tensible {M}arkup {L}anguage.
-\end{comment}
+
 \end{SingleSpace}
 \vfill
 \begin{flushright}
@@ -322,7 +294,6 @@ Produced: \usdate\today, \currenttime \\
 \cleardoublepage 
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-\begin{comment}
 \SingleSpacing
 \appendix
 \renewcommand{\thechapter}{\Alph{chapter}}
@@ -343,7 +314,7 @@ Produced: \usdate\today, \currenttime \\
 \include{usage_examples}
 % \stopcontents[chapters]
 \cleardoublepage
-\end{comment}
+
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 \ifPubList
 	\include{publication}
