@@ -33,28 +33,17 @@ Also the size of the kinect might be a hindrance to the view of the driver and m
 
 
 \subsection{General Objective(s)}
-To use a RGB-D camera for capturing the image in need of image processing for detecting eyes and driver’s awareness.
-
-To implement an algorithm for detection of driver’s awareness based on eye behaviour.
-
-To use existing algorithms for face pose estimation, pupil center estimation, head pose estimation, and eye gaze estimation
-
-To create a standalone microcontroller based eye tracking device for detecting driver awareness
-
+The main objective of the proposed thesis is to design an eye tracker using an RGB-D camera that will be able to detect blink duration, blink interval, and eye gaze estimation for evaluation of driver drowsiness or distractedness
 
 \subsection{Specific Objectives}
 
 \begin{enumerate}
 	
-	\item To interface the microcontroller and RGB-D camera using MATLAB and SIMULINK
+	\item To develop an algorithm for detection of driver awareness based on eye parameters such as blink duration, blink intervals, and eye gaze estimation.
 	
-	\item To make use of MATLAB’s libraries for successfully creating a driver awareness algorithm 
+	\item To create an alarm that will notify the driver when the device detects that the level of drowsiness of the driver is sleepy or is not focused on the road.
 	
-	\item To make use of microsoft kinect as the RGB-D camera
-	
-	\item To achieve at least 80\% of accuracy with regards to detection of driver’s awareness
-	
-
+	\item To achieve at least 80\% accuracy in determining the level of drowsiness: Awake, Low Alertness, Drowsy, Sleepy.
 	
 \end{enumerate}
 
@@ -71,45 +60,43 @@ By understanding the user’s eye behavior, new safety and security measurements
 
 \section{Assumptions, Scope and Delimitations}
 
-This section provides the assumptions, scope, and delimitations of the research which serves as the guideline of how the research was done
+This section provides the assumptions, scope, and delimitations of the research which serves as the guideline of how the research will be done
 
 \subsection{Assumptions}
 \begin{enumerate}
 	
 	\item It is assumed that there are more people feeling sleepy at night therefore causing drowsy driving
 	
-	\item If either one or both of the eyes detected are evaluated as closed, then the driver is drowsy and an alarm system will turn on.
+	\item Device should be working even on low light conditions because of the first assumption.
 	
-	\item If the pupil of the eyes is not located at the center, then the driver is distracted and an alarm system will turn on.
-		
+	\item If the pupil of the eyes is not located at the center for at least two seconds, then the driver is distracted and an alarm system will turn on.
+	
+	\item Eyes are subjected under normal conditions thus, factors that affect the ocular parameters are not included.
+	
 \end{enumerate}
 
 \subsection{Scope}
 \begin{enumerate}
 	
-	\item Create an algorithm for detection of driver’s awareness based on eye behaviour.
+	\item Can measure the blink interval of the eyes as an additional parameter in determining whether the driver is drowsy or not.
 	
-	\item Device should be available even on low light conditions because of the first assumption.
+	\item Measure the blink duration of the eyes
 	
-	\item To test for driver’s drowsiness, the device should be able to detect whether one or both of the eyes are closed.
-	
-	\item Can measure the blink rate of the eyes as an additional parameter in determining whether the driver is drowsy or not.
+	\item To test for driver’s drowsiness, the device should be able to detect and classify the level of drowsiness of the driver.
 	
 	\item Can detect whether driver is distracted by using pupil center estimation
-		
+	
 \end{enumerate}
 
 \subsection{Delimitations}
 \begin{enumerate}
 	
-	\item Existing algorithms on eye detecting is used.
+	\item Existing algorithms on eye detecting will be used.
 	
-	\item Built in face detection algorithm provided by the Kinect Microsoft is used.
+	\item Built in face detection algorithm provided by the Kinect Microsoft will be used.
 	
-	\item In the pupil center estimation, the Kinect Microsoft had a difficulty with detecting the pupil when the driver is looking downward.
+	\item In the pupil center estimation, the Kinect Microsoft will have a difficulty with detecting the pupil person being evaluated has little eye openings
 	
-	\item The device had a difficulty in detecting eyes for people with small eye openings.
-		
 \end{enumerate}
 
 \section{Description and Methodology}
