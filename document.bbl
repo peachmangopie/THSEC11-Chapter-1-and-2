@@ -28,6 +28,31 @@ Ahmad, R.%
 \PrintBackRefs{\CurrentBib}
 
 \bibitem [\protect \citeauthoryear {%
+Dongare%
+}{%
+Dongare%
+}{%
+{\protect \APACyear {2017}}%
+}]{%
+dongare2017real}
+\APACinsertmetastar {%
+dongare2017real}%
+\begin{APACrefauthors}%
+Dongare, S.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2017}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {Eye Tracking and Head Pose Estimation for Driver
+  Monitoring on Raspberry Pi} {Eye tracking and head pose estimation for driver
+  monitoring on raspberry pi}.{\BBCQ}
+\newblock
+\APACjournalVolNumPages{International Journal of Advances in Electronics and
+  Computer Science}{4}{3}{4}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
 Jianfeng%
 \ \BBA {} Shigang%
 }{%
@@ -209,6 +234,39 @@ Mazhar, O.%
 \PrintBackRefs{\CurrentBib}
 
 \bibitem [\protect \citeauthoryear {%
+Nakano%
+, Kato%
+, Morito%
+, Itoi%
+\BCBL {}\ \BBA {} Kitazawa%
+}{%
+Nakano%
+\ \protect \BOthers {.}}{%
+{\protect \APACyear {2013}}%
+}]{%
+nakano2013blink}
+\APACinsertmetastar {%
+nakano2013blink}%
+\begin{APACrefauthors}%
+Nakano, T.%
+, Kato, M.%
+, Morito, Y.%
+, Itoi, S.%
+\BCBL {}\ \BBA {} Kitazawa, S.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2013}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {Blink-related momentary activation of the default mode
+  network while viewing videos} {Blink-related momentary activation of the
+  default mode network while viewing videos}.{\BBCQ}
+\newblock
+\APACjournalVolNumPages{Proceedings of the National Academy of
+  Sciences}{110}{2}{702--706}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
 Nguyen%
 }{%
 Nguyen%
@@ -351,6 +409,34 @@ Tamayo, A.%
 \PrintBackRefs{\CurrentBib}
 
 \bibitem [\protect \citeauthoryear {%
+Vargas-Cuentas%
+\ \BBA {} Roman-Gonzalez%
+}{%
+Vargas-Cuentas%
+\ \BBA {} Roman-Gonzalez%
+}{%
+{\protect \APACyear {2017}}%
+}]{%
+vargas2017facial}
+\APACinsertmetastar {%
+vargas2017facial}%
+\begin{APACrefauthors}%
+Vargas-Cuentas, N\BPBI I.%
+\BCBT {}\ \BBA {} Roman-Gonzalez, A.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2017}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {Facial image processing for sleepiness estimation}
+  {Facial image processing for sleepiness estimation}.{\BBCQ}
+\newblock
+\BIn{} \APACrefbtitle {Bio-engineering for Smart Technologies (BioSMART), 2017
+  2nd International Conference on} {Bio-engineering for smart technologies
+  (biosmart), 2017 2nd international conference on}\ (\BPGS\ 1--3).
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
 Venugopal%
 \ \BBA {} D’souza%
 }{%
@@ -440,11 +526,40 @@ Xiong, X.%
 \PrintBackRefs{\CurrentBib}
 
 \bibitem [\protect \citeauthoryear {%
-Zhang%
+L.~Zhang%
+, Liu%
+\BCBL {}\ \BBA {} Tang%
+}{%
+L.~Zhang%
+\ \protect \BOthers {.}}{%
+{\protect \APACyear {2015}}%
+}]{%
+zhang2015real}
+\APACinsertmetastar {%
+zhang2015real}%
+\begin{APACrefauthors}%
+Zhang, L.%
+, Liu, F.%
+\BCBL {}\ \BBA {} Tang, J.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2015}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {Real-time system for driver fatigue detection by RGB-D
+  camera} {Real-time system for driver fatigue detection by rgb-d
+  camera}.{\BBCQ}
+\newblock
+\APACjournalVolNumPages{ACM Transactions on Intelligent Systems and Technology
+  (TIST)}{6}{2}{22}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Y.~Zhang%
 , Xin%
 \BCBL {}\ \BBA {} Miao%
 }{%
-Zhang%
+Y.~Zhang%
 \ \protect \BOthers {.}}{%
 {\protect \APACyear {2015}}%
 }]{%

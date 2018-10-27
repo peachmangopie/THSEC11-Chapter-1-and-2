@@ -1,0 +1,207 @@
+% This file was created with JabRef 2.6.
+% Encoding: Cp1252
+
+@ARTICLE{ahmad2015drowsy,
+  author = {Ahmad, Raees and Borole, JN},
+  title = {Drowsy driver identification using eye blink detection},
+  journal = {IJISET-International Journal of Computer Science and Information
+	Technologies},
+  year = {2015},
+  volume = {6},
+  pages = {270--274},
+  number = {1},
+  publisher = {Citeseer}
+}
+
+@INPROCEEDINGS{ahmed2015eye,
+  author = {Ahmed, Javed and Li, Jian-Ping and Khan, Saeed Ahmed and Shaikh,
+	Riaz Ahmed},
+  title = {Eye behaviour based drowsiness Detection System},
+  booktitle = {Wavelet Active Media Technology and Information Processing (ICCWAMTIP),
+	2015 12th International Computer Conference on},
+  year = {2015},
+  pages = {268--272},
+  organization = {IEEE}
+}
+
+@ARTICLE{dongare2017real,
+  author = {Dongare, Shah},
+  title = {Eye Tracking and Head Pose Estimation for Driver Monitoring on Raspberry
+	Pi },
+  journal = {International Journal of Advances in Electronics and Computer Science},
+  year = {2017},
+  volume = {4},
+  pages = {4},
+  number = {3},
+  publisher = {IRAJ}
+}
+
+@INPROCEEDINGS{jianfeng2014eye,
+  author = {Jianfeng, Li and Shigang, Li},
+  title = {Eye-model-based gaze estimation by RGB-D camera},
+  booktitle = {Proceedings of the IEEE Conference on Computer Vision and Pattern
+	Recognition Workshops},
+  year = {2014},
+  pages = {592--596}
+}
+
+@INPROCEEDINGS{krafka2016eye,
+  author = {Krafka, Kyle and Khosla, Aditya and Kellnhofer, Petr and Kannan,
+	Harini and Bhandarkar, Suchendra and Matusik, Wojciech and Torralba,
+	Antonio},
+  title = {Eye tracking for everyone},
+  booktitle = {Proceedings of the IEEE conference on computer vision and pattern
+	recognition},
+  year = {2016},
+  pages = {2176--2184}
+}
+
+@ARTICLE{kumar2014detection,
+  author = {Kumar, Narender and Barwar, N},
+  title = {Detection of eye blinking and yawning for monitoring driver’s drowsiness
+	in real time},
+  journal = {Int. J. Application or Innovation in Engineering \& Management},
+  year = {2014},
+  volume = {3},
+  number = {11}
+}
+
+@INPROCEEDINGS{mavely2017eye,
+  author = {Mavely, Annu George and Judith, JE and Sahal, PA and Kuruvilla, Steffy
+	Ann},
+  title = {Eye gaze tracking based driver monitoring system},
+  booktitle = {Circuits and Systems (ICCS), 2017 IEEE International Conference on},
+  year = {2017},
+  pages = {364--367},
+  organization = {IEEE}
+}
+
+@INPROCEEDINGS{mazhar2015real,
+  author = {Mazhar, Osama and Shah, Taimoor Ali and Khan, Muhammad Ahmed and
+	Tehami, Sameed},
+  title = {A real-time webcam based Eye Ball Tracking System using MATLAB},
+  booktitle = {Design and Technology in Electronic Packaging (SIITME), 2015 IEEE
+	21st International Symposium for},
+  year = {2015},
+  pages = {139--142},
+  organization = {IEEE}
+}
+
+@ARTICLE{ma2014eye,
+  author = {Ma’touq, Jumana and Al-Nabulsi, Jamal and Al-Kazwini, Akeel and
+	Baniyassien, Ahmed and Al-Haj Issa, Ghassan and Mohammad, Haitham},
+  title = {Eye blinking-based method for detecting driver drowsiness},
+  journal = {Journal of medical engineering \& technology},
+  year = {2014},
+  volume = {38},
+  pages = {416--419},
+  number = {8},
+  publisher = {Taylor \& Francis}
+}
+
+@INPROCEEDINGS{nguyen2009eye,
+  author = {Nguyen, Ba Linh},
+  title = {Eye gaze tracking},
+  booktitle = {Computing and Communication Technologies, 2009. RIVF'09. International
+	Conference on},
+  year = {2009},
+  pages = {1--4},
+  organization = {IEEE}
+}
+
+@INPROCEEDINGS{punde2017study,
+  author = {Punde, Pramodini A and Jadhav, Mukti E and Manza, Ramesh R},
+  title = {A study of eye tracking technology and its applications},
+  booktitle = {2017 1st International Conference on Intelligent Systems and Information
+	Management (ICISIM)},
+  year = {2017},
+  pages = {86--90},
+  organization = {IEEE}
+}
+
+@INPROCEEDINGS{puasuaricua2015pupil,
+  author = {P{\u{a}}s{\u{a}}ric{\u{a}}, A and Bozomitu, RG and Cehan, V and Lupu,
+	RG and Rotariu, C},
+  title = {Pupil detection algorithms for eye tracking applications},
+  booktitle = {Design and Technology in Electronic Packaging (SIITME), 2015 IEEE
+	21st International Symposium for},
+  year = {2015},
+  pages = {161--164},
+  organization = {IEEE}
+}
+
+@INPROCEEDINGS{singh2011eye,
+  author = {Singh, Hardeep and Bhatia, Jagjit Singh and Kaur, Jasbir},
+  title = {Eye tracking based driver fatigue monitoring and warning system},
+  booktitle = {Power Electronics (IICPE), 2010 India International Conference on},
+  year = {2011},
+  pages = {1--6},
+  organization = {IEEE}
+}
+
+@ARTICLE{tamayo2009occurrence,
+  author = {Tamayo, Adrian},
+  title = {Occurrence of Traffic Accidents in the Philippines: An Application
+	of Poisson Regression Analysis},
+  year = {2009}
+}
+
+@INPROCEEDINGS{vargas2017facial,
+  author = {Vargas-Cuentas, Natalia I and Roman-Gonzalez, Avid},
+  title = {Facial image processing for sleepiness estimation},
+  booktitle = {Bio-engineering for Smart Technologies (BioSMART), 2017 2nd International
+	Conference on},
+  year = {2017},
+  pages = {1--3},
+  organization = {IEEE}
+}
+
+@ARTICLE{venugopalreal,
+  author = {Venugopal, BK and D’souza, Dilson},
+  title = {Real Time Implementation of Eye Tracking System Using Arduino Uno
+	Based Hardware Interface}
+}
+
+@ARTICLE{verwey2000predicting,
+  author = {Verwey, Willem B and Zaidel, David M},
+  title = {Predicting drowsiness accidents from personal attributes, eye blinks
+	and ongoing driving behaviour},
+  journal = {Personality and individual differences},
+  year = {2000},
+  volume = {28},
+  pages = {123--142},
+  number = {1},
+  publisher = {Elsevier}
+}
+
+@INPROCEEDINGS{xiong2014eye,
+  author = {Xiong, Xuehan and Liu, Zicheng and Cai, Qin and Zhang, Zhengyou},
+  title = {Eye gaze tracking using an RGBD camera: a comparison with a RGB solution},
+  booktitle = {Proceedings of the 2014 ACM International Joint Conference on Pervasive
+	and Ubiquitous Computing: Adjunct Publication},
+  year = {2014},
+  pages = {1113--1121},
+  organization = {ACM}
+}
+
+@ARTICLE{zhang2015real,
+  author = {Zhang, Liyan and Liu, Fan and Tang, Jinhui},
+  title = {Real-time system for driver fatigue detection by RGB-D camera},
+  journal = {ACM Transactions on Intelligent Systems and Technology (TIST)},
+  year = {2015},
+  volume = {6},
+  pages = {22},
+  number = {2},
+  publisher = {ACM}
+}
+
+@INPROCEEDINGS{zhang2015personality,
+  author = {Zhang, Yun and Xin, Wei and Miao, Danmin},
+  title = {Personality test based on eye tracking techniques},
+  booktitle = {Affective Computing and Intelligent Interaction (ACII), 2015 International
+	Conference on},
+  year = {2015},
+  pages = {832--837},
+  organization = {IEEE}
+}
+
