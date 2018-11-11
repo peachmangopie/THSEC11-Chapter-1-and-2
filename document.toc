@@ -10,7 +10,7 @@
 \contentsline {section}{\numberline {1.4}Objectives}{5}{section.1.4}
 \contentsline {subsection}{\numberline {1.4.1}General Objective(s)}{5}{subsection.1.4.1}
 \contentsline {subsection}{\numberline {1.4.2}Specific Objectives}{5}{subsection.1.4.2}
-\contentsline {section}{\numberline {1.5}Significance of the Study}{6}{section.1.5}
+\contentsline {section}{\numberline {1.5}Significance of the Study}{5}{section.1.5}
 \contentsline {section}{\numberline {1.6}Assumptions, Scope and Delimitations}{7}{section.1.6}
 \contentsline {subsection}{\numberline {1.6.1}Assumptions}{7}{subsection.1.6.1}
 \contentsline {subsection}{\numberline {1.6.2}Scope}{7}{subsection.1.6.2}
@@ -27,9 +27,10 @@
 \contentsline {subsection}{\numberline {2.1.4}Eye Tracking Applied on Driver’s Awareness and Eye Behavior}{21}{subsection.2.1.4}
 \contentsline {subsection}{\numberline {2.1.5}Eye Tracking Implementation using Microcontrollers}{23}{subsection.2.1.5}
 \contentsline {subsection}{\numberline {2.1.6}Head Pose Estimation}{24}{subsection.2.1.6}
-\contentsline {section}{\numberline {2.2}Lacking in the Approaches}{25}{section.2.2}
-\contentsline {subsection}{\numberline {2.2.1}Eye Tracking and its Applications}{25}{subsection.2.2.1}
-\contentsline {subsection}{\numberline {2.2.2}Head Pose Estimation}{26}{subsection.2.2.2}
-\contentsline {section}{\numberline {2.3}Summary}{27}{section.2.3}
-\contentsline {section}{References}{29}{section*.16}
+\contentsline {subsection}{\numberline {2.1.7}Head Detection}{25}{subsection.2.1.7}
+\contentsline {section}{\numberline {2.2}Lacking in the Approaches}{26}{section.2.2}
+\contentsline {subsection}{\numberline {2.2.1}Eye Tracking and its Applications}{26}{subsection.2.2.1}
+\contentsline {subsection}{\numberline {2.2.2}Head Pose Estimation}{27}{subsection.2.2.2}
+\contentsline {section}{\numberline {2.3}Summary}{28}{section.2.3}
+\contentsline {section}{References}{30}{section*.16}
 \contentsfinish 

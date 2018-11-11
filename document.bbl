@@ -53,6 +53,38 @@ Dongare, S.%
 \PrintBackRefs{\CurrentBib}
 
 \bibitem [\protect \citeauthoryear {%
+Ishii%
+, Hongo%
+, Yamamoto%
+\BCBL {}\ \BBA {} Niwa%
+}{%
+Ishii%
+\ \protect \BOthers {.}}{%
+{\protect \APACyear {2004}}%
+}]{%
+ishii2004face}
+\APACinsertmetastar {%
+ishii2004face}%
+\begin{APACrefauthors}%
+Ishii, Y.%
+, Hongo, H.%
+, Yamamoto, K.%
+\BCBL {}\ \BBA {} Niwa, Y.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2004}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {Face and head detection for a real-time surveillance
+  system} {Face and head detection for a real-time surveillance system}.{\BBCQ}
+\newblock
+\BIn{} \APACrefbtitle {Pattern Recognition, 2004. ICPR 2004. Proceedings of the
+  17th International Conference on} {Pattern recognition, 2004. icpr 2004.
+  proceedings of the 17th international conference on}\ (\BVOL~3, \BPGS\
+  298--301).
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
 Jianfeng%
 \ \BBA {} Shigang%
 }{%
@@ -137,6 +169,35 @@ Kumar, N.%
 \newblock
 \APACjournalVolNumPages{Int. J. Application or Innovation in Engineering \&
   Management}{3}{11}{}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Luo%
+\ \BBA {} Sang%
+}{%
+Luo%
+\ \BBA {} Sang%
+}{%
+{\protect \APACyear {2009}}%
+}]{%
+luo2009improving}
+\APACinsertmetastar {%
+luo2009improving}%
+\begin{APACrefauthors}%
+Luo, D.%
+\BCBT {}\ \BBA {} Sang, N.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2009}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {Improving Head Detection from Tracking} {Improving head
+  detection from tracking}.{\BBCQ}
+\newblock
+\BIn{} \APACrefbtitle {Information Engineering and Computer Science, 2009.
+  ICIECS 2009. International Conference on} {Information engineering and
+  computer science, 2009. iciecs 2009. international conference on}\ (\BPGS\
+  1--4).
 \PrintBackRefs{\CurrentBib}
 
 \bibitem [\protect \citeauthoryear {%
@@ -352,6 +413,29 @@ Punde, P\BPBI A.%
 \BIn{} \APACrefbtitle {2017 1st International Conference on Intelligent Systems
   and Information Management (ICISIM)} {2017 1st international conference on
   intelligent systems and information management (icisim)}\ (\BPGS\ 86--90).
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Schiffman%
+}{%
+Schiffman%
+}{%
+{\protect \APACyear {1990}}%
+}]{%
+schiffman1990sensation}
+\APACinsertmetastar {%
+schiffman1990sensation}%
+\begin{APACrefauthors}%
+Schiffman, H\BPBI R.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYear{1990}.
+\newblock
+\APACrefbtitle {Sensation and perception: An integrated approach} {Sensation
+  and perception: An integrated approach}.
+\newblock
+\APACaddressPublisher{}{Oxford, England: John Wiley \& Sons}.
 \PrintBackRefs{\CurrentBib}
 
 \bibitem [\protect \citeauthoryear {%
