@@ -1,4 +1,5 @@
 \addvspace {10pt}
+<<<<<<< HEAD
 \contentsline {figure}{\numberline {1.1}{\ignorespaces Different head poses based from estimated head pose results (Liu, F. et. al., 2015)\relax }}{11}{figure.caption.10}
 \contentsline {figure}{\numberline {1.2}{\ignorespaces Evaluation of level of Drowsiness based on blink rate and blink duration\relax }}{13}{figure.caption.12}
 \contentsline {figure}{\numberline {1.3}{\ignorespaces Proposed Block Diagram of Driver Monitoring System\relax }}{14}{figure.caption.13}
@@ -6,5 +7,14 @@
 \contentsline {figure}{\numberline {1.5}{\ignorespaces Gantt Chart of Hernandez\relax }}{15}{figure.caption.15}
 \contentsline {figure}{\numberline {1.6}{\ignorespaces Gantt Chart of Lagman\relax }}{16}{figure.caption.16}
 \contentsline {figure}{\numberline {1.7}{\ignorespaces Gantt Chart of Villanueva\relax }}{16}{figure.caption.17}
+=======
+\contentsline {figure}{\numberline {1.1}{\ignorespaces Different head poses based from estimated head pose results (Liu, F. et. al., 2015)\relax }}{9}{figure.caption.7}
+\contentsline {figure}{\numberline {1.2}{\ignorespaces General Framework of Driver Fatigue Evaluation System\relax }}{11}{figure.caption.9}
+\contentsline {figure}{\numberline {1.3}{\ignorespaces Proposed Block Diagram of Driver Monitoring System\relax }}{12}{figure.caption.10}
+\contentsline {figure}{\numberline {1.4}{\ignorespaces Gantt Chart of Guevarra\relax }}{13}{figure.caption.11}
+\contentsline {figure}{\numberline {1.5}{\ignorespaces Gantt Chart of Hernandez\relax }}{13}{figure.caption.12}
+\contentsline {figure}{\numberline {1.6}{\ignorespaces Gantt Chart of Lagman\relax }}{14}{figure.caption.13}
+\contentsline {figure}{\numberline {1.7}{\ignorespaces Gantt Chart of Villanueva\relax }}{14}{figure.caption.14}
+>>>>>>> 65a662c336eb85f671f6d88762e7997c10dc4867
 \addvspace {10pt}
 \contentsfinish 

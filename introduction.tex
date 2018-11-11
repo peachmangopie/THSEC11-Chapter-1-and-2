@@ -45,23 +45,22 @@ One of the reasons for fatal traffic accidents is driver drowsiness. The researc
 
 
 \subsection{General Objective(s)}
-The main objective of the proposed thesis is to design a prototype that will utilize an RGB-D sensor that will be interfaced to a microcontroller for detection of blink rate, blink duration, and head pose estimation for evaluation of driver fatigue.
+The main objective of the thesis is to design and implement a system that will detect the level of fatigue of the driver and to alarm the driver once the level of fatigue reached a certain level not suitable for driving.
 
 \subsection{Specific Objectives}
 
 \begin{enumerate}
 	
-	\item To develop an algorithm for detection of driver fatigue based on parameters such as blink duration, blink rate, and head pose estimation.
+	\item To develop an algorithm for detection of driver fatigue based on parameters such as blink duration, blink rate, and head pose estimation
 	
-	\item To integrate eye state parameters and head pose estimation for determining the final evaluation of the level of drowsiness of the driver
+	\item To integrate eye state parameters and head pose estimation for determining the final evaluation of the level of driver fatigue
 	
-	\item To create an alarm system that will notify the driver of their level of drowsiness.
-	\begin{itemize}
-	    \item To be able to light up the LED which will serve as an indicator of drowsiness level
-	    \item To be able to alarm the sound of 25 dB for level of drowsiness and 35 dB for level of sleeping
-	    \item To be able to automatically deactivate the alarm once the device detects that the driver is already on the alert level
-    \end{itemize}
-    \item To achieve at least 80\% accuracy in determining the level of drowsiness: Alert, Low Alertness, Drowsy, and Sleeping.
+	\item To utilize a microcontroller such that data acquired from the RGB-D sensor will be processed for driver fatigue evaluation
+	
+	\item To create an alarm system, consisting of an indicator and a speaker, that will notify the driver of their level of drowsiness
+	
+	\item To achieve at least 95\% accuracy in determining the level of drowsiness: Alert, Low Alertness, Drowsy, and Sleeping
+	
 	
 \end{enumerate}
 
@@ -85,13 +84,13 @@ By understanding the user’s eye and head behavior, new safety and security mea
 \subsection{Assumptions}
 \begin{enumerate}
 	
-	\item There is an existing data for different blink rates, blink duration, and head pose estimation available for comparison.
+	\item The existing dataset to be used upon developing the system will come from a research study about eye tracking conducted by Krafka et. al. (2016) from Massachusetts Institute of Technology (MIT) 
 	
-	\item The driver will stay awake after the alarm
+	\item The RGB-D camera will have a difficulty in detecting the eyes if the person being evaluated has little eye openings 
 	
-	\item Eyes are subjected under normal environment such that the normal blink rate and blink duration are not affected
+	\item The device will treat head movements as nods or head tilts due to road humps or cracks which can affect the accuracy and reliability of the system
 	
-	\item There will be an error in fatigue estimation when driver continuously nods in situations such as jamming to music, passing by rumble strips, and the like.
+
 	
 \end{enumerate}
 
@@ -109,24 +108,28 @@ By understanding the user’s eye and head behavior, new safety and security mea
 	
 	\item The prototype will be tested in a laboratory setting and in a vehicle
 	
+	\item The size of the RGB-D sensor to be placed at the dashboard of the vehicle will not exceed the 4 inches height allowance of the distracted driving law
+	
+	
 \end{enumerate}
 
 \subsection{Delimitations}
 \begin{enumerate}
 	
-	\item The RGB-D camera will have a difficulty in detecting the eyes if the person being evaluated has little eye openings 
+	\item The thesis will only be tested on standard cases, these does not include people with glasses, face or eye disorders, and eye irritation
 	
-	\item The thesis will only be tested on standard cases; it will not include people with eye disorders
 	
-	\item The alarm placed inside a public vehicle will not be as effective as it is compared inside a private vehicle due to environmental noise
+	\item The device will be placed inside closed/private vehicles to maximize the effectiveness of the alarm system
+	
+	\item The system will not be interfaced with the computer box of the vehicle
 	
 \end{enumerate}
 
 \section{Description and Methodology}
 
-Visual data will be gathered using an RGB-D camera. The data gathered will be used by the RGB-D camera that follows a specific algorithm for each step of eye tracking. This eye tracker will be used to study and analyze the eye movements of the driver. Moreover, there will be an alarm system when the eye tracker detects driver fatigue which is not suited for driving a vehicle. In addition, the RGB-D sensor placement is at a position permitted by the law.
+Visual data gathered by the RGB-D camera will be used to study and analyze the eye movements and head pose of the driver. Moreover, there will be an alarm system when the camera detects driver fatigue which is not suited for driving a vehicle. 
 
-The head pose is estimated using the RGB-D camera and a head coordinate system is generated. If the system has detected that the driver has deviated from the reference or the normal position of the head for a certain time while the eye parameters are being monitored, then the device will evaluate if the driver has nodded off and an alarm will turn on to wake up the driver from sleeping. The head pose of the driver serves as a basis for evaluation of driver fatigue along with the gathered blink rate and blink duration. The different head poses based from the estimated head pose results are given below in Figure 1.1.
+The head pose is estimated using the RGB-D camera and a head coordinate system is generated. If the system has detected that the driver has deviated from the reference or the normal position of the head for a certain time while the eye parameters are being monitored, then the device will evaluate if the driver has nodded off and an alarm will turn on to wake up the driver from sleeping. The head pose of the driver will serve as a basis for evaluation of driver fatigue along with the gathered blink rate and blink duration. The different head poses based from the estimated head pose results are given below in Figure 1.1.
 \newline
 
 \begin{figure}[ht]
@@ -144,9 +147,9 @@ The head pose is estimated using the RGB-D camera and a head coordinate system i
 		\textbf{Level of Drowsiness} & \textbf{Description}                                                                                             \\ \hline
 		Awake                        & \begin{tabular}[c]{@{}c@{}}Normal blink rate (0.25 - 0.33 blink/s)\\Normal blink duration (100-400ms)\\Or \\Low blink rate (less than 0.25blink/s) \\Normal blink duration(100-400ms) \end{tabular}         
 		\\ \hline
-		Low Alertness                & \begin{tabular}[c]{@{}c@{}}Normal blink rate (0.33blink/s - 0.25blink/s)\\Long blink duration(400ms - 1s)\\Or\\Low blink rate (lower than 0.25blink/s)\\Long blink duration(100-400ms) \end{tabular} 
+		Low Alertness                & \begin{tabular}[c]{@{}c@{}}Normal blink rate (0.33blink/s - 0.25blink/s)\\Long blink duration(400ms - 1s)\\Or\\Low blink rate (lower than 0.25blink/s)\\Long blink duration(400ms - 1s) \end{tabular} 
 		\\ \hline
-		Drowsy                       & \begin{tabular}{@{}c@{}}High blink rate (greater than 0.33blink/s)\\Long blink duration (400ms-1s)\\Or\\Normal blink rate\\Long blink duration (400ms - 1s)\end{tabular} 
+		Drowsy                       & \begin{tabular}{@{}c@{}}High blink rate (0.33blink/s)\\Long blink duration (400ms-1s)\\Or\\Normal blink rate\\Long blink duration (400ms - 1s)\end{tabular} 
                                                                                  
 		\\ \hline
 		Sleepy                       & \begin{tabular}[c]{@{}c@{}}Low Blink Rate (less than 0.25blink/s)\\Very long Blink Duration (greater than 1s)\end{tabular}
@@ -157,28 +160,29 @@ The head pose is estimated using the RGB-D camera and a head coordinate system i
 	\end{table}
 	
 \newpage
-Using Labview, an algorithm will be made for the evaluation of driver fatigue. It is evaluated into four levels such as Awake, Low Alertness, Drowsy, and Sleeping. Each level of drowsiness will have an indicator and if the driver is evaluated as sleeping or drowsy an alarm will sound off to warn the driver. 
-
+It is evaluated into four levels such as Awake, Low Alertness, Drowsy, and Sleepy. Each level of drowsiness will have an indicator and if the driver is evaluated as sleepy or drowsy an alarm will sound off to warn the driver. 
+\newpage
 \begin{center}
 \begin{figure}[ht]
 	\centering
-	\includegraphics[scale=0.4]{EyeFlowchart}
-	\caption{ Evaluation of level of Drowsiness based on blink rate and blink duration}
+	\includegraphics[scale=0.5]{flow}
+	\caption{General Framework of Driver Fatigue Evaluation System}
 \end{figure}
 \end{center}
 
-\newpage 
-The RGB-D camera is continuously taking a video of the face of the driver and frames will be captured. If the face and head is now detected, the edges of the faces will then be taken in order to find the location of the eyes. After eye detection, blink rate, blink duration, and head pose was calculated for evaluation of driver drowsiness. The algorithm to be used for the evaluation of drowsiness will be classifiers. Some examples that can be used as classifiers are machine learning algorithms, fuzzy logic, etc.
+
+The RGB-D camera is continuously taking a video of the face of the driver and frames will be captured. If the face and head is now detected, the edges of the faces will then be taken in order to find the location of the eyes. After eye detection, blink rate, blink duration, and head pose was calculated for evaluation of driver fatigue. The algorithm to be used for the evaluation of fatigue will be classifiers. Some examples that can be used as classifiers are machine learning algorithms, fuzzy logic, etc. 
 
 
 \begin{center}
 	\begin{figure}[ht]
 		\centering
-		\includegraphics[scale=0.5]{BlockDiagram}
+		\includegraphics[scale=0.8]{blocks}
 		\caption{Proposed Block Diagram of Driver Monitoring System}
 	\end{figure}
 \end{center}
-
+\newpage 
+The RGB-D Camera will serve as the sensor for the eye movements and head movements. The microcontroller will then process the data acquired by the RGB-D. If the system has detected that the driver’s fatigue level is high, the alarm system will turn on and notify the driver. 
 \section{Overview}
 
 \subsection{Gantt Chart}
@@ -215,13 +219,13 @@ The following figures shown below is the individual gantt chart of the researche
 		\hline
 		Materials & Estimated Price(in PHP) \\
 		\hline
-		RGB-D Sensor & 10,000-20,000 \\
+		RGB-D Sensor & Php10,000-20,000 \\
 		\hline
-		Microcontroller & 450-2,000 \\
+		Microcontroller & Php450-25k \\
 		\hline
-		Laptop & Already Available \\
+		Laptop & Php15k-100k \\
 		\hline
-		Total Price & 10,450-28,300 \\
+		Total Price & Php25k-140k \\
 		\hline
 	\end{tabular}
 \end{table}

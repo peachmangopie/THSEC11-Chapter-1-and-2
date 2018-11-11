@@ -1,3 +1,673 @@
 \begin{thebibliography}{}
 
+<<<<<<< HEAD
+=======
+\bibitem [\protect \citeauthoryear {%
+Ahmad%
+\ \BBA {} Borole%
+}{%
+Ahmad%
+\ \BBA {} Borole%
+}{%
+{\protect \APACyear {2015}}%
+}]{%
+ahmad2015drowsy}
+\APACinsertmetastar {%
+ahmad2015drowsy}%
+\begin{APACrefauthors}%
+Ahmad, R.%
+\BCBT {}\ \BBA {} Borole, J.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2015}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {Drowsy driver identification using eye blink detection}
+  {Drowsy driver identification using eye blink detection}.{\BBCQ}
+\newblock
+\APACjournalVolNumPages{IJISET-International Journal of Computer Science and
+  Information Technologies}{6}{1}{270--274}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Dongare%
+}{%
+Dongare%
+}{%
+{\protect \APACyear {2017}}%
+}]{%
+dongare2017real}
+\APACinsertmetastar {%
+dongare2017real}%
+\begin{APACrefauthors}%
+Dongare, S.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2017}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {Eye Tracking and Head Pose Estimation for Driver
+  Monitoring on Raspberry Pi} {Eye tracking and head pose estimation for driver
+  monitoring on raspberry pi}.{\BBCQ}
+\newblock
+\APACjournalVolNumPages{International Journal of Advances in Electronics and
+  Computer Science}{4}{3}{4}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Ishii%
+, Hongo%
+, Yamamoto%
+\BCBL {}\ \BBA {} Niwa%
+}{%
+Ishii%
+\ \protect \BOthers {.}}{%
+{\protect \APACyear {2004}}%
+}]{%
+ishii2004face}
+\APACinsertmetastar {%
+ishii2004face}%
+\begin{APACrefauthors}%
+Ishii, Y.%
+, Hongo, H.%
+, Yamamoto, K.%
+\BCBL {}\ \BBA {} Niwa, Y.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2004}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {Face and head detection for a real-time surveillance
+  system} {Face and head detection for a real-time surveillance system}.{\BBCQ}
+\newblock
+\BIn{} \APACrefbtitle {Pattern Recognition, 2004. ICPR 2004. Proceedings of the
+  17th International Conference on} {Pattern recognition, 2004. icpr 2004.
+  proceedings of the 17th international conference on}\ (\BVOL~3, \BPGS\
+  298--301).
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Jianfeng%
+\ \BBA {} Shigang%
+}{%
+Jianfeng%
+\ \BBA {} Shigang%
+}{%
+{\protect \APACyear {2014}}%
+}]{%
+jianfeng2014eye}
+\APACinsertmetastar {%
+jianfeng2014eye}%
+\begin{APACrefauthors}%
+Jianfeng, L.%
+\BCBT {}\ \BBA {} Shigang, L.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2014}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {Eye-model-based gaze estimation by RGB-D camera}
+  {Eye-model-based gaze estimation by rgb-d camera}.{\BBCQ}
+\newblock
+\BIn{} \APACrefbtitle {Proceedings of the IEEE Conference on Computer Vision
+  and Pattern Recognition Workshops} {Proceedings of the ieee conference on
+  computer vision and pattern recognition workshops}\ (\BPGS\ 592--596).
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Krafka%
+\ \protect \BOthers {.}}{%
+Krafka%
+\ \protect \BOthers {.}}{%
+{\protect \APACyear {2016}}%
+}]{%
+krafka2016eye}
+\APACinsertmetastar {%
+krafka2016eye}%
+\begin{APACrefauthors}%
+Krafka, K.%
+, Khosla, A.%
+, Kellnhofer, P.%
+, Kannan, H.%
+, Bhandarkar, S.%
+, Matusik, W.%
+\BCBL {}\ \BBA {} Torralba, A.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2016}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {Eye tracking for everyone} {Eye tracking for
+  everyone}.{\BBCQ}
+\newblock
+\BIn{} \APACrefbtitle {Proceedings of the IEEE conference on computer vision
+  and pattern recognition} {Proceedings of the ieee conference on computer
+  vision and pattern recognition}\ (\BPGS\ 2176--2184).
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Kumar%
+\ \BBA {} Barwar%
+}{%
+Kumar%
+\ \BBA {} Barwar%
+}{%
+{\protect \APACyear {2014}}%
+}]{%
+kumar2014detection}
+\APACinsertmetastar {%
+kumar2014detection}%
+\begin{APACrefauthors}%
+Kumar, N.%
+\BCBT {}\ \BBA {} Barwar, N.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2014}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {Detection of eye blinking and yawning for monitoring
+  driver’s drowsiness in real time} {Detection of eye blinking and yawning
+  for monitoring driver’s drowsiness in real time}.{\BBCQ}
+\newblock
+\APACjournalVolNumPages{Int. J. Application or Innovation in Engineering \&
+  Management}{3}{11}{}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Luo%
+\ \BBA {} Sang%
+}{%
+Luo%
+\ \BBA {} Sang%
+}{%
+{\protect \APACyear {2009}}%
+}]{%
+luo2009improving}
+\APACinsertmetastar {%
+luo2009improving}%
+\begin{APACrefauthors}%
+Luo, D.%
+\BCBT {}\ \BBA {} Sang, N.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2009}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {Improving Head Detection from Tracking} {Improving head
+  detection from tracking}.{\BBCQ}
+\newblock
+\BIn{} \APACrefbtitle {Information Engineering and Computer Science, 2009.
+  ICIECS 2009. International Conference on} {Information engineering and
+  computer science, 2009. iciecs 2009. international conference on}\ (\BPGS\
+  1--4).
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Ma’touq%
+\ \protect \BOthers {.}}{%
+Ma’touq%
+\ \protect \BOthers {.}}{%
+{\protect \APACyear {2014}}%
+}]{%
+ma2014eye}
+\APACinsertmetastar {%
+ma2014eye}%
+\begin{APACrefauthors}%
+Ma’touq, J.%
+, Al-Nabulsi, J.%
+, Al-Kazwini, A.%
+, Baniyassien, A.%
+, Al-Haj~Issa, G.%
+\BCBL {}\ \BBA {} Mohammad, H.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2014}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {Eye blinking-based method for detecting driver
+  drowsiness} {Eye blinking-based method for detecting driver
+  drowsiness}.{\BBCQ}
+\newblock
+\APACjournalVolNumPages{Journal of medical engineering \&
+  technology}{38}{8}{416--419}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Mavely%
+, Judith%
+, Sahal%
+\BCBL {}\ \BBA {} Kuruvilla%
+}{%
+Mavely%
+\ \protect \BOthers {.}}{%
+{\protect \APACyear {2017}}%
+}]{%
+mavely2017eye}
+\APACinsertmetastar {%
+mavely2017eye}%
+\begin{APACrefauthors}%
+Mavely, A\BPBI G.%
+, Judith, J.%
+, Sahal, P.%
+\BCBL {}\ \BBA {} Kuruvilla, S\BPBI A.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2017}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {Eye gaze tracking based driver monitoring system} {Eye
+  gaze tracking based driver monitoring system}.{\BBCQ}
+\newblock
+\BIn{} \APACrefbtitle {Circuits and Systems (ICCS), 2017 IEEE International
+  Conference on} {Circuits and systems (iccs), 2017 ieee international
+  conference on}\ (\BPGS\ 364--367).
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Mazhar%
+, Shah%
+, Khan%
+\BCBL {}\ \BBA {} Tehami%
+}{%
+Mazhar%
+\ \protect \BOthers {.}}{%
+{\protect \APACyear {2015}}%
+}]{%
+mazhar2015real}
+\APACinsertmetastar {%
+mazhar2015real}%
+\begin{APACrefauthors}%
+Mazhar, O.%
+, Shah, T\BPBI A.%
+, Khan, M\BPBI A.%
+\BCBL {}\ \BBA {} Tehami, S.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2015}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {A real-time webcam based Eye Ball Tracking System using
+  MATLAB} {A real-time webcam based eye ball tracking system using
+  matlab}.{\BBCQ}
+\newblock
+\BIn{} \APACrefbtitle {Design and Technology in Electronic Packaging (SIITME),
+  2015 IEEE 21st International Symposium for} {Design and technology in
+  electronic packaging (siitme), 2015 ieee 21st international symposium for}\
+  (\BPGS\ 139--142).
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Nakano%
+, Kato%
+, Morito%
+, Itoi%
+\BCBL {}\ \BBA {} Kitazawa%
+}{%
+Nakano%
+\ \protect \BOthers {.}}{%
+{\protect \APACyear {2013}}%
+}]{%
+nakano2013blink}
+\APACinsertmetastar {%
+nakano2013blink}%
+\begin{APACrefauthors}%
+Nakano, T.%
+, Kato, M.%
+, Morito, Y.%
+, Itoi, S.%
+\BCBL {}\ \BBA {} Kitazawa, S.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2013}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {Blink-related momentary activation of the default mode
+  network while viewing videos} {Blink-related momentary activation of the
+  default mode network while viewing videos}.{\BBCQ}
+\newblock
+\APACjournalVolNumPages{Proceedings of the National Academy of
+  Sciences}{110}{2}{702--706}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Nguyen%
+}{%
+Nguyen%
+}{%
+{\protect \APACyear {2009}}%
+}]{%
+nguyen2009eye}
+\APACinsertmetastar {%
+nguyen2009eye}%
+\begin{APACrefauthors}%
+Nguyen, B\BPBI L.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2009}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {Eye gaze tracking} {Eye gaze tracking}.{\BBCQ}
+\newblock
+\BIn{} \APACrefbtitle {Computing and Communication Technologies, 2009. RIVF'09.
+  International Conference on} {Computing and communication technologies, 2009.
+  rivf'09. international conference on}\ (\BPGS\ 1--4).
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+P{\u{a}}s{\u{a}}ric{\u{a}}%
+, Bozomitu%
+, Cehan%
+, Lupu%
+\BCBL {}\ \BBA {} Rotariu%
+}{%
+P{\u{a}}s{\u{a}}ric{\u{a}}%
+\ \protect \BOthers {.}}{%
+{\protect \APACyear {2015}}%
+}]{%
+puasuaricua2015pupil}
+\APACinsertmetastar {%
+puasuaricua2015pupil}%
+\begin{APACrefauthors}%
+P{\u{a}}s{\u{a}}ric{\u{a}}, A.%
+, Bozomitu, R.%
+, Cehan, V.%
+, Lupu, R.%
+\BCBL {}\ \BBA {} Rotariu, C.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2015}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {Pupil detection algorithms for eye tracking
+  applications} {Pupil detection algorithms for eye tracking
+  applications}.{\BBCQ}
+\newblock
+\BIn{} \APACrefbtitle {Design and Technology in Electronic Packaging (SIITME),
+  2015 IEEE 21st International Symposium for} {Design and technology in
+  electronic packaging (siitme), 2015 ieee 21st international symposium for}\
+  (\BPGS\ 161--164).
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Punde%
+, Jadhav%
+\BCBL {}\ \BBA {} Manza%
+}{%
+Punde%
+\ \protect \BOthers {.}}{%
+{\protect \APACyear {2017}}%
+}]{%
+punde2017study}
+\APACinsertmetastar {%
+punde2017study}%
+\begin{APACrefauthors}%
+Punde, P\BPBI A.%
+, Jadhav, M\BPBI E.%
+\BCBL {}\ \BBA {} Manza, R\BPBI R.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2017}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {A study of eye tracking technology and its applications}
+  {A study of eye tracking technology and its applications}.{\BBCQ}
+\newblock
+\BIn{} \APACrefbtitle {2017 1st International Conference on Intelligent Systems
+  and Information Management (ICISIM)} {2017 1st international conference on
+  intelligent systems and information management (icisim)}\ (\BPGS\ 86--90).
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Schiffman%
+}{%
+Schiffman%
+}{%
+{\protect \APACyear {1990}}%
+}]{%
+schiffman1990sensation}
+\APACinsertmetastar {%
+schiffman1990sensation}%
+\begin{APACrefauthors}%
+Schiffman, H\BPBI R.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYear{1990}.
+\newblock
+\APACrefbtitle {Sensation and perception: An integrated approach} {Sensation
+  and perception: An integrated approach}.
+\newblock
+\APACaddressPublisher{}{Oxford, England: John Wiley \& Sons}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Singh%
+, Bhatia%
+\BCBL {}\ \BBA {} Kaur%
+}{%
+Singh%
+\ \protect \BOthers {.}}{%
+{\protect \APACyear {2011}}%
+}]{%
+singh2011eye}
+\APACinsertmetastar {%
+singh2011eye}%
+\begin{APACrefauthors}%
+Singh, H.%
+, Bhatia, J\BPBI S.%
+\BCBL {}\ \BBA {} Kaur, J.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2011}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {Eye tracking based driver fatigue monitoring and warning
+  system} {Eye tracking based driver fatigue monitoring and warning
+  system}.{\BBCQ}
+\newblock
+\BIn{} \APACrefbtitle {Power Electronics (IICPE), 2010 India International
+  Conference on} {Power electronics (iicpe), 2010 india international
+  conference on}\ (\BPGS\ 1--6).
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Tamayo%
+}{%
+Tamayo%
+}{%
+{\protect \APACyear {2009}}%
+}]{%
+tamayo2009occurrence}
+\APACinsertmetastar {%
+tamayo2009occurrence}%
+\begin{APACrefauthors}%
+Tamayo, A.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2009}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {Occurrence of Traffic Accidents in the Philippines: An
+  Application of Poisson Regression Analysis} {Occurrence of traffic accidents
+  in the philippines: An application of poisson regression analysis}.{\BBCQ}
+\newblock
+
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Vargas-Cuentas%
+\ \BBA {} Roman-Gonzalez%
+}{%
+Vargas-Cuentas%
+\ \BBA {} Roman-Gonzalez%
+}{%
+{\protect \APACyear {2017}}%
+}]{%
+vargas2017facial}
+\APACinsertmetastar {%
+vargas2017facial}%
+\begin{APACrefauthors}%
+Vargas-Cuentas, N\BPBI I.%
+\BCBT {}\ \BBA {} Roman-Gonzalez, A.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2017}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {Facial image processing for sleepiness estimation}
+  {Facial image processing for sleepiness estimation}.{\BBCQ}
+\newblock
+\BIn{} \APACrefbtitle {Bio-engineering for Smart Technologies (BioSMART), 2017
+  2nd International Conference on} {Bio-engineering for smart technologies
+  (biosmart), 2017 2nd international conference on}\ (\BPGS\ 1--3).
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Venugopal%
+\ \BBA {} D’souza%
+}{%
+Venugopal%
+\ \BBA {} D’souza%
+}{%
+{\protect \APACyear {{\protect \bibnodate {}}}}%
+}]{%
+venugopalreal}
+\APACinsertmetastar {%
+venugopalreal}%
+\begin{APACrefauthors}%
+Venugopal, B.%
+\BCBT {}\ \BBA {} D’souza, D.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{{\protect \bibnodate {}}}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {Real Time Implementation of Eye Tracking System Using
+  Arduino Uno Based Hardware Interface} {Real time implementation of eye
+  tracking system using arduino uno based hardware interface}.{\BBCQ}
+\newblock
+
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Verwey%
+\ \BBA {} Zaidel%
+}{%
+Verwey%
+\ \BBA {} Zaidel%
+}{%
+{\protect \APACyear {2000}}%
+}]{%
+verwey2000predicting}
+\APACinsertmetastar {%
+verwey2000predicting}%
+\begin{APACrefauthors}%
+Verwey, W\BPBI B.%
+\BCBT {}\ \BBA {} Zaidel, D\BPBI M.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2000}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {Predicting drowsiness accidents from personal
+  attributes, eye blinks and ongoing driving behaviour} {Predicting drowsiness
+  accidents from personal attributes, eye blinks and ongoing driving
+  behaviour}.{\BBCQ}
+\newblock
+\APACjournalVolNumPages{Personality and individual
+  differences}{28}{1}{123--142}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Xiong%
+, Liu%
+, Cai%
+\BCBL {}\ \BBA {} Zhang%
+}{%
+Xiong%
+\ \protect \BOthers {.}}{%
+{\protect \APACyear {2014}}%
+}]{%
+xiong2014eye}
+\APACinsertmetastar {%
+xiong2014eye}%
+\begin{APACrefauthors}%
+Xiong, X.%
+, Liu, Z.%
+, Cai, Q.%
+\BCBL {}\ \BBA {} Zhang, Z.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2014}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {Eye gaze tracking using an RGBD camera: a comparison
+  with a RGB solution} {Eye gaze tracking using an rgbd camera: a comparison
+  with a rgb solution}.{\BBCQ}
+\newblock
+\BIn{} \APACrefbtitle {Proceedings of the 2014 ACM International Joint
+  Conference on Pervasive and Ubiquitous Computing: Adjunct Publication}
+  {Proceedings of the 2014 acm international joint conference on pervasive and
+  ubiquitous computing: Adjunct publication}\ (\BPGS\ 1113--1121).
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+L.~Zhang%
+, Liu%
+\BCBL {}\ \BBA {} Tang%
+}{%
+L.~Zhang%
+\ \protect \BOthers {.}}{%
+{\protect \APACyear {2015}}%
+}]{%
+zhang2015real}
+\APACinsertmetastar {%
+zhang2015real}%
+\begin{APACrefauthors}%
+Zhang, L.%
+, Liu, F.%
+\BCBL {}\ \BBA {} Tang, J.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2015}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {Real-time system for driver fatigue detection by RGB-D
+  camera} {Real-time system for driver fatigue detection by rgb-d
+  camera}.{\BBCQ}
+\newblock
+\APACjournalVolNumPages{ACM Transactions on Intelligent Systems and Technology
+  (TIST)}{6}{2}{22}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Y.~Zhang%
+, Xin%
+\BCBL {}\ \BBA {} Miao%
+}{%
+Y.~Zhang%
+\ \protect \BOthers {.}}{%
+{\protect \APACyear {2015}}%
+}]{%
+zhang2015personality}
+\APACinsertmetastar {%
+zhang2015personality}%
+\begin{APACrefauthors}%
+Zhang, Y.%
+, Xin, W.%
+\BCBL {}\ \BBA {} Miao, D.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2015}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {Personality test based on eye tracking techniques}
+  {Personality test based on eye tracking techniques}.{\BBCQ}
+\newblock
+\BIn{} \APACrefbtitle {Affective Computing and Intelligent Interaction (ACII),
+  2015 International Conference on} {Affective computing and intelligent
+  interaction (acii), 2015 international conference on}\ (\BPGS\ 832--837).
+\PrintBackRefs{\CurrentBib}
+
+>>>>>>> 65a662c336eb85f671f6d88762e7997c10dc4867
 \end{thebibliography}
